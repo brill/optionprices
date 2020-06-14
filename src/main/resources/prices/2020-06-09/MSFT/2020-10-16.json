@@ -1,0 +1,1616 @@
+{
+    "chain": [
+        {
+            "option": {
+                "id": "opt_7E45El",
+                "code": "MSFT201016C00260000",
+                "ticker": "MSFT",
+                "expiration": "2020-10-16",
+                "strike": "260.0",
+                "type": "call"
+            },
+            "price": {
+                "date": "2020-06-09",
+                "close": "0.38",
+                "close_bid": "0.36",
+                "close_ask": "0.4",
+                "volume": 371,
+                "volume_bid": 116,
+                "volume_ask": 210,
+                "trades": 74,
+                "open_interest": 2385,
+                "open_interest_change": 44,
+                "next_day_open_interest": 0,
+                "implied_volatility": "0.281507",
+                "implied_volatility_change": "0.009743",
+                "delta": "0.032002"
+            }
+        },
+        {
+            "option": {
+                "id": "opt_DN4WND",
+                "code": "MSFT201016C00250000",
+                "ticker": "MSFT",
+                "expiration": "2020-10-16",
+                "strike": "250.0",
+                "type": "call"
+            },
+            "price": {
+                "date": "2020-06-09",
+                "close": "0.565",
+                "close_bid": "0.51",
+                "close_ask": "0.62",
+                "volume": 61,
+                "volume_bid": 44,
+                "volume_ask": 2,
+                "trades": 11,
+                "open_interest": 717,
+                "open_interest_change": 31,
+                "next_day_open_interest": 0,
+                "implied_volatility": "0.270527",
+                "implied_volatility_change": "0.005075",
+                "delta": "0.046888"
+            }
+        },
+        {
+            "option": {
+                "id": "opt_B34vRw",
+                "code": "MSFT201016C00240000",
+                "ticker": "MSFT",
+                "expiration": "2020-10-16",
+                "strike": "240.0",
+                "type": "call"
+            },
+            "price": {
+                "date": "2020-06-09",
+                "close": "0.895",
+                "close_bid": "0.79",
+                "close_ask": "1.0",
+                "volume": 54,
+                "volume_bid": 24,
+                "volume_ask": 19,
+                "trades": 17,
+                "open_interest": 912,
+                "open_interest_change": 28,
+                "next_day_open_interest": 0,
+                "implied_volatility": "0.263461",
+                "implied_volatility_change": "0.010396",
+                "delta": "0.071546"
+            }
+        },
+        {
+            "option": {
+                "id": "opt_4W4dY9",
+                "code": "MSFT201016C00230000",
+                "ticker": "MSFT",
+                "expiration": "2020-10-16",
+                "strike": "230.0",
+                "type": "call"
+            },
+            "price": {
+                "date": "2020-06-09",
+                "close": "1.365",
+                "close_bid": "1.1",
+                "close_ask": "1.63",
+                "volume": 2145,
+                "volume_bid": 1030,
+                "volume_ask": 948,
+                "trades": 85,
+                "open_interest": 2157,
+                "open_interest_change": -2,
+                "next_day_open_interest": 0,
+                "implied_volatility": "0.249858",
+                "implied_volatility_change": "0.001227",
+                "delta": "0.10628"
+            }
+        },
+        {
+            "option": {
+                "id": "opt_W3xw36",
+                "code": "MSFT201016C00220000",
+                "ticker": "MSFT",
+                "expiration": "2020-10-16",
+                "strike": "220.0",
+                "type": "call"
+            },
+            "price": {
+                "date": "2020-06-09",
+                "close": "2.715",
+                "close_bid": "2.57",
+                "close_ask": "2.86",
+                "volume": 148,
+                "volume_bid": 31,
+                "volume_ask": 93,
+                "trades": 37,
+                "open_interest": 1225,
+                "open_interest_change": 19,
+                "next_day_open_interest": 0,
+                "implied_volatility": "0.25865",
+                "implied_volatility_change": "0.00684",
+                "delta": "0.182377"
+            }
+        },
+        {
+            "option": {
+                "id": "opt_OJPkJG",
+                "code": "MSFT201016C00210000",
+                "ticker": "MSFT",
+                "expiration": "2020-10-16",
+                "strike": "210.0",
+                "type": "call"
+            },
+            "price": {
+                "date": "2020-06-09",
+                "close": "4.875",
+                "close_bid": "4.7",
+                "close_ask": "5.05",
+                "volume": 350,
+                "volume_bid": 119,
+                "volume_ask": 45,
+                "trades": 60,
+                "open_interest": 2029,
+                "open_interest_change": -25,
+                "next_day_open_interest": 0,
+                "implied_volatility": "0.26765",
+                "implied_volatility_change": "0.009655",
+                "delta": "0.282151"
+            }
+        },
+        {
+            "option": {
+                "id": "opt_LELGEd",
+                "code": "MSFT201016C00200000",
+                "ticker": "MSFT",
+                "expiration": "2020-10-16",
+                "strike": "200.0",
+                "type": "call"
+            },
+            "price": {
+                "date": "2020-06-09",
+                "close": "8.05",
+                "close_bid": "7.65",
+                "close_ask": "8.45",
+                "volume": 343,
+                "volume_bid": 65,
+                "volume_ask": 107,
+                "trades": 79,
+                "open_interest": 6182,
+                "open_interest_change": 103,
+                "next_day_open_interest": 0,
+                "implied_volatility": "0.277231",
+                "implied_volatility_change": "0.010255",
+                "delta": "0.400446"
+            }
+        },
+        {
+            "option": {
+                "id": "opt_eqDWqE",
+                "code": "MSFT201016C00195000",
+                "ticker": "MSFT",
+                "expiration": "2020-10-16",
+                "strike": "195.0",
+                "type": "call"
+            },
+            "price": {
+                "date": "2020-06-09",
+                "close": "10.275",
+                "close_bid": "9.85",
+                "close_ask": "10.7",
+                "volume": 90,
+                "volume_bid": 31,
+                "volume_ask": 43,
+                "trades": 44,
+                "open_interest": 1323,
+                "open_interest_change": 34,
+                "next_day_open_interest": 0,
+                "implied_volatility": "0.282522",
+                "implied_volatility_change": "0.01188",
+                "delta": "0.464882"
+            }
+        },
+        {
+            "option": {
+                "id": "opt_QGOlGD",
+                "code": "MSFT201016C00190000",
+                "ticker": "MSFT",
+                "expiration": "2020-10-16",
+                "strike": "190.0",
+                "type": "call"
+            },
+            "price": {
+                "date": "2020-06-09",
+                "close": "12.575",
+                "close_bid": "12.1",
+                "close_ask": "13.05",
+                "volume": 316,
+                "volume_bid": 90,
+                "volume_ask": 107,
+                "trades": 101,
+                "open_interest": 3621,
+                "open_interest_change": 32,
+                "next_day_open_interest": 0,
+                "implied_volatility": "0.289644",
+                "implied_volatility_change": "0.010333",
+                "delta": "0.527172"
+            }
+        },
+        {
+            "option": {
+                "id": "opt_0VRlVN",
+                "code": "MSFT201016C00185000",
+                "ticker": "MSFT",
+                "expiration": "2020-10-16",
+                "strike": "185.0",
+                "type": "call"
+            },
+            "price": {
+                "date": "2020-06-09",
+                "close": "15.45",
+                "close_bid": "14.95",
+                "close_ask": "15.95",
+                "volume": 163,
+                "volume_bid": 21,
+                "volume_ask": 88,
+                "trades": 57,
+                "open_interest": 2517,
+                "open_interest_change": -2,
+                "next_day_open_interest": 0,
+                "implied_volatility": "0.295887",
+                "implied_volatility_change": "0.008586",
+                "delta": "0.589763"
+            }
+        },
+        {
+            "option": {
+                "id": "opt_v4654v",
+                "code": "MSFT201016C00180000",
+                "ticker": "MSFT",
+                "expiration": "2020-10-16",
+                "strike": "180.0",
+                "type": "call"
+            },
+            "price": {
+                "date": "2020-06-09",
+                "close": "18.625",
+                "close_bid": "18.2",
+                "close_ask": "19.05",
+                "volume": 77,
+                "volume_bid": 10,
+                "volume_ask": 61,
+                "trades": 31,
+                "open_interest": 2520,
+                "open_interest_change": 6,
+                "next_day_open_interest": 0,
+                "implied_volatility": "0.306898",
+                "implied_volatility_change": "0.013384",
+                "delta": "0.647501"
+            }
+        },
+        {
+            "option": {
+                "id": "opt_9obaJB",
+                "code": "MSFT201016C00175000",
+                "ticker": "MSFT",
+                "expiration": "2020-10-16",
+                "strike": "175.0",
+                "type": "call"
+            },
+            "price": {
+                "date": "2020-06-09",
+                "close": "22.225",
+                "close_bid": "21.9",
+                "close_ask": "22.55",
+                "volume": 17,
+                "volume_bid": 15,
+                "volume_ask": 0,
+                "trades": 5,
+                "open_interest": 1740,
+                "open_interest_change": 6,
+                "next_day_open_interest": 0,
+                "implied_volatility": "0.323185",
+                "implied_volatility_change": "0.018983",
+                "delta": "0.698946"
+            }
+        },
+        {
+            "option": {
+                "id": "opt_2vdRvB",
+                "code": "MSFT201016C00170000",
+                "ticker": "MSFT",
+                "expiration": "2020-10-16",
+                "strike": "170.0",
+                "type": "call"
+            },
+            "price": {
+                "date": "2020-06-09",
+                "close": "25.525",
+                "close_bid": "24.8",
+                "close_ask": "26.25",
+                "volume": 17,
+                "volume_bid": 12,
+                "volume_ask": 2,
+                "trades": 7,
+                "open_interest": 1843,
+                "open_interest_change": 3,
+                "next_day_open_interest": 0,
+                "implied_volatility": "0.320527",
+                "implied_volatility_change": "0.009353",
+                "delta": "0.750871"
+            }
+        },
+        {
+            "option": {
+                "id": "opt_Al75la",
+                "code": "MSFT201016C00165000",
+                "ticker": "MSFT",
+                "expiration": "2020-10-16",
+                "strike": "165.0",
+                "type": "call"
+            },
+            "price": {
+                "date": "2020-06-09",
+                "close": "29.425",
+                "close_bid": "28.65",
+                "close_ask": "30.2",
+                "volume": 49,
+                "volume_bid": 25,
+                "volume_ask": 22,
+                "trades": 10,
+                "open_interest": 1349,
+                "open_interest_change": 27,
+                "next_day_open_interest": 0,
+                "implied_volatility": "0.334736",
+                "implied_volatility_change": "0.005869",
+                "delta": "0.792969"
+            }
+        },
+        {
+            "option": {
+                "id": "opt_mRrG7O",
+                "code": "MSFT201016C00160000",
+                "ticker": "MSFT",
+                "expiration": "2020-10-16",
+                "strike": "160.0",
+                "type": "call"
+            },
+            "price": {
+                "date": "2020-06-09",
+                "close": "33.575",
+                "close_bid": "32.55",
+                "close_ask": "34.6",
+                "volume": 28,
+                "volume_bid": 22,
+                "volume_ask": 4,
+                "trades": 10,
+                "open_interest": 1470,
+                "open_interest_change": 18,
+                "next_day_open_interest": 0,
+                "implied_volatility": "0.345978",
+                "implied_volatility_change": "0.013431",
+                "delta": "0.828896"
+            }
+        },
+        {
+            "option": {
+                "id": "opt_YNjZNV",
+                "code": "MSFT201016C00155000",
+                "ticker": "MSFT",
+                "expiration": "2020-10-16",
+                "strike": "155.0",
+                "type": "call"
+            },
+            "price": {
+                "date": "2020-06-09",
+                "close": "37.75",
+                "close_bid": "37.05",
+                "close_ask": "38.45",
+                "volume": 8,
+                "volume_bid": 4,
+                "volume_ask": 3,
+                "trades": 5,
+                "open_interest": 399,
+                "open_interest_change": 0,
+                "next_day_open_interest": 0,
+                "implied_volatility": "0.353185",
+                "implied_volatility_change": "0.010269",
+                "delta": "0.862137"
+            }
+        },
+        {
+            "option": {
+                "id": "opt_nNDp7R",
+                "code": "MSFT201016C00150000",
+                "ticker": "MSFT",
+                "expiration": "2020-10-16",
+                "strike": "150.0",
+                "type": "call"
+            },
+            "price": {
+                "date": "2020-06-09",
+                "close": "42.175",
+                "close_bid": "41.2",
+                "close_ask": "43.15",
+                "volume": 3,
+                "volume_bid": 2,
+                "volume_ask": 0,
+                "trades": 3,
+                "open_interest": 494,
+                "open_interest_change": 13,
+                "next_day_open_interest": 0,
+                "implied_volatility": "0.370419",
+                "implied_volatility_change": "0.013416",
+                "delta": "0.887721"
+            }
+        },
+        {
+            "option": {
+                "id": "opt_aE0VJ5",
+                "code": "MSFT201016C00145000",
+                "ticker": "MSFT",
+                "expiration": "2020-10-16",
+                "strike": "145.0",
+                "type": "call"
+            },
+            "price": {
+                "date": "2020-06-09",
+                "close": "46.9",
+                "close_bid": "45.6",
+                "close_ask": "48.2",
+                "volume": 1,
+                "volume_bid": 0,
+                "volume_ask": 0,
+                "trades": 1,
+                "open_interest": 137,
+                "open_interest_change": 0,
+                "next_day_open_interest": 0,
+                "implied_volatility": "0.394491",
+                "implied_volatility_change": null,
+                "delta": "0.90423"
+            }
+        },
+        {
+            "option": {
+                "id": "opt_PqEjqa",
+                "code": "MSFT201016C00140000",
+                "ticker": "MSFT",
+                "expiration": "2020-10-16",
+                "strike": "140.0",
+                "type": "call"
+            },
+            "price": {
+                "date": "2020-06-09",
+                "close": "51.325",
+                "close_bid": "50.15",
+                "close_ask": "52.5",
+                "volume": 3,
+                "volume_bid": 1,
+                "volume_ask": 0,
+                "trades": 3,
+                "open_interest": 133,
+                "open_interest_change": 0,
+                "next_day_open_interest": 0,
+                "implied_volatility": "0.394139",
+                "implied_volatility_change": null,
+                "delta": "0.9274"
+            }
+        },
+        {
+            "option": {
+                "id": "opt_oeDxee",
+                "code": "MSFT201016C00135000",
+                "ticker": "MSFT",
+                "expiration": "2020-10-16",
+                "strike": "135.0",
+                "type": "call"
+            },
+            "price": {
+                "date": "2020-06-09",
+                "close": "55.95",
+                "close_bid": "54.95",
+                "close_ask": "56.95",
+                "volume": 0,
+                "volume_bid": 0,
+                "volume_ask": 0,
+                "trades": 0,
+                "open_interest": 342,
+                "open_interest_change": 0,
+                "next_day_open_interest": 0,
+                "implied_volatility": "0.406834",
+                "implied_volatility_change": null,
+                "delta": "0.944099"
+            }
+        },
+        {
+            "option": {
+                "id": "opt_EV4YVW",
+                "code": "MSFT201016C00130000",
+                "ticker": "MSFT",
+                "expiration": "2020-10-16",
+                "strike": "130.0",
+                "type": "call"
+            },
+            "price": {
+                "date": "2020-06-09",
+                "close": "60.925",
+                "close_bid": "59.75",
+                "close_ask": "62.1",
+                "volume": 4,
+                "volume_bid": 0,
+                "volume_ask": 0,
+                "trades": 2,
+                "open_interest": 124,
+                "open_interest_change": 0,
+                "next_day_open_interest": 0,
+                "implied_volatility": "0.443008",
+                "implied_volatility_change": null,
+                "delta": "0.949084"
+            }
+        },
+        {
+            "option": {
+                "id": "opt_VlpKl2",
+                "code": "MSFT201016C00125000",
+                "ticker": "MSFT",
+                "expiration": "2020-10-16",
+                "strike": "125.0",
+                "type": "call"
+            },
+            "price": {
+                "date": "2020-06-09",
+                "close": "65.7",
+                "close_bid": "64.3",
+                "close_ask": "67.1",
+                "volume": 0,
+                "volume_bid": 0,
+                "volume_ask": 0,
+                "trades": 0,
+                "open_interest": 59,
+                "open_interest_change": 0,
+                "next_day_open_interest": 0,
+                "implied_volatility": "0.456973",
+                "implied_volatility_change": null,
+                "delta": "0.959477"
+            }
+        },
+        {
+            "option": {
+                "id": "opt_6P4wPa",
+                "code": "MSFT201016C00120000",
+                "ticker": "MSFT",
+                "expiration": "2020-10-16",
+                "strike": "120.0",
+                "type": "call"
+            },
+            "price": {
+                "date": "2020-06-09",
+                "close": "70.55",
+                "close_bid": "69.2",
+                "close_ask": "71.9",
+                "volume": 0,
+                "volume_bid": 0,
+                "volume_ask": 0,
+                "trades": 0,
+                "open_interest": 75,
+                "open_interest_change": 0,
+                "next_day_open_interest": 0,
+                "implied_volatility": "0.474104",
+                "implied_volatility_change": null,
+                "delta": "0.966902"
+            }
+        },
+        {
+            "option": {
+                "id": "opt_16N36V",
+                "code": "MSFT201016C00115000",
+                "ticker": "MSFT",
+                "expiration": "2020-10-16",
+                "strike": "115.0",
+                "type": "call"
+            },
+            "price": {
+                "date": "2020-06-09",
+                "close": "75.475",
+                "close_bid": "74.15",
+                "close_ask": "76.8",
+                "volume": 0,
+                "volume_bid": 0,
+                "volume_ask": 0,
+                "trades": 0,
+                "open_interest": 6,
+                "open_interest_change": 0,
+                "next_day_open_interest": 0,
+                "implied_volatility": "0.501506",
+                "implied_volatility_change": null,
+                "delta": "0.9715"
+            }
+        },
+        {
+            "option": {
+                "id": "opt_r4Dl4k",
+                "code": "MSFT201016C00110000",
+                "ticker": "MSFT",
+                "expiration": "2020-10-16",
+                "strike": "110.0",
+                "type": "call"
+            },
+            "price": {
+                "date": "2020-06-09",
+                "close": "80.4",
+                "close_bid": "79.15",
+                "close_ask": "81.65",
+                "volume": 0,
+                "volume_bid": 0,
+                "volume_ask": 0,
+                "trades": 0,
+                "open_interest": 39,
+                "open_interest_change": 0,
+                "next_day_open_interest": 0,
+                "implied_volatility": "0.529977",
+                "implied_volatility_change": "0.051099",
+                "delta": "0.975709"
+            }
+        },
+        {
+            "option": {
+                "id": "opt_5YbKYm",
+                "code": "MSFT201016C00105000",
+                "ticker": "MSFT",
+                "expiration": "2020-10-16",
+                "strike": "105.0",
+                "type": "call"
+            },
+            "price": {
+                "date": "2020-06-09",
+                "close": "85.3",
+                "close_bid": "84.15",
+                "close_ask": "86.45",
+                "volume": 0,
+                "volume_bid": 0,
+                "volume_ask": 0,
+                "trades": 0,
+                "open_interest": 5,
+                "open_interest_change": 0,
+                "next_day_open_interest": 0,
+                "implied_volatility": "0.556828",
+                "implied_volatility_change": null,
+                "delta": "0.980169"
+            }
+        },
+        {
+            "option": {
+                "id": "opt_MOWpO9",
+                "code": "MSFT201016C00100000",
+                "ticker": "MSFT",
+                "expiration": "2020-10-16",
+                "strike": "100.0",
+                "type": "call"
+            },
+            "price": {
+                "date": "2020-06-09",
+                "close": "90.25",
+                "close_bid": "89.1",
+                "close_ask": "91.4",
+                "volume": 1,
+                "volume_bid": 1,
+                "volume_ask": 0,
+                "trades": 1,
+                "open_interest": 124,
+                "open_interest_change": 0,
+                "next_day_open_interest": 0,
+                "implied_volatility": "0.591483",
+                "implied_volatility_change": null,
+                "delta": "0.982872"
+            }
+        },
+        {
+            "option": {
+                "id": "opt_bOD6ON",
+                "code": "MSFT201016C00095000",
+                "ticker": "MSFT",
+                "expiration": "2020-10-16",
+                "strike": "95.0",
+                "type": "call"
+            },
+            "price": {
+                "date": "2020-06-09",
+                "close": "95.175",
+                "close_bid": "94.1",
+                "close_ask": "96.25",
+                "volume": 0,
+                "volume_bid": 0,
+                "volume_ask": 0,
+                "trades": 0,
+                "open_interest": 0,
+                "open_interest_change": 0,
+                "next_day_open_interest": 0,
+                "implied_volatility": "0.611631",
+                "implied_volatility_change": null,
+                "delta": "0.986103"
+            }
+        },
+        {
+            "option": {
+                "id": "opt_v4GA6E",
+                "code": "MSFT201016C00090000",
+                "ticker": "MSFT",
+                "expiration": "2020-10-16",
+                "strike": "90.0",
+                "type": "call"
+            },
+            "price": {
+                "date": "2020-06-09",
+                "close": "100.125",
+                "close_bid": "99.25",
+                "close_ask": "101.0",
+                "volume": 0,
+                "volume_bid": 0,
+                "volume_ask": 0,
+                "trades": 0,
+                "open_interest": 5,
+                "open_interest_change": 0,
+                "next_day_open_interest": 0,
+                "implied_volatility": "0.637679",
+                "implied_volatility_change": null,
+                "delta": "0.98839"
+            }
+        },
+        {
+            "option": {
+                "id": "opt_VlWjp0",
+                "code": "MSFT201016C00085000",
+                "ticker": "MSFT",
+                "expiration": "2020-10-16",
+                "strike": "85.0",
+                "type": "call"
+            },
+            "price": {
+                "date": "2020-06-09",
+                "close": "105.1",
+                "close_bid": "104.2",
+                "close_ask": "106.0",
+                "volume": 0,
+                "volume_bid": 0,
+                "volume_ask": 0,
+                "trades": 0,
+                "open_interest": 1,
+                "open_interest_change": 0,
+                "next_day_open_interest": 0,
+                "implied_volatility": "0.673616",
+                "implied_volatility_change": null,
+                "delta": "0.989812"
+            }
+        },
+        {
+            "option": {
+                "id": "opt_6PZ14v",
+                "code": "MSFT201016C00080000",
+                "ticker": "MSFT",
+                "expiration": "2020-10-16",
+                "strike": "80.0",
+                "type": "call"
+            },
+            "price": {
+                "date": "2020-06-09",
+                "close": "110.075",
+                "close_bid": "109.1",
+                "close_ask": "111.05",
+                "volume": 0,
+                "volume_bid": 0,
+                "volume_ask": 0,
+                "trades": 0,
+                "open_interest": 5,
+                "open_interest_change": 0,
+                "next_day_open_interest": 0,
+                "implied_volatility": "0.711897",
+                "implied_volatility_change": null,
+                "delta": "0.991112"
+            }
+        },
+        {
+            "option": {
+                "id": "opt_QGOlOG",
+                "code": "MSFT201016P00260000",
+                "ticker": "MSFT",
+                "expiration": "2020-10-16",
+                "strike": "260.0",
+                "type": "put"
+            },
+            "price": {
+                "date": "2020-06-09",
+                "close": "70.575",
+                "close_bid": "69.6",
+                "close_ask": "71.55",
+                "volume": 0,
+                "volume_bid": 0,
+                "volume_ask": 0,
+                "trades": 0,
+                "open_interest": 0,
+                "open_interest_change": 0,
+                "next_day_open_interest": 0,
+                "implied_volatility": null,
+                "implied_volatility_change": null,
+                "delta": null
+            }
+        },
+        {
+            "option": {
+                "id": "opt_5YbKbO",
+                "code": "MSFT201016P00250000",
+                "ticker": "MSFT",
+                "expiration": "2020-10-16",
+                "strike": "250.0",
+                "type": "put"
+            },
+            "price": {
+                "date": "2020-06-09",
+                "close": "60.775",
+                "close_bid": "59.55",
+                "close_ask": "62.0",
+                "volume": 0,
+                "volume_bid": 0,
+                "volume_ask": 0,
+                "trades": 0,
+                "open_interest": 0,
+                "open_interest_change": 0,
+                "next_day_open_interest": 0,
+                "implied_volatility": "0.220975",
+                "implied_volatility_change": null,
+                "delta": "-0.982899"
+            }
+        },
+        {
+            "option": {
+                "id": "opt_eqDWDG",
+                "code": "MSFT201016P00240000",
+                "ticker": "MSFT",
+                "expiration": "2020-10-16",
+                "strike": "240.0",
+                "type": "put"
+            },
+            "price": {
+                "date": "2020-06-09",
+                "close": "51.35",
+                "close_bid": "50.3",
+                "close_ask": "52.4",
+                "volume": 0,
+                "volume_bid": 0,
+                "volume_ask": 0,
+                "trades": 0,
+                "open_interest": 0,
+                "open_interest_change": 0,
+                "next_day_open_interest": 0,
+                "implied_volatility": "0.251458",
+                "implied_volatility_change": null,
+                "delta": "-0.938031"
+            }
+        },
+        {
+            "option": {
+                "id": "opt_0VRlRR",
+                "code": "MSFT201016P00230000",
+                "ticker": "MSFT",
+                "expiration": "2020-10-16",
+                "strike": "230.0",
+                "type": "put"
+            },
+            "price": {
+                "date": "2020-06-09",
+                "close": "42.225",
+                "close_bid": "41.25",
+                "close_ask": "43.2",
+                "volume": 0,
+                "volume_bid": 0,
+                "volume_ask": 0,
+                "trades": 0,
+                "open_interest": 2,
+                "open_interest_change": 0,
+                "next_day_open_interest": 0,
+                "implied_volatility": "0.261461",
+                "implied_volatility_change": null,
+                "delta": "-0.882609"
+            }
+        },
+        {
+            "option": {
+                "id": "opt_klDJDP",
+                "code": "MSFT201016P00220000",
+                "ticker": "MSFT",
+                "expiration": "2020-10-16",
+                "strike": "220.0",
+                "type": "put"
+            },
+            "price": {
+                "date": "2020-06-09",
+                "close": "33.275",
+                "close_bid": "32.6",
+                "close_ask": "33.95",
+                "volume": 19,
+                "volume_bid": 0,
+                "volume_ask": 18,
+                "trades": 9,
+                "open_interest": 93,
+                "open_interest_change": 0,
+                "next_day_open_interest": 0,
+                "implied_volatility": "0.25728",
+                "implied_volatility_change": null,
+                "delta": "-0.820032"
+            }
+        },
+        {
+            "option": {
+                "id": "opt_3LMNM4",
+                "code": "MSFT201016P00210000",
+                "ticker": "MSFT",
+                "expiration": "2020-10-16",
+                "strike": "210.0",
+                "type": "put"
+            },
+            "price": {
+                "date": "2020-06-09",
+                "close": "25.075",
+                "close_bid": "24.45",
+                "close_ask": "25.7",
+                "volume": 2,
+                "volume_bid": 2,
+                "volume_ask": 0,
+                "trades": 1,
+                "open_interest": 80,
+                "open_interest_change": 0,
+                "next_day_open_interest": 0,
+                "implied_volatility": "0.257803",
+                "implied_volatility_change": null,
+                "delta": "-0.72874"
+            }
+        },
+        {
+            "option": {
+                "id": "opt_l3DqDl",
+                "code": "MSFT201016P00200000",
+                "ticker": "MSFT",
+                "expiration": "2020-10-16",
+                "strike": "200.0",
+                "type": "put"
+            },
+            "price": {
+                "date": "2020-06-09",
+                "close": "18.425",
+                "close_bid": "17.9",
+                "close_ask": "18.95",
+                "volume": 17,
+                "volume_bid": 11,
+                "volume_ask": 5,
+                "trades": 5,
+                "open_interest": 239,
+                "open_interest_change": 14,
+                "next_day_open_interest": 0,
+                "implied_volatility": "0.272325",
+                "implied_volatility_change": "0.016994",
+                "delta": "-0.603575"
+            }
+        },
+        {
+            "option": {
+                "id": "opt_PqEjEn",
+                "code": "MSFT201016P00195000",
+                "ticker": "MSFT",
+                "expiration": "2020-10-16",
+                "strike": "195.0",
+                "type": "put"
+            },
+            "price": {
+                "date": "2020-06-09",
+                "close": "15.725",
+                "close_bid": "15.25",
+                "close_ask": "16.2",
+                "volume": 96,
+                "volume_bid": 2,
+                "volume_ask": 94,
+                "trades": 13,
+                "open_interest": 464,
+                "open_interest_change": 0,
+                "next_day_open_interest": 0,
+                "implied_volatility": "0.279284",
+                "implied_volatility_change": null,
+                "delta": "-0.537568"
+            }
+        },
+        {
+            "option": {
+                "id": "opt_6P4w4N",
+                "code": "MSFT201016P00190000",
+                "ticker": "MSFT",
+                "expiration": "2020-10-16",
+                "strike": "190.0",
+                "type": "put"
+            },
+            "price": {
+                "date": "2020-06-09",
+                "close": "12.9",
+                "close_bid": "12.35",
+                "close_ask": "13.45",
+                "volume": 159,
+                "volume_bid": 29,
+                "volume_ask": 89,
+                "trades": 53,
+                "open_interest": 882,
+                "open_interest_change": 29,
+                "next_day_open_interest": 0,
+                "implied_volatility": "0.283554",
+                "implied_volatility_change": "0.008595",
+                "delta": "-0.475264"
+            }
+        },
+        {
+            "option": {
+                "id": "opt_YNjZj4",
+                "code": "MSFT201016P00185000",
+                "ticker": "MSFT",
+                "expiration": "2020-10-16",
+                "strike": "185.0",
+                "type": "put"
+            },
+            "price": {
+                "date": "2020-06-09",
+                "close": "10.675",
+                "close_bid": "10.3",
+                "close_ask": "11.05",
+                "volume": 227,
+                "volume_bid": 2,
+                "volume_ask": 218,
+                "trades": 39,
+                "open_interest": 3524,
+                "open_interest_change": 85,
+                "next_day_open_interest": 0,
+                "implied_volatility": "0.287658",
+                "implied_volatility_change": "0.003172",
+                "delta": "-0.411805"
+            }
+        },
+        {
+            "option": {
+                "id": "opt_W3xwx0",
+                "code": "MSFT201016P00180000",
+                "ticker": "MSFT",
+                "expiration": "2020-10-16",
+                "strike": "180.0",
+                "type": "put"
+            },
+            "price": {
+                "date": "2020-06-09",
+                "close": "9.125",
+                "close_bid": "8.75",
+                "close_ask": "9.5",
+                "volume": 14,
+                "volume_bid": 0,
+                "volume_ask": 7,
+                "trades": 9,
+                "open_interest": 1207,
+                "open_interest_change": 53,
+                "next_day_open_interest": 0,
+                "implied_volatility": "0.305127",
+                "implied_volatility_change": "0.013599",
+                "delta": "-0.354712"
+            }
+        },
+        {
+            "option": {
+                "id": "opt_v4656K",
+                "code": "MSFT201016P00175000",
+                "ticker": "MSFT",
+                "expiration": "2020-10-16",
+                "strike": "175.0",
+                "type": "put"
+            },
+            "price": {
+                "date": "2020-06-09",
+                "close": "7.275",
+                "close_bid": "6.8",
+                "close_ask": "7.75",
+                "volume": 54,
+                "volume_bid": 51,
+                "volume_ask": 0,
+                "trades": 10,
+                "open_interest": 1008,
+                "open_interest_change": 1,
+                "next_day_open_interest": 0,
+                "implied_volatility": "0.309211",
+                "implied_volatility_change": "0.006561",
+                "delta": "-0.299244"
+            }
+        },
+        {
+            "option": {
+                "id": "opt_16N3Nv",
+                "code": "MSFT201016P00170000",
+                "ticker": "MSFT",
+                "expiration": "2020-10-16",
+                "strike": "170.0",
+                "type": "put"
+            },
+            "price": {
+                "date": "2020-06-09",
+                "close": "6.075",
+                "close_bid": "5.95",
+                "close_ask": "6.2",
+                "volume": 50,
+                "volume_bid": 23,
+                "volume_ask": 24,
+                "trades": 17,
+                "open_interest": 1734,
+                "open_interest_change": 25,
+                "next_day_open_interest": 0,
+                "implied_volatility": "0.320667",
+                "implied_volatility_change": "0.012698",
+                "delta": "-0.253131"
+            }
+        },
+        {
+            "option": {
+                "id": "opt_bOD6DZ",
+                "code": "MSFT201016P00165000",
+                "ticker": "MSFT",
+                "expiration": "2020-10-16",
+                "strike": "165.0",
+                "type": "put"
+            },
+            "price": {
+                "date": "2020-06-09",
+                "close": "5.0",
+                "close_bid": "4.9",
+                "close_ask": "5.1",
+                "volume": 13,
+                "volume_bid": 1,
+                "volume_ask": 0,
+                "trades": 4,
+                "open_interest": 1488,
+                "open_interest_change": 174,
+                "next_day_open_interest": 0,
+                "implied_volatility": "0.335902",
+                "implied_volatility_change": "0.017053",
+                "delta": "-0.212132"
+            }
+        },
+        {
+            "option": {
+                "id": "opt_r4DlD8",
+                "code": "MSFT201016P00160000",
+                "ticker": "MSFT",
+                "expiration": "2020-10-16",
+                "strike": "160.0",
+                "type": "put"
+            },
+            "price": {
+                "date": "2020-06-09",
+                "close": "4.05",
+                "close_bid": "3.95",
+                "close_ask": "4.15",
+                "volume": 155,
+                "volume_bid": 124,
+                "volume_ask": 25,
+                "trades": 24,
+                "open_interest": 2285,
+                "open_interest_change": -118,
+                "next_day_open_interest": 0,
+                "implied_volatility": "0.344614",
+                "implied_volatility_change": "0.013616",
+                "delta": "-0.175206"
+            }
+        },
+        {
+            "option": {
+                "id": "opt_p4DkD9",
+                "code": "MSFT201016P00155000",
+                "ticker": "MSFT",
+                "expiration": "2020-10-16",
+                "strike": "155.0",
+                "type": "put"
+            },
+            "price": {
+                "date": "2020-06-09",
+                "close": "3.275",
+                "close_bid": "3.2",
+                "close_ask": "3.35",
+                "volume": 10,
+                "volume_bid": 4,
+                "volume_ask": 4,
+                "trades": 8,
+                "open_interest": 2525,
+                "open_interest_change": 124,
+                "next_day_open_interest": 0,
+                "implied_volatility": "0.354618",
+                "implied_volatility_change": "0.017111",
+                "delta": "-0.143996"
+            }
+        },
+        {
+            "option": {
+                "id": "opt_7E4546",
+                "code": "MSFT201016P00150000",
+                "ticker": "MSFT",
+                "expiration": "2020-10-16",
+                "strike": "150.0",
+                "type": "put"
+            },
+            "price": {
+                "date": "2020-06-09",
+                "close": "2.645",
+                "close_bid": "2.57",
+                "close_ask": "2.72",
+                "volume": 4355,
+                "volume_bid": 1104,
+                "volume_ask": 2800,
+                "trades": 266,
+                "open_interest": 4501,
+                "open_interest_change": -1,
+                "next_day_open_interest": 0,
+                "implied_volatility": "0.37045",
+                "implied_volatility_change": "0.014793",
+                "delta": "-0.11783"
+            }
+        },
+        {
+            "option": {
+                "id": "opt_MOWpWM",
+                "code": "MSFT201016P00145000",
+                "ticker": "MSFT",
+                "expiration": "2020-10-16",
+                "strike": "145.0",
+                "type": "put"
+            },
+            "price": {
+                "date": "2020-06-09",
+                "close": "2.145",
+                "close_bid": "2.08",
+                "close_ask": "2.21",
+                "volume": 153,
+                "volume_bid": 128,
+                "volume_ask": 15,
+                "trades": 17,
+                "open_interest": 3586,
+                "open_interest_change": 2,
+                "next_day_open_interest": 0,
+                "implied_volatility": "0.381876",
+                "implied_volatility_change": "0.014951",
+                "delta": "-0.095881"
+            }
+        },
+        {
+            "option": {
+                "id": "opt_q1DjDQ",
+                "code": "MSFT201016P00140000",
+                "ticker": "MSFT",
+                "expiration": "2020-10-16",
+                "strike": "140.0",
+                "type": "put"
+            },
+            "price": {
+                "date": "2020-06-09",
+                "close": "1.78",
+                "close_bid": "1.65",
+                "close_ask": "1.91",
+                "volume": 15,
+                "volume_bid": 15,
+                "volume_ask": 0,
+                "trades": 3,
+                "open_interest": 2207,
+                "open_interest_change": -1,
+                "next_day_open_interest": 0,
+                "implied_volatility": "0.396196",
+                "implied_volatility_change": "0.021135",
+                "delta": "-0.079044"
+            }
+        },
+        {
+            "option": {
+                "id": "opt_x4LwLE",
+                "code": "MSFT201016P00135000",
+                "ticker": "MSFT",
+                "expiration": "2020-10-16",
+                "strike": "135.0",
+                "type": "put"
+            },
+            "price": {
+                "date": "2020-06-09",
+                "close": "1.405",
+                "close_bid": "1.33",
+                "close_ask": "1.48",
+                "volume": 3,
+                "volume_bid": 0,
+                "volume_ask": 0,
+                "trades": 1,
+                "open_interest": 1737,
+                "open_interest_change": -5,
+                "next_day_open_interest": 0,
+                "implied_volatility": "0.410454",
+                "implied_volatility_change": "0.019588",
+                "delta": "-0.063087"
+            }
+        },
+        {
+            "option": {
+                "id": "opt_Gv4E4V",
+                "code": "MSFT201016P00130000",
+                "ticker": "MSFT",
+                "expiration": "2020-10-16",
+                "strike": "130.0",
+                "type": "put"
+            },
+            "price": {
+                "date": "2020-06-09",
+                "close": "1.12",
+                "close_bid": "1.0",
+                "close_ask": "1.24",
+                "volume": 0,
+                "volume_bid": 0,
+                "volume_ask": 0,
+                "trades": 0,
+                "open_interest": 4575,
+                "open_interest_change": 8,
+                "next_day_open_interest": 0,
+                "implied_volatility": "0.427196",
+                "implied_volatility_change": "0.020574",
+                "delta": "-0.050282"
+            }
+        },
+        {
+            "option": {
+                "id": "opt_Rpo3oM",
+                "code": "MSFT201016P00125000",
+                "ticker": "MSFT",
+                "expiration": "2020-10-16",
+                "strike": "125.0",
+                "type": "put"
+            },
+            "price": {
+                "date": "2020-06-09",
+                "close": "0.92",
+                "close_bid": "0.82",
+                "close_ask": "1.02",
+                "volume": 0,
+                "volume_bid": 0,
+                "volume_ask": 0,
+                "trades": 0,
+                "open_interest": 1132,
+                "open_interest_change": -2,
+                "next_day_open_interest": 0,
+                "implied_volatility": "0.439891",
+                "implied_volatility_change": "0.022276",
+                "delta": "-0.040957"
+            }
+        },
+        {
+            "option": {
+                "id": "opt_JY6J6p",
+                "code": "MSFT201016P00120000",
+                "ticker": "MSFT",
+                "expiration": "2020-10-16",
+                "strike": "120.0",
+                "type": "put"
+            },
+            "price": {
+                "date": "2020-06-09",
+                "close": "0.685",
+                "close_bid": "0.65",
+                "close_ask": "0.72",
+                "volume": 168,
+                "volume_bid": 0,
+                "volume_ask": 150,
+                "trades": 7,
+                "open_interest": 2922,
+                "open_interest_change": 2,
+                "next_day_open_interest": 0,
+                "implied_volatility": "0.449228",
+                "implied_volatility_change": "0.010659",
+                "delta": "-0.031064"
+            }
+        },
+        {
+            "option": {
+                "id": "opt_OJPkPL",
+                "code": "MSFT201016P00115000",
+                "ticker": "MSFT",
+                "expiration": "2020-10-16",
+                "strike": "115.0",
+                "type": "put"
+            },
+            "price": {
+                "date": "2020-06-09",
+                "close": "0.585",
+                "close_bid": "0.5",
+                "close_ask": "0.67",
+                "volume": 10,
+                "volume_bid": 10,
+                "volume_ask": 0,
+                "trades": 1,
+                "open_interest": 252,
+                "open_interest_change": 0,
+                "next_day_open_interest": 0,
+                "implied_volatility": "0.474273",
+                "implied_volatility_change": null,
+                "delta": "-0.025846"
+            }
+        },
+        {
+            "option": {
+                "id": "opt_LELGLP",
+                "code": "MSFT201016P00110000",
+                "ticker": "MSFT",
+                "expiration": "2020-10-16",
+                "strike": "110.0",
+                "type": "put"
+            },
+            "price": {
+                "date": "2020-06-09",
+                "close": "0.465",
+                "close_bid": "0.38",
+                "close_ask": "0.55",
+                "volume": 0,
+                "volume_bid": 0,
+                "volume_ask": 0,
+                "trades": 0,
+                "open_interest": 559,
+                "open_interest_change": 5,
+                "next_day_open_interest": 0,
+                "implied_volatility": "0.493297",
+                "implied_volatility_change": "0.013217",
+                "delta": "-0.020378"
+            }
+        },
+        {
+            "option": {
+                "id": "opt_oeDxDx",
+                "code": "MSFT201016P00105000",
+                "ticker": "MSFT",
+                "expiration": "2020-10-16",
+                "strike": "105.0",
+                "type": "put"
+            },
+            "price": {
+                "date": "2020-06-09",
+                "close": "0.365",
+                "close_bid": "0.29",
+                "close_ask": "0.44",
+                "volume": 0,
+                "volume_bid": 0,
+                "volume_ask": 0,
+                "trades": 0,
+                "open_interest": 623,
+                "open_interest_change": 0,
+                "next_day_open_interest": 0,
+                "implied_volatility": "0.504834",
+                "implied_volatility_change": null,
+                "delta": "-0.015914"
+            }
+        },
+        {
+            "option": {
+                "id": "opt_EV4Y4n",
+                "code": "MSFT201016P00100000",
+                "ticker": "MSFT",
+                "expiration": "2020-10-16",
+                "strike": "100.0",
+                "type": "put"
+            },
+            "price": {
+                "date": "2020-06-09",
+                "close": "0.285",
+                "close_bid": "0.21",
+                "close_ask": "0.36",
+                "volume": 1,
+                "volume_bid": 0,
+                "volume_ask": 1,
+                "trades": 1,
+                "open_interest": 579,
+                "open_interest_change": 0,
+                "next_day_open_interest": 0,
+                "implied_volatility": "0.521979",
+                "implied_volatility_change": null,
+                "delta": "-0.012324"
+            }
+        },
+        {
+            "option": {
+                "id": "opt_VlpKpW",
+                "code": "MSFT201016P00095000",
+                "ticker": "MSFT",
+                "expiration": "2020-10-16",
+                "strike": "95.0",
+                "type": "put"
+            },
+            "price": {
+                "date": "2020-06-09",
+                "close": "0.225",
+                "close_bid": "0.15",
+                "close_ask": "0.3",
+                "volume": 0,
+                "volume_bid": 0,
+                "volume_ask": 0,
+                "trades": 0,
+                "open_interest": 284,
+                "open_interest_change": 0,
+                "next_day_open_interest": 0,
+                "implied_volatility": "0.545125",
+                "implied_volatility_change": null,
+                "delta": "-0.00962"
+            }
+        },
+        {
+            "option": {
+                "id": "opt_W3YlRq",
+                "code": "MSFT201016P00090000",
+                "ticker": "MSFT",
+                "expiration": "2020-10-16",
+                "strike": "90.0",
+                "type": "put"
+            },
+            "price": {
+                "date": "2020-06-09",
+                "close": "0.175",
+                "close_bid": "0.1",
+                "close_ask": "0.25",
+                "volume": 0,
+                "volume_bid": 0,
+                "volume_ask": 0,
+                "trades": 0,
+                "open_interest": 557,
+                "open_interest_change": 0,
+                "next_day_open_interest": 0,
+                "implied_volatility": "0.568506",
+                "implied_volatility_change": null,
+                "delta": "-0.007349"
+            }
+        },
+        {
+            "option": {
+                "id": "opt_LE3PO7",
+                "code": "MSFT201016P00085000",
+                "ticker": "MSFT",
+                "expiration": "2020-10-16",
+                "strike": "85.0",
+                "type": "put"
+            },
+            "price": {
+                "date": "2020-06-09",
+                "close": "0.135",
+                "close_bid": "0.06",
+                "close_ask": "0.21",
+                "volume": 2,
+                "volume_bid": 0,
+                "volume_ask": 2,
+                "trades": 2,
+                "open_interest": 43,
+                "open_interest_change": 0,
+                "next_day_open_interest": 0,
+                "implied_volatility": "0.582569",
+                "implied_volatility_change": null,
+                "delta": "-0.005616"
+            }
+        },
+        {
+            "option": {
+                "id": "opt_v4GAWE",
+                "code": "MSFT201016P00080000",
+                "ticker": "MSFT",
+                "expiration": "2020-10-16",
+                "strike": "80.0",
+                "type": "put"
+            },
+            "price": {
+                "date": "2020-06-09",
+                "close": "0.125",
+                "close_bid": "0.05",
+                "close_ask": "0.2",
+                "volume": 1,
+                "volume_bid": 1,
+                "volume_ask": 0,
+                "trades": 1,
+                "open_interest": 256,
+                "open_interest_change": 0,
+                "next_day_open_interest": 0,
+                "implied_volatility": "0.616944",
+                "implied_volatility_change": "0.018192",
+                "delta": "-0.004948"
+            }
+        }
+    ]
+}

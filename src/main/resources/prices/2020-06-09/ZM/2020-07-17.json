@@ -1,0 +1,1928 @@
+{
+    "chain": [
+        {
+            "option": {
+                "id": "opt_W3eW3Y",
+                "code": "ZM200717C00320000",
+                "ticker": "ZM",
+                "expiration": "2020-07-17",
+                "strike": "320.0",
+                "type": "call"
+            },
+            "price": {
+                "date": "2020-06-09",
+                "close": "0.55",
+                "close_bid": "0.4",
+                "close_ask": "0.7",
+                "volume": 4,
+                "volume_bid": 3,
+                "volume_ask": 1,
+                "trades": 3,
+                "open_interest": 70,
+                "open_interest_change": 52,
+                "next_day_open_interest": 0,
+                "implied_volatility": "0.701707",
+                "implied_volatility_change": "0.015491",
+                "delta": "0.032613"
+            }
+        },
+        {
+            "option": {
+                "id": "opt_v4mM46",
+                "code": "ZM200717C00310000",
+                "ticker": "ZM",
+                "expiration": "2020-07-17",
+                "strike": "310.0",
+                "type": "call"
+            },
+            "price": {
+                "date": "2020-06-09",
+                "close": "0.575",
+                "close_bid": "0.45",
+                "close_ask": "0.7",
+                "volume": 12,
+                "volume_bid": 3,
+                "volume_ask": 9,
+                "trades": 5,
+                "open_interest": 121,
+                "open_interest_change": 14,
+                "next_day_open_interest": 0,
+                "implied_volatility": "0.665949",
+                "implied_volatility_change": "-0.003926",
+                "delta": "0.035397"
+            }
+        },
+        {
+            "option": {
+                "id": "opt_2vV9Y7",
+                "code": "ZM200717C00300000",
+                "ticker": "ZM",
+                "expiration": "2020-07-17",
+                "strike": "300.0",
+                "type": "call"
+            },
+            "price": {
+                "date": "2020-06-09",
+                "close": "0.875",
+                "close_bid": "0.8",
+                "close_ask": "0.95",
+                "volume": 138,
+                "volume_bid": 108,
+                "volume_ask": 9,
+                "trades": 43,
+                "open_interest": 1339,
+                "open_interest_change": 49,
+                "next_day_open_interest": 0,
+                "implied_volatility": "0.671883",
+                "implied_volatility_change": "-0.006552",
+                "delta": "0.050744"
+            }
+        },
+        {
+            "option": {
+                "id": "opt_bOE1BQ",
+                "code": "ZM200717C00290000",
+                "ticker": "ZM",
+                "expiration": "2020-07-17",
+                "strike": "290.0",
+                "type": "call"
+            },
+            "price": {
+                "date": "2020-06-09",
+                "close": "1.275",
+                "close_bid": "1.2",
+                "close_ask": "1.35",
+                "volume": 4,
+                "volume_bid": 1,
+                "volume_ask": 1,
+                "trades": 4,
+                "open_interest": 385,
+                "open_interest_change": 0,
+                "next_day_open_interest": 0,
+                "implied_volatility": "0.674194",
+                "implied_volatility_change": "0.000959",
+                "delta": "0.070042"
+            }
+        },
+        {
+            "option": {
+                "id": "opt_dJoV5q",
+                "code": "ZM200717C00280000",
+                "ticker": "ZM",
+                "expiration": "2020-07-17",
+                "strike": "280.0",
+                "type": "call"
+            },
+            "price": {
+                "date": "2020-06-09",
+                "close": "1.7",
+                "close_bid": "1.45",
+                "close_ask": "1.95",
+                "volume": 16,
+                "volume_bid": 0,
+                "volume_ask": 5,
+                "trades": 12,
+                "open_interest": 169,
+                "open_interest_change": 11,
+                "next_day_open_interest": 0,
+                "implied_volatility": "0.664112",
+                "implied_volatility_change": "-0.008875",
+                "delta": "0.090547"
+            }
+        },
+        {
+            "option": {
+                "id": "opt_eqJ6BW",
+                "code": "ZM200717C00270000",
+                "ticker": "ZM",
+                "expiration": "2020-07-17",
+                "strike": "270.0",
+                "type": "call"
+            },
+            "price": {
+                "date": "2020-06-09",
+                "close": "2.525",
+                "close_bid": "2.35",
+                "close_ask": "2.7",
+                "volume": 41,
+                "volume_bid": 11,
+                "volume_ask": 3,
+                "trades": 25,
+                "open_interest": 601,
+                "open_interest_change": 16,
+                "next_day_open_interest": 0,
+                "implied_volatility": "0.672352",
+                "implied_volatility_change": "-0.000227",
+                "delta": "0.124923"
+            }
+        },
+        {
+            "option": {
+                "id": "opt_KPZAEa",
+                "code": "ZM200717C00260000",
+                "ticker": "ZM",
+                "expiration": "2020-07-17",
+                "strike": "260.0",
+                "type": "call"
+            },
+            "price": {
+                "date": "2020-06-09",
+                "close": "3.5",
+                "close_bid": "3.3",
+                "close_ask": "3.7",
+                "volume": 93,
+                "volume_bid": 42,
+                "volume_ask": 10,
+                "trades": 37,
+                "open_interest": 642,
+                "open_interest_change": 15,
+                "next_day_open_interest": 0,
+                "implied_volatility": "0.670628",
+                "implied_volatility_change": "-0.008342",
+                "delta": "0.163587"
+            }
+        },
+        {
+            "option": {
+                "id": "opt_PqeOrn",
+                "code": "ZM200717C00250000",
+                "ticker": "ZM",
+                "expiration": "2020-07-17",
+                "strike": "250.0",
+                "type": "call"
+            },
+            "price": {
+                "date": "2020-06-09",
+                "close": "4.9",
+                "close_bid": "4.7",
+                "close_ask": "5.1",
+                "volume": 244,
+                "volume_bid": 60,
+                "volume_ask": 64,
+                "trades": 103,
+                "open_interest": 1713,
+                "open_interest_change": 39,
+                "next_day_open_interest": 0,
+                "implied_volatility": "0.673415",
+                "implied_volatility_change": "-0.00544",
+                "delta": "0.213491"
+            }
+        },
+        {
+            "option": {
+                "id": "opt_JYGVEp",
+                "code": "ZM200717C00240000",
+                "ticker": "ZM",
+                "expiration": "2020-07-17",
+                "strike": "240.0",
+                "type": "call"
+            },
+            "price": {
+                "date": "2020-06-09",
+                "close": "6.8",
+                "close_bid": "6.6",
+                "close_ask": "7.0",
+                "volume": 137,
+                "volume_bid": 13,
+                "volume_ask": 78,
+                "trades": 72,
+                "open_interest": 697,
+                "open_interest_change": 25,
+                "next_day_open_interest": 0,
+                "implied_volatility": "0.678159",
+                "implied_volatility_change": "-0.002803",
+                "delta": "0.274011"
+            }
+        },
+        {
+            "option": {
+                "id": "opt_EVE5vn",
+                "code": "ZM200717C00230000",
+                "ticker": "ZM",
+                "expiration": "2020-07-17",
+                "strike": "230.0",
+                "type": "call"
+            },
+            "price": {
+                "date": "2020-06-09",
+                "close": "9.15",
+                "close_bid": "8.9",
+                "close_ask": "9.4",
+                "volume": 54,
+                "volume_bid": 5,
+                "volume_ask": 5,
+                "trades": 35,
+                "open_interest": 514,
+                "open_interest_change": 50,
+                "next_day_open_interest": 0,
+                "implied_volatility": "0.678091",
+                "implied_volatility_change": "-0.007964",
+                "delta": "0.342266"
+            }
+        },
+        {
+            "option": {
+                "id": "opt_6P9YNp",
+                "code": "ZM200717C00220000",
+                "ticker": "ZM",
+                "expiration": "2020-07-17",
+                "strike": "220.0",
+                "type": "call"
+            },
+            "price": {
+                "date": "2020-06-09",
+                "close": "12.2",
+                "close_bid": "12.0",
+                "close_ask": "12.4",
+                "volume": 152,
+                "volume_bid": 19,
+                "volume_ask": 81,
+                "trades": 59,
+                "open_interest": 850,
+                "open_interest_change": 39,
+                "next_day_open_interest": 0,
+                "implied_volatility": "0.679898",
+                "implied_volatility_change": "-0.011462",
+                "delta": "0.419959"
+            }
+        },
+        {
+            "option": {
+                "id": "opt_r45rY0",
+                "code": "ZM200717C00210000",
+                "ticker": "ZM",
+                "expiration": "2020-07-17",
+                "strike": "210.0",
+                "type": "call"
+            },
+            "price": {
+                "date": "2020-06-09",
+                "close": "16.25",
+                "close_bid": "16.0",
+                "close_ask": "16.5",
+                "volume": 247,
+                "volume_bid": 102,
+                "volume_ask": 81,
+                "trades": 121,
+                "open_interest": 1217,
+                "open_interest_change": 57,
+                "next_day_open_interest": 0,
+                "implied_volatility": "0.690826",
+                "implied_volatility_change": "-0.015749",
+                "delta": "0.505345"
+            }
+        },
+        {
+            "option": {
+                "id": "opt_bO75xn",
+                "code": "ZM200717C00200000",
+                "ticker": "ZM",
+                "expiration": "2020-07-17",
+                "strike": "200.0",
+                "type": "call"
+            },
+            "price": {
+                "date": "2020-06-09",
+                "close": "21.0",
+                "close_bid": "20.6",
+                "close_ask": "21.4",
+                "volume": 81,
+                "volume_bid": 24,
+                "volume_ask": 24,
+                "trades": 55,
+                "open_interest": 737,
+                "open_interest_change": 43,
+                "next_day_open_interest": 0,
+                "implied_volatility": "0.696728",
+                "implied_volatility_change": "-0.016084",
+                "delta": "0.591813"
+            }
+        },
+        {
+            "option": {
+                "id": "opt_MOkKRZ",
+                "code": "ZM200717C00195000",
+                "ticker": "ZM",
+                "expiration": "2020-07-17",
+                "strike": "195.0",
+                "type": "call"
+            },
+            "price": {
+                "date": "2020-06-09",
+                "close": "23.8",
+                "close_bid": "23.5",
+                "close_ask": "24.1",
+                "volume": 11,
+                "volume_bid": 2,
+                "volume_ask": 1,
+                "trades": 10,
+                "open_interest": 209,
+                "open_interest_change": 0,
+                "next_day_open_interest": 0,
+                "implied_volatility": "0.703707",
+                "implied_volatility_change": "-0.008313",
+                "delta": "0.634447"
+            }
+        },
+        {
+            "option": {
+                "id": "opt_4WnLDk",
+                "code": "ZM200717C00190000",
+                "ticker": "ZM",
+                "expiration": "2020-07-17",
+                "strike": "190.0",
+                "type": "call"
+            },
+            "price": {
+                "date": "2020-06-09",
+                "close": "26.8",
+                "close_bid": "26.5",
+                "close_ask": "27.1",
+                "volume": 8,
+                "volume_bid": 0,
+                "volume_ask": 4,
+                "trades": 5,
+                "open_interest": 212,
+                "open_interest_change": 7,
+                "next_day_open_interest": 0,
+                "implied_volatility": "0.710261",
+                "implied_volatility_change": "-0.017924",
+                "delta": "0.675781"
+            }
+        },
+        {
+            "option": {
+                "id": "opt_DNPmJY",
+                "code": "ZM200717C00185000",
+                "ticker": "ZM",
+                "expiration": "2020-07-17",
+                "strike": "185.0",
+                "type": "call"
+            },
+            "price": {
+                "date": "2020-06-09",
+                "close": "29.95",
+                "close_bid": "29.5",
+                "close_ask": "30.4",
+                "volume": 10,
+                "volume_bid": 0,
+                "volume_ask": 8,
+                "trades": 6,
+                "open_interest": 245,
+                "open_interest_change": 0,
+                "next_day_open_interest": 0,
+                "implied_volatility": "0.714288",
+                "implied_volatility_change": "0.02138",
+                "delta": "0.715786"
+            }
+        },
+        {
+            "option": {
+                "id": "opt_B3WMO9",
+                "code": "ZM200717C00180000",
+                "ticker": "ZM",
+                "expiration": "2020-07-17",
+                "strike": "180.0",
+                "type": "call"
+            },
+            "price": {
+                "date": "2020-06-09",
+                "close": "33.5",
+                "close_bid": "33.2",
+                "close_ask": "33.8",
+                "volume": 2,
+                "volume_bid": 0,
+                "volume_ask": 2,
+                "trades": 1,
+                "open_interest": 269,
+                "open_interest_change": -9,
+                "next_day_open_interest": 0,
+                "implied_volatility": "0.727463",
+                "implied_volatility_change": "0.018893",
+                "delta": "0.752058"
+            }
+        },
+        {
+            "option": {
+                "id": "opt_9oDrZD",
+                "code": "ZM200717C00175000",
+                "ticker": "ZM",
+                "expiration": "2020-07-17",
+                "strike": "175.0",
+                "type": "call"
+            },
+            "price": {
+                "date": "2020-06-09",
+                "close": "37.1",
+                "close_bid": "36.8",
+                "close_ask": "37.4",
+                "volume": 3,
+                "volume_bid": 0,
+                "volume_ask": 0,
+                "trades": 2,
+                "open_interest": 232,
+                "open_interest_change": 9,
+                "next_day_open_interest": 0,
+                "implied_volatility": "0.734391",
+                "implied_volatility_change": "-0.017583",
+                "delta": "0.786887"
+            }
+        },
+        {
+            "option": {
+                "id": "opt_AlLMEk",
+                "code": "ZM200717C00170000",
+                "ticker": "ZM",
+                "expiration": "2020-07-17",
+                "strike": "170.0",
+                "type": "call"
+            },
+            "price": {
+                "date": "2020-06-09",
+                "close": "41.0",
+                "close_bid": "40.7",
+                "close_ask": "41.3",
+                "volume": 2,
+                "volume_bid": 0,
+                "volume_ask": 0,
+                "trades": 2,
+                "open_interest": 160,
+                "open_interest_change": -9,
+                "next_day_open_interest": 0,
+                "implied_volatility": "0.748146",
+                "implied_volatility_change": "-0.01409",
+                "delta": "0.817404"
+            }
+        },
+        {
+            "option": {
+                "id": "opt_dJrd34",
+                "code": "ZM200717C00165000",
+                "ticker": "ZM",
+                "expiration": "2020-07-17",
+                "strike": "165.0",
+                "type": "call"
+            },
+            "price": {
+                "date": "2020-06-09",
+                "close": "44.8",
+                "close_bid": "44.0",
+                "close_ask": "45.6",
+                "volume": 3,
+                "volume_bid": 0,
+                "volume_ask": 2,
+                "trades": 2,
+                "open_interest": 86,
+                "open_interest_change": -6,
+                "next_day_open_interest": 0,
+                "implied_volatility": "0.746308",
+                "implied_volatility_change": "-0.021169",
+                "delta": "0.848759"
+            }
+        },
+        {
+            "option": {
+                "id": "opt_nNo0Wn",
+                "code": "ZM200717C00160000",
+                "ticker": "ZM",
+                "expiration": "2020-07-17",
+                "strike": "160.0",
+                "type": "call"
+            },
+            "price": {
+                "date": "2020-06-09",
+                "close": "49.2",
+                "close_bid": "48.8",
+                "close_ask": "49.6",
+                "volume": 0,
+                "volume_bid": 0,
+                "volume_ask": 0,
+                "trades": 0,
+                "open_interest": 138,
+                "open_interest_change": -6,
+                "next_day_open_interest": 0,
+                "implied_volatility": "0.774212",
+                "implied_volatility_change": "0.016588",
+                "delta": "0.869914"
+            }
+        },
+        {
+            "option": {
+                "id": "opt_0VZExD",
+                "code": "ZM200717C00155000",
+                "ticker": "ZM",
+                "expiration": "2020-07-17",
+                "strike": "155.0",
+                "type": "call"
+            },
+            "price": {
+                "date": "2020-06-09",
+                "close": "53.5",
+                "close_bid": "53.2",
+                "close_ask": "53.8",
+                "volume": 0,
+                "volume_bid": 0,
+                "volume_ask": 0,
+                "trades": 0,
+                "open_interest": 57,
+                "open_interest_change": 0,
+                "next_day_open_interest": 0,
+                "implied_volatility": "0.788171",
+                "implied_volatility_change": "-0.006347",
+                "delta": "0.89165"
+            }
+        },
+        {
+            "option": {
+                "id": "opt_mRO05Q",
+                "code": "ZM200717C00150000",
+                "ticker": "ZM",
+                "expiration": "2020-07-17",
+                "strike": "150.0",
+                "type": "call"
+            },
+            "price": {
+                "date": "2020-06-09",
+                "close": "57.15",
+                "close_bid": "55.9",
+                "close_ask": "58.4",
+                "volume": 1,
+                "volume_bid": 0,
+                "volume_ask": 0,
+                "trades": 1,
+                "open_interest": 130,
+                "open_interest_change": 9,
+                "next_day_open_interest": 0,
+                "implied_volatility": "0.725922",
+                "implied_volatility_change": "-0.091408",
+                "delta": "0.9279"
+            }
+        },
+        {
+            "option": {
+                "id": "opt_aEMnkv",
+                "code": "ZM200717C00145000",
+                "ticker": "ZM",
+                "expiration": "2020-07-17",
+                "strike": "145.0",
+                "type": "call"
+            },
+            "price": {
+                "date": "2020-06-09",
+                "close": "61.85",
+                "close_bid": "60.5",
+                "close_ask": "63.2",
+                "volume": 0,
+                "volume_bid": 0,
+                "volume_ask": 0,
+                "trades": 0,
+                "open_interest": 21,
+                "open_interest_change": 0,
+                "next_day_open_interest": 0,
+                "implied_volatility": "0.750683",
+                "implied_volatility_change": "-0.00386",
+                "delta": "0.940618"
+            }
+        },
+        {
+            "option": {
+                "id": "opt_16aVkr",
+                "code": "ZM200717C00140000",
+                "ticker": "ZM",
+                "expiration": "2020-07-17",
+                "strike": "140.0",
+                "type": "call"
+            },
+            "price": {
+                "date": "2020-06-09",
+                "close": "67.1",
+                "close_bid": "66.8",
+                "close_ask": "67.4",
+                "volume": 0,
+                "volume_bid": 0,
+                "volume_ask": 0,
+                "trades": 0,
+                "open_interest": 18,
+                "open_interest_change": 0,
+                "next_day_open_interest": 0,
+                "implied_volatility": "0.843887",
+                "implied_volatility_change": null,
+                "delta": "0.938824"
+            }
+        },
+        {
+            "option": {
+                "id": "opt_eqVwlo",
+                "code": "ZM200717C00135000",
+                "ticker": "ZM",
+                "expiration": "2020-07-17",
+                "strike": "135.0",
+                "type": "call"
+            },
+            "price": {
+                "date": "2020-06-09",
+                "close": "71.55",
+                "close_bid": "70.6",
+                "close_ask": "72.5",
+                "volume": 0,
+                "volume_bid": 0,
+                "volume_ask": 0,
+                "trades": 0,
+                "open_interest": 10,
+                "open_interest_change": 0,
+                "next_day_open_interest": 0,
+                "implied_volatility": "0.828526",
+                "implied_volatility_change": null,
+                "delta": "0.955871"
+            }
+        },
+        {
+            "option": {
+                "id": "opt_7E2PdQ",
+                "code": "ZM200717C00130000",
+                "ticker": "ZM",
+                "expiration": "2020-07-17",
+                "strike": "130.0",
+                "type": "call"
+            },
+            "price": {
+                "date": "2020-06-09",
+                "close": "75.75",
+                "close_bid": "74.4",
+                "close_ask": "77.1",
+                "volume": 0,
+                "volume_bid": 0,
+                "volume_ask": 0,
+                "trades": 0,
+                "open_interest": 7,
+                "open_interest_change": 0,
+                "next_day_open_interest": 0,
+                "implied_volatility": "0.703949",
+                "implied_volatility_change": null,
+                "delta": "0.983362"
+            }
+        },
+        {
+            "option": {
+                "id": "opt_2vm6ZE",
+                "code": "ZM200717C00125000",
+                "ticker": "ZM",
+                "expiration": "2020-07-17",
+                "strike": "125.0",
+                "type": "call"
+            },
+            "price": {
+                "date": "2020-06-09",
+                "close": "80.5",
+                "close_bid": "79.1",
+                "close_ask": "81.9",
+                "volume": 0,
+                "volume_bid": 0,
+                "volume_ask": 0,
+                "trades": 0,
+                "open_interest": 8,
+                "open_interest_change": 0,
+                "next_day_open_interest": 0,
+                "implied_volatility": "0.60199",
+                "implied_volatility_change": null,
+                "delta": "0.996041"
+            }
+        },
+        {
+            "option": {
+                "id": "opt_5Y4WRw",
+                "code": "ZM200717C00120000",
+                "ticker": "ZM",
+                "expiration": "2020-07-17",
+                "strike": "120.0",
+                "type": "call"
+            },
+            "price": {
+                "date": "2020-06-09",
+                "close": "85.45",
+                "close_bid": "84.1",
+                "close_ask": "86.8",
+                "volume": 3,
+                "volume_bid": 0,
+                "volume_ask": 3,
+                "trades": 2,
+                "open_interest": 35,
+                "open_interest_change": 0,
+                "next_day_open_interest": 0,
+                "implied_volatility": "0.495438",
+                "implied_volatility_change": null,
+                "delta": "0.999713"
+            }
+        },
+        {
+            "option": {
+                "id": "opt_q1Gm7Q",
+                "code": "ZM200717C00115000",
+                "ticker": "ZM",
+                "expiration": "2020-07-17",
+                "strike": "115.0",
+                "type": "call"
+            },
+            "price": {
+                "date": "2020-06-09",
+                "close": "90.45",
+                "close_bid": "88.9",
+                "close_ask": "92.0",
+                "volume": 0,
+                "volume_bid": 0,
+                "volume_ask": 0,
+                "trades": 0,
+                "open_interest": 5,
+                "open_interest_change": 0,
+                "next_day_open_interest": 0,
+                "implied_volatility": "0.542571",
+                "implied_volatility_change": null,
+                "delta": "0.999666"
+            }
+        },
+        {
+            "option": {
+                "id": "opt_dJr2JK",
+                "code": "ZM200717C00110000",
+                "ticker": "ZM",
+                "expiration": "2020-07-17",
+                "strike": "110.0",
+                "type": "call"
+            },
+            "price": {
+                "date": "2020-06-09",
+                "close": "95.05",
+                "close_bid": "93.7",
+                "close_ask": "96.4",
+                "volume": 0,
+                "volume_bid": 0,
+                "volume_ask": 0,
+                "trades": 0,
+                "open_interest": 7,
+                "open_interest_change": 0,
+                "next_day_open_interest": 0,
+                "implied_volatility": null,
+                "implied_volatility_change": null,
+                "delta": null
+            }
+        },
+        {
+            "option": {
+                "id": "opt_p4qa79",
+                "code": "ZM200717C00105000",
+                "ticker": "ZM",
+                "expiration": "2020-07-17",
+                "strike": "105.0",
+                "type": "call"
+            },
+            "price": {
+                "date": "2020-06-09",
+                "close": "99.95",
+                "close_bid": "98.6",
+                "close_ask": "101.3",
+                "volume": 0,
+                "volume_bid": 0,
+                "volume_ask": 0,
+                "trades": 0,
+                "open_interest": 0,
+                "open_interest_change": 0,
+                "next_day_open_interest": 0,
+                "implied_volatility": null,
+                "implied_volatility_change": null,
+                "delta": null
+            }
+        },
+        {
+            "option": {
+                "id": "opt_GvoqWV",
+                "code": "ZM200717C00100000",
+                "ticker": "ZM",
+                "expiration": "2020-07-17",
+                "strike": "100.0",
+                "type": "call"
+            },
+            "price": {
+                "date": "2020-06-09",
+                "close": "105.0",
+                "close_bid": "103.7",
+                "close_ask": "106.3",
+                "volume": 0,
+                "volume_bid": 0,
+                "volume_ask": 0,
+                "trades": 0,
+                "open_interest": 15,
+                "open_interest_change": 0,
+                "next_day_open_interest": 0,
+                "implied_volatility": null,
+                "implied_volatility_change": null,
+                "delta": null
+            }
+        },
+        {
+            "option": {
+                "id": "opt_oeJKrx",
+                "code": "ZM200717C00095000",
+                "ticker": "ZM",
+                "expiration": "2020-07-17",
+                "strike": "95.0",
+                "type": "call"
+            },
+            "price": {
+                "date": "2020-06-09",
+                "close": "109.75",
+                "close_bid": "108.5",
+                "close_ask": "111.0",
+                "volume": 0,
+                "volume_bid": 0,
+                "volume_ask": 0,
+                "trades": 0,
+                "open_interest": 2,
+                "open_interest_change": 0,
+                "next_day_open_interest": 0,
+                "implied_volatility": null,
+                "implied_volatility_change": null,
+                "delta": null
+            }
+        },
+        {
+            "option": {
+                "id": "opt_3LBRW4",
+                "code": "ZM200717C00090000",
+                "ticker": "ZM",
+                "expiration": "2020-07-17",
+                "strike": "90.0",
+                "type": "call"
+            },
+            "price": {
+                "date": "2020-06-09",
+                "close": "114.7",
+                "close_bid": "113.4",
+                "close_ask": "116.0",
+                "volume": 0,
+                "volume_bid": 0,
+                "volume_ask": 0,
+                "trades": 0,
+                "open_interest": 0,
+                "open_interest_change": 0,
+                "next_day_open_interest": 0,
+                "implied_volatility": null,
+                "implied_volatility_change": null,
+                "delta": null
+            }
+        },
+        {
+            "option": {
+                "id": "opt_OJlYGL",
+                "code": "ZM200717C00085000",
+                "ticker": "ZM",
+                "expiration": "2020-07-17",
+                "strike": "85.0",
+                "type": "call"
+            },
+            "price": {
+                "date": "2020-06-09",
+                "close": "120.1",
+                "close_bid": "118.5",
+                "close_ask": "121.7",
+                "volume": 0,
+                "volume_bid": 0,
+                "volume_ask": 0,
+                "trades": 0,
+                "open_interest": 3,
+                "open_interest_change": 0,
+                "next_day_open_interest": 0,
+                "implied_volatility": null,
+                "implied_volatility_change": null,
+                "delta": null
+            }
+        },
+        {
+            "option": {
+                "id": "opt_jjkv0P",
+                "code": "ZM200717C00080000",
+                "ticker": "ZM",
+                "expiration": "2020-07-17",
+                "strike": "80.0",
+                "type": "call"
+            },
+            "price": {
+                "date": "2020-06-09",
+                "close": "124.95",
+                "close_bid": "123.5",
+                "close_ask": "126.4",
+                "volume": 0,
+                "volume_bid": 0,
+                "volume_ask": 0,
+                "trades": 0,
+                "open_interest": 0,
+                "open_interest_change": 0,
+                "next_day_open_interest": 0,
+                "implied_volatility": null,
+                "implied_volatility_change": null,
+                "delta": null
+            }
+        },
+        {
+            "option": {
+                "id": "opt_MOmDoo",
+                "code": "ZM200717P00320000",
+                "ticker": "ZM",
+                "expiration": "2020-07-17",
+                "strike": "320.0",
+                "type": "put"
+            },
+            "price": {
+                "date": "2020-06-09",
+                "close": "115.8",
+                "close_bid": "114.5",
+                "close_ask": "117.1",
+                "volume": 0,
+                "volume_bid": 0,
+                "volume_ask": 0,
+                "trades": 0,
+                "open_interest": 0,
+                "open_interest_change": 0,
+                "next_day_open_interest": 0,
+                "implied_volatility": "0.813739",
+                "implied_volatility_change": null,
+                "delta": "-0.941523"
+            }
+        },
+        {
+            "option": {
+                "id": "opt_r4w9V3",
+                "code": "ZM200717P00310000",
+                "ticker": "ZM",
+                "expiration": "2020-07-17",
+                "strike": "310.0",
+                "type": "put"
+            },
+            "price": {
+                "date": "2020-06-09",
+                "close": "106.0",
+                "close_bid": "104.8",
+                "close_ask": "107.2",
+                "volume": 0,
+                "volume_bid": 0,
+                "volume_ask": 0,
+                "trades": 0,
+                "open_interest": 0,
+                "open_interest_change": 0,
+                "next_day_open_interest": 0,
+                "implied_volatility": "0.792645",
+                "implied_volatility_change": null,
+                "delta": "-0.931981"
+            }
+        },
+        {
+            "option": {
+                "id": "opt_6PW3Np",
+                "code": "ZM200717P00300000",
+                "ticker": "ZM",
+                "expiration": "2020-07-17",
+                "strike": "300.0",
+                "type": "put"
+            },
+            "price": {
+                "date": "2020-06-09",
+                "close": "96.45",
+                "close_bid": "95.2",
+                "close_ask": "97.7",
+                "volume": 0,
+                "volume_bid": 0,
+                "volume_ask": 0,
+                "trades": 0,
+                "open_interest": 1,
+                "open_interest_change": 0,
+                "next_day_open_interest": 0,
+                "implied_volatility": "0.801648",
+                "implied_volatility_change": null,
+                "delta": "-0.914101"
+            }
+        },
+        {
+            "option": {
+                "id": "opt_q1K6Wb",
+                "code": "ZM200717P00290000",
+                "ticker": "ZM",
+                "expiration": "2020-07-17",
+                "strike": "290.0",
+                "type": "put"
+            },
+            "price": {
+                "date": "2020-06-09",
+                "close": "86.8",
+                "close_bid": "85.5",
+                "close_ask": "88.1",
+                "volume": 0,
+                "volume_bid": 0,
+                "volume_ask": 0,
+                "trades": 0,
+                "open_interest": 47,
+                "open_interest_change": 5,
+                "next_day_open_interest": 0,
+                "implied_volatility": "0.770398",
+                "implied_volatility_change": "0.134115",
+                "delta": "-0.898794"
+            }
+        },
+        {
+            "option": {
+                "id": "opt_YNbrY1",
+                "code": "ZM200717P00280000",
+                "ticker": "ZM",
+                "expiration": "2020-07-17",
+                "strike": "280.0",
+                "type": "put"
+            },
+            "price": {
+                "date": "2020-06-09",
+                "close": "76.55",
+                "close_bid": "75.8",
+                "close_ask": "77.3",
+                "volume": 0,
+                "volume_bid": 0,
+                "volume_ask": 0,
+                "trades": 0,
+                "open_interest": 4,
+                "open_interest_change": 0,
+                "next_day_open_interest": 0,
+                "implied_volatility": "0.692919",
+                "implied_volatility_change": null,
+                "delta": "-0.900602"
+            }
+        },
+        {
+            "option": {
+                "id": "opt_YNbrYn",
+                "code": "ZM200717P00270000",
+                "ticker": "ZM",
+                "expiration": "2020-07-17",
+                "strike": "270.0",
+                "type": "put"
+            },
+            "price": {
+                "date": "2020-06-09",
+                "close": "67.6",
+                "close_bid": "66.8",
+                "close_ask": "68.4",
+                "volume": 0,
+                "volume_bid": 0,
+                "volume_ask": 0,
+                "trades": 0,
+                "open_interest": 54,
+                "open_interest_change": 0,
+                "next_day_open_interest": 0,
+                "implied_volatility": "0.710106",
+                "implied_volatility_change": null,
+                "delta": "-0.860939"
+            }
+        },
+        {
+            "option": {
+                "id": "opt_EVRAJj",
+                "code": "ZM200717P00260000",
+                "ticker": "ZM",
+                "expiration": "2020-07-17",
+                "strike": "260.0",
+                "type": "put"
+            },
+            "price": {
+                "date": "2020-06-09",
+                "close": "58.55",
+                "close_bid": "57.8",
+                "close_ask": "59.3",
+                "volume": 0,
+                "volume_bid": 0,
+                "volume_ask": 0,
+                "trades": 0,
+                "open_interest": 13,
+                "open_interest_change": 0,
+                "next_day_open_interest": 0,
+                "implied_volatility": "0.702489",
+                "implied_volatility_change": null,
+                "delta": "-0.825059"
+            }
+        },
+        {
+            "option": {
+                "id": "opt_9oxv9k",
+                "code": "ZM200717P00250000",
+                "ticker": "ZM",
+                "expiration": "2020-07-17",
+                "strike": "250.0",
+                "type": "put"
+            },
+            "price": {
+                "date": "2020-06-09",
+                "close": "50.3",
+                "close_bid": "49.0",
+                "close_ask": "51.6",
+                "volume": 4,
+                "volume_bid": 3,
+                "volume_ask": 0,
+                "trades": 3,
+                "open_interest": 60,
+                "open_interest_change": -4,
+                "next_day_open_interest": 0,
+                "implied_volatility": "0.714143",
+                "implied_volatility_change": null,
+                "delta": "-0.769432"
+            }
+        },
+        {
+            "option": {
+                "id": "opt_jjYdRw",
+                "code": "ZM200717P00240000",
+                "ticker": "ZM",
+                "expiration": "2020-07-17",
+                "strike": "240.0",
+                "type": "put"
+            },
+            "price": {
+                "date": "2020-06-09",
+                "close": "41.35",
+                "close_bid": "41.0",
+                "close_ask": "41.7",
+                "volume": 0,
+                "volume_bid": 0,
+                "volume_ask": 0,
+                "trades": 0,
+                "open_interest": 29,
+                "open_interest_change": 0,
+                "next_day_open_interest": 0,
+                "implied_volatility": "0.682296",
+                "implied_volatility_change": null,
+                "delta": "-0.727414"
+            }
+        },
+        {
+            "option": {
+                "id": "opt_RpNOkM",
+                "code": "ZM200717P00230000",
+                "ticker": "ZM",
+                "expiration": "2020-07-17",
+                "strike": "230.0",
+                "type": "put"
+            },
+            "price": {
+                "date": "2020-06-09",
+                "close": "33.85",
+                "close_bid": "33.5",
+                "close_ask": "34.2",
+                "volume": 2,
+                "volume_bid": 0,
+                "volume_ask": 0,
+                "trades": 2,
+                "open_interest": 108,
+                "open_interest_change": 4,
+                "next_day_open_interest": 0,
+                "implied_volatility": "0.679952",
+                "implied_volatility_change": "-0.005855",
+                "delta": "-0.656531"
+            }
+        },
+        {
+            "option": {
+                "id": "opt_EVEKJ1",
+                "code": "ZM200717P00220000",
+                "ticker": "ZM",
+                "expiration": "2020-07-17",
+                "strike": "220.0",
+                "type": "put"
+            },
+            "price": {
+                "date": "2020-06-09",
+                "close": "26.9",
+                "close_bid": "26.6",
+                "close_ask": "27.2",
+                "volume": 23,
+                "volume_bid": 10,
+                "volume_ask": 12,
+                "trades": 14,
+                "open_interest": 279,
+                "open_interest_change": -9,
+                "next_day_open_interest": 0,
+                "implied_volatility": "0.685953",
+                "implied_volatility_change": "-0.006708",
+                "delta": "-0.579602"
+            }
+        },
+        {
+            "option": {
+                "id": "opt_q1GrW5",
+                "code": "ZM200717P00210000",
+                "ticker": "ZM",
+                "expiration": "2020-07-17",
+                "strike": "210.0",
+                "type": "put"
+            },
+            "price": {
+                "date": "2020-06-09",
+                "close": "20.75",
+                "close_bid": "20.4",
+                "close_ask": "21.1",
+                "volume": 118,
+                "volume_bid": 71,
+                "volume_ask": 30,
+                "trades": 60,
+                "open_interest": 536,
+                "open_interest_change": 22,
+                "next_day_open_interest": 0,
+                "implied_volatility": "0.685991",
+                "implied_volatility_change": "-0.016498",
+                "delta": "-0.49484"
+            }
+        },
+        {
+            "option": {
+                "id": "opt_Vl8nvR",
+                "code": "ZM200717P00200000",
+                "ticker": "ZM",
+                "expiration": "2020-07-17",
+                "strike": "200.0",
+                "type": "put"
+            },
+            "price": {
+                "date": "2020-06-09",
+                "close": "15.7",
+                "close_bid": "15.6",
+                "close_ask": "15.8",
+                "volume": 123,
+                "volume_bid": 14,
+                "volume_ask": 48,
+                "trades": 57,
+                "open_interest": 1059,
+                "open_interest_change": 116,
+                "next_day_open_interest": 0,
+                "implied_volatility": "0.698546",
+                "implied_volatility_change": "-0.008932",
+                "delta": "-0.408249"
+            }
+        },
+        {
+            "option": {
+                "id": "opt_YNmlYY",
+                "code": "ZM200717P00195000",
+                "ticker": "ZM",
+                "expiration": "2020-07-17",
+                "strike": "195.0",
+                "type": "put"
+            },
+            "price": {
+                "date": "2020-06-09",
+                "close": "13.5",
+                "close_bid": "13.4",
+                "close_ask": "13.6",
+                "volume": 28,
+                "volume_bid": 6,
+                "volume_ask": 2,
+                "trades": 20,
+                "open_interest": 479,
+                "open_interest_change": -8,
+                "next_day_open_interest": 0,
+                "implied_volatility": "0.704913",
+                "implied_volatility_change": "-0.009376",
+                "delta": "-0.365333"
+            }
+        },
+        {
+            "option": {
+                "id": "opt_OJlKND",
+                "code": "ZM200717P00190000",
+                "ticker": "ZM",
+                "expiration": "2020-07-17",
+                "strike": "190.0",
+                "type": "put"
+            },
+            "price": {
+                "date": "2020-06-09",
+                "close": "11.5",
+                "close_bid": "11.4",
+                "close_ask": "11.6",
+                "volume": 117,
+                "volume_bid": 77,
+                "volume_ask": 8,
+                "trades": 38,
+                "open_interest": 720,
+                "open_interest_change": 97,
+                "next_day_open_interest": 0,
+                "implied_volatility": "0.719464",
+                "implied_volatility_change": "-0.015985",
+                "delta": "-0.324137"
+            }
+        },
+        {
+            "option": {
+                "id": "opt_JYGnka",
+                "code": "ZM200717P00185000",
+                "ticker": "ZM",
+                "expiration": "2020-07-17",
+                "strike": "185.0",
+                "type": "put"
+            },
+            "price": {
+                "date": "2020-06-09",
+                "close": "9.8",
+                "close_bid": "9.6",
+                "close_ask": "10.0",
+                "volume": 197,
+                "volume_bid": 102,
+                "volume_ask": 66,
+                "trades": 38,
+                "open_interest": 596,
+                "open_interest_change": 117,
+                "next_day_open_interest": 0,
+                "implied_volatility": "0.726154",
+                "implied_volatility_change": "-0.008028",
+                "delta": "-0.285799"
+            }
+        },
+        {
+            "option": {
+                "id": "opt_W3ZnLY",
+                "code": "ZM200717P00180000",
+                "ticker": "ZM",
+                "expiration": "2020-07-17",
+                "strike": "180.0",
+                "type": "put"
+            },
+            "price": {
+                "date": "2020-06-09",
+                "close": "8.25",
+                "close_bid": "8.1",
+                "close_ask": "8.4",
+                "volume": 230,
+                "volume_bid": 42,
+                "volume_ask": 143,
+                "trades": 74,
+                "open_interest": 1356,
+                "open_interest_change": 10,
+                "next_day_open_interest": 0,
+                "implied_volatility": "0.731818",
+                "implied_volatility_change": "-0.015358",
+                "delta": "-0.248846"
+            }
+        },
+        {
+            "option": {
+                "id": "opt_6P9YNP",
+                "code": "ZM200717P00175000",
+                "ticker": "ZM",
+                "expiration": "2020-07-17",
+                "strike": "175.0",
+                "type": "put"
+            },
+            "price": {
+                "date": "2020-06-09",
+                "close": "6.8",
+                "close_bid": "6.6",
+                "close_ask": "7.0",
+                "volume": 52,
+                "volume_bid": 3,
+                "volume_ask": 20,
+                "trades": 41,
+                "open_interest": 898,
+                "open_interest_change": 92,
+                "next_day_open_interest": 0,
+                "implied_volatility": "0.742267",
+                "implied_volatility_change": "-0.017702",
+                "delta": "-0.21356"
+            }
+        },
+        {
+            "option": {
+                "id": "opt_YNmlY1",
+                "code": "ZM200717P00170000",
+                "ticker": "ZM",
+                "expiration": "2020-07-17",
+                "strike": "170.0",
+                "type": "put"
+            },
+            "price": {
+                "date": "2020-06-09",
+                "close": "5.75",
+                "close_bid": "5.6",
+                "close_ask": "5.9",
+                "volume": 164,
+                "volume_bid": 71,
+                "volume_ask": 55,
+                "trades": 58,
+                "open_interest": 1499,
+                "open_interest_change": 211,
+                "next_day_open_interest": 0,
+                "implied_volatility": "0.76297",
+                "implied_volatility_change": "-0.000319",
+                "delta": "-0.184302"
+            }
+        },
+        {
+            "option": {
+                "id": "opt_LExKl1",
+                "code": "ZM200717P00165000",
+                "ticker": "ZM",
+                "expiration": "2020-07-17",
+                "strike": "165.0",
+                "type": "put"
+            },
+            "price": {
+                "date": "2020-06-09",
+                "close": "4.7",
+                "close_bid": "4.6",
+                "close_ask": "4.8",
+                "volume": 36,
+                "volume_bid": 8,
+                "volume_ask": 8,
+                "trades": 30,
+                "open_interest": 749,
+                "open_interest_change": 6,
+                "next_day_open_interest": 0,
+                "implied_volatility": "0.764532",
+                "implied_volatility_change": "-0.009563",
+                "delta": "-0.155627"
+            }
+        },
+        {
+            "option": {
+                "id": "opt_Pq3MdP",
+                "code": "ZM200717P00160000",
+                "ticker": "ZM",
+                "expiration": "2020-07-17",
+                "strike": "160.0",
+                "type": "put"
+            },
+            "price": {
+                "date": "2020-06-09",
+                "close": "3.85",
+                "close_bid": "3.7",
+                "close_ask": "4.0",
+                "volume": 81,
+                "volume_bid": 5,
+                "volume_ask": 17,
+                "trades": 40,
+                "open_interest": 855,
+                "open_interest_change": 37,
+                "next_day_open_interest": 0,
+                "implied_volatility": "0.779181",
+                "implied_volatility_change": "-0.004813",
+                "delta": "-0.130504"
+            }
+        },
+        {
+            "option": {
+                "id": "opt_LExKlO",
+                "code": "ZM200717P00155000",
+                "ticker": "ZM",
+                "expiration": "2020-07-17",
+                "strike": "155.0",
+                "type": "put"
+            },
+            "price": {
+                "date": "2020-06-09",
+                "close": "3.15",
+                "close_bid": "3.0",
+                "close_ask": "3.3",
+                "volume": 42,
+                "volume_bid": 8,
+                "volume_ask": 7,
+                "trades": 24,
+                "open_interest": 549,
+                "open_interest_change": -10,
+                "next_day_open_interest": 0,
+                "implied_volatility": "0.80423",
+                "implied_volatility_change": "0.001808",
+                "delta": "-0.109043"
+            }
+        },
+        {
+            "option": {
+                "id": "opt_oeJ0v3",
+                "code": "ZM200717P00150000",
+                "ticker": "ZM",
+                "expiration": "2020-07-17",
+                "strike": "150.0",
+                "type": "put"
+            },
+            "price": {
+                "date": "2020-06-09",
+                "close": "2.6",
+                "close_bid": "2.5",
+                "close_ask": "2.7",
+                "volume": 209,
+                "volume_bid": 92,
+                "volume_ask": 64,
+                "trades": 58,
+                "open_interest": 1432,
+                "open_interest_change": 12,
+                "next_day_open_interest": 0,
+                "implied_volatility": "0.815509",
+                "implied_volatility_change": "-0.002004",
+                "delta": "-0.091246"
+            }
+        },
+        {
+            "option": {
+                "id": "opt_EVEKJd",
+                "code": "ZM200717P00145000",
+                "ticker": "ZM",
+                "expiration": "2020-07-17",
+                "strike": "145.0",
+                "type": "put"
+            },
+            "price": {
+                "date": "2020-06-09",
+                "close": "2.125",
+                "close_bid": "2.0",
+                "close_ask": "2.25",
+                "volume": 56,
+                "volume_bid": 9,
+                "volume_ask": 35,
+                "trades": 22,
+                "open_interest": 395,
+                "open_interest_change": 4,
+                "next_day_open_interest": 0,
+                "implied_volatility": "0.831134",
+                "implied_volatility_change": "-0.01077",
+                "delta": "-0.075402"
+            }
+        },
+        {
+            "option": {
+                "id": "opt_v4lro6",
+                "code": "ZM200717P00140000",
+                "ticker": "ZM",
+                "expiration": "2020-07-17",
+                "strike": "140.0",
+                "type": "put"
+            },
+            "price": {
+                "date": "2020-06-09",
+                "close": "1.75",
+                "close_bid": "1.65",
+                "close_ask": "1.85",
+                "volume": 29,
+                "volume_bid": 8,
+                "volume_ask": 11,
+                "trades": 20,
+                "open_interest": 467,
+                "open_interest_change": -3,
+                "next_day_open_interest": 0,
+                "implied_volatility": "0.857723",
+                "implied_volatility_change": "-0.010495",
+                "delta": "-0.062354"
+            }
+        },
+        {
+            "option": {
+                "id": "opt_jjY0KM",
+                "code": "ZM200717P00135000",
+                "ticker": "ZM",
+                "expiration": "2020-07-17",
+                "strike": "135.0",
+                "type": "put"
+            },
+            "price": {
+                "date": "2020-06-09",
+                "close": "1.4",
+                "close_bid": "1.35",
+                "close_ask": "1.45",
+                "volume": 14,
+                "volume_bid": 2,
+                "volume_ask": 1,
+                "trades": 7,
+                "open_interest": 208,
+                "open_interest_change": 3,
+                "next_day_open_interest": 0,
+                "implied_volatility": "0.885848",
+                "implied_volatility_change": "-0.005178",
+                "delta": "-0.050641"
+            }
+        },
+        {
+            "option": {
+                "id": "opt_q1GrWJ",
+                "code": "ZM200717P00130000",
+                "ticker": "ZM",
+                "expiration": "2020-07-17",
+                "strike": "130.0",
+                "type": "put"
+            },
+            "price": {
+                "date": "2020-06-09",
+                "close": "1.1",
+                "close_bid": "1.0",
+                "close_ask": "1.2",
+                "volume": 44,
+                "volume_bid": 16,
+                "volume_ask": 5,
+                "trades": 17,
+                "open_interest": 334,
+                "open_interest_change": 44,
+                "next_day_open_interest": 0,
+                "implied_volatility": "0.891074",
+                "implied_volatility_change": "-0.006504",
+                "delta": "-0.040447"
+            }
+        },
+        {
+            "option": {
+                "id": "opt_Pq3Mdm",
+                "code": "ZM200717P00125000",
+                "ticker": "ZM",
+                "expiration": "2020-07-17",
+                "strike": "125.0",
+                "type": "put"
+            },
+            "price": {
+                "date": "2020-06-09",
+                "close": "0.95",
+                "close_bid": "0.9",
+                "close_ask": "1.0",
+                "volume": 43,
+                "volume_bid": 2,
+                "volume_ask": 27,
+                "trades": 8,
+                "open_interest": 208,
+                "open_interest_change": -3,
+                "next_day_open_interest": 0,
+                "implied_volatility": "0.925449",
+                "implied_volatility_change": "-0.001261",
+                "delta": "-0.034237"
+            }
+        },
+        {
+            "option": {
+                "id": "opt_oeJ0v6",
+                "code": "ZM200717P00120000",
+                "ticker": "ZM",
+                "expiration": "2020-07-17",
+                "strike": "120.0",
+                "type": "put"
+            },
+            "price": {
+                "date": "2020-06-09",
+                "close": "0.775",
+                "close_bid": "0.7",
+                "close_ask": "0.85",
+                "volume": 26,
+                "volume_bid": 14,
+                "volume_ask": 7,
+                "trades": 10,
+                "open_interest": 624,
+                "open_interest_change": 7,
+                "next_day_open_interest": 0,
+                "implied_volatility": "0.956174",
+                "implied_volatility_change": "-0.006818",
+                "delta": "-0.027803"
+            }
+        },
+        {
+            "option": {
+                "id": "opt_8OArOl",
+                "code": "ZM200717P00115000",
+                "ticker": "ZM",
+                "expiration": "2020-07-17",
+                "strike": "115.0",
+                "type": "put"
+            },
+            "price": {
+                "date": "2020-06-09",
+                "close": "0.625",
+                "close_bid": "0.55",
+                "close_ask": "0.7",
+                "volume": 1,
+                "volume_bid": 0,
+                "volume_ask": 1,
+                "trades": 1,
+                "open_interest": 390,
+                "open_interest_change": -5,
+                "next_day_open_interest": 0,
+                "implied_volatility": "0.99333",
+                "implied_volatility_change": "-0.01118",
+                "delta": "-0.022407"
+            }
+        },
+        {
+            "option": {
+                "id": "opt_ZVB3VG",
+                "code": "ZM200717P00110000",
+                "ticker": "ZM",
+                "expiration": "2020-07-17",
+                "strike": "110.0",
+                "type": "put"
+            },
+            "price": {
+                "date": "2020-06-09",
+                "close": "0.55",
+                "close_bid": "0.5",
+                "close_ask": "0.6",
+                "volume": 34,
+                "volume_bid": 3,
+                "volume_ask": 1,
+                "trades": 10,
+                "open_interest": 407,
+                "open_interest_change": -32,
+                "next_day_open_interest": 0,
+                "implied_volatility": "1.03474",
+                "implied_volatility_change": "-0.016684",
+                "delta": "-0.01922"
+            }
+        },
+        {
+            "option": {
+                "id": "opt_KPp6Po",
+                "code": "ZM200717P00105000",
+                "ticker": "ZM",
+                "expiration": "2020-07-17",
+                "strike": "105.0",
+                "type": "put"
+            },
+            "price": {
+                "date": "2020-06-09",
+                "close": "0.5",
+                "close_bid": "0.45",
+                "close_ask": "0.55",
+                "volume": 17,
+                "volume_bid": 2,
+                "volume_ask": 0,
+                "trades": 3,
+                "open_interest": 162,
+                "open_interest_change": 46,
+                "next_day_open_interest": 0,
+                "implied_volatility": "1.08005",
+                "implied_volatility_change": "0.007648",
+                "delta": "-0.016861"
+            }
+        },
+        {
+            "option": {
+                "id": "opt_klPZ7P",
+                "code": "ZM200717P00100000",
+                "ticker": "ZM",
+                "expiration": "2020-07-17",
+                "strike": "100.0",
+                "type": "put"
+            },
+            "price": {
+                "date": "2020-06-09",
+                "close": "0.375",
+                "close_bid": "0.35",
+                "close_ask": "0.4",
+                "volume": 42,
+                "volume_bid": 20,
+                "volume_ask": 22,
+                "trades": 8,
+                "open_interest": 999,
+                "open_interest_change": -4,
+                "next_day_open_interest": 0,
+                "implied_volatility": "1.09489",
+                "implied_volatility_change": "-0.001718",
+                "delta": "-0.012778"
+            }
+        },
+        {
+            "option": {
+                "id": "opt_NojWo9",
+                "code": "ZM200717P00095000",
+                "ticker": "ZM",
+                "expiration": "2020-07-17",
+                "strike": "95.0",
+                "type": "put"
+            },
+            "price": {
+                "date": "2020-06-09",
+                "close": "0.225",
+                "close_bid": "0.05",
+                "close_ask": "0.4",
+                "volume": 5,
+                "volume_bid": 4,
+                "volume_ask": 0,
+                "trades": 2,
+                "open_interest": 88,
+                "open_interest_change": -1,
+                "next_day_open_interest": 0,
+                "implied_volatility": "1.09958",
+                "implied_volatility_change": "-0.05329",
+                "delta": "-0.008134"
+            }
+        },
+        {
+            "option": {
+                "id": "opt_l3Ej7l",
+                "code": "ZM200717P00090000",
+                "ticker": "ZM",
+                "expiration": "2020-07-17",
+                "strike": "90.0",
+                "type": "put"
+            },
+            "price": {
+                "date": "2020-06-09",
+                "close": "0.325",
+                "close_bid": "0.2",
+                "close_ask": "0.45",
+                "volume": 11,
+                "volume_bid": 1,
+                "volume_ask": 0,
+                "trades": 7,
+                "open_interest": 87,
+                "open_interest_change": -1,
+                "next_day_open_interest": 0,
+                "implied_volatility": "1.21802",
+                "implied_volatility_change": "-0.003012",
+                "delta": "-0.010094"
+            }
+        },
+        {
+            "option": {
+                "id": "opt_x4RW7E",
+                "code": "ZM200717P00085000",
+                "ticker": "ZM",
+                "expiration": "2020-07-17",
+                "strike": "85.0",
+                "type": "put"
+            },
+            "price": {
+                "date": "2020-06-09",
+                "close": "0.325",
+                "close_bid": "0.15",
+                "close_ask": "0.5",
+                "volume": 8,
+                "volume_bid": 0,
+                "volume_ask": 0,
+                "trades": 3,
+                "open_interest": 82,
+                "open_interest_change": 1,
+                "next_day_open_interest": 0,
+                "implied_volatility": "1.29725",
+                "implied_volatility_change": "0.112531",
+                "delta": "-0.009496"
+            }
+        },
+        {
+            "option": {
+                "id": "opt_6PWGpp",
+                "code": "ZM200717P00080000",
+                "ticker": "ZM",
+                "expiration": "2020-07-17",
+                "strike": "80.0",
+                "type": "put"
+            },
+            "price": {
+                "date": "2020-06-09",
+                "close": "0.0",
+                "close_bid": "0.0",
+                "close_ask": "0.5",
+                "volume": 2,
+                "volume_bid": 0,
+                "volume_ask": 0,
+                "trades": 1,
+                "open_interest": 74,
+                "open_interest_change": 2,
+                "next_day_open_interest": 0,
+                "implied_volatility": "1.25791",
+                "implied_volatility_change": "0.000512",
+                "delta": "0.0"
+            }
+        }
+    ]
+}

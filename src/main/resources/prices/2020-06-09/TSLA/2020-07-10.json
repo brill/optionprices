@@ -1,0 +1,3124 @@
+{
+    "chain": [
+        {
+            "option": {
+                "id": "opt_GvOMZ3",
+                "code": "TSLA200710C01100000",
+                "ticker": "TSLA",
+                "expiration": "2020-07-10",
+                "strike": "1100.0",
+                "type": "call"
+            },
+            "price": {
+                "date": "2020-06-09",
+                "close": "24.6",
+                "close_bid": "23.6",
+                "close_ask": "25.6",
+                "volume": 97,
+                "volume_bid": 13,
+                "volume_ask": 35,
+                "trades": 38,
+                "open_interest": 105,
+                "open_interest_change": 90,
+                "next_day_open_interest": 0,
+                "implied_volatility": "0.679623",
+                "implied_volatility_change": "-0.025553",
+                "delta": "0.244967"
+            }
+        },
+        {
+            "option": {
+                "id": "opt_klvKdW",
+                "code": "TSLA200710C01075000",
+                "ticker": "TSLA",
+                "expiration": "2020-07-10",
+                "strike": "1075.0",
+                "type": "call"
+            },
+            "price": {
+                "date": "2020-06-09",
+                "close": "28.925",
+                "close_bid": "27.65",
+                "close_ask": "30.2",
+                "volume": 11,
+                "volume_bid": 2,
+                "volume_ask": 1,
+                "trades": 7,
+                "open_interest": 8,
+                "open_interest_change": 2,
+                "next_day_open_interest": 0,
+                "implied_volatility": "0.671461",
+                "implied_volatility_change": "-0.02618",
+                "delta": "0.279706"
+            }
+        },
+        {
+            "option": {
+                "id": "opt_LEpDRB",
+                "code": "TSLA200710C01050000",
+                "ticker": "TSLA",
+                "expiration": "2020-07-10",
+                "strike": "1050.0",
+                "type": "call"
+            },
+            "price": {
+                "date": "2020-06-09",
+                "close": "34.45",
+                "close_bid": "33.0",
+                "close_ask": "35.9",
+                "volume": 15,
+                "volume_bid": 7,
+                "volume_ask": 5,
+                "trades": 12,
+                "open_interest": 59,
+                "open_interest_change": 53,
+                "next_day_open_interest": 0,
+                "implied_volatility": "0.667634",
+                "implied_volatility_change": "-0.009809",
+                "delta": "0.320164"
+            }
+        },
+        {
+            "option": {
+                "id": "opt_0Vmrww",
+                "code": "TSLA200710C01025000",
+                "ticker": "TSLA",
+                "expiration": "2020-07-10",
+                "strike": "1025.0",
+                "type": "call"
+            },
+            "price": {
+                "date": "2020-06-09",
+                "close": "40.675",
+                "close_bid": "39.2",
+                "close_ask": "42.15",
+                "volume": 6,
+                "volume_bid": 0,
+                "volume_ask": 2,
+                "trades": 6,
+                "open_interest": 13,
+                "open_interest_change": 11,
+                "next_day_open_interest": 0,
+                "implied_volatility": "0.661493",
+                "implied_volatility_change": "-0.017368",
+                "delta": "0.363779"
+            }
+        },
+        {
+            "option": {
+                "id": "opt_Vl79G5",
+                "code": "TSLA200710C01000000",
+                "ticker": "TSLA",
+                "expiration": "2020-07-10",
+                "strike": "1000.0",
+                "type": "call"
+            },
+            "price": {
+                "date": "2020-06-09",
+                "close": "47.55",
+                "close_bid": "45.75",
+                "close_ask": "49.35",
+                "volume": 123,
+                "volume_bid": 76,
+                "volume_ask": 38,
+                "trades": 83,
+                "open_interest": 302,
+                "open_interest_change": 54,
+                "next_day_open_interest": 0,
+                "implied_volatility": "0.651738",
+                "implied_volatility_change": "-0.021362",
+                "delta": "0.410426"
+            }
+        },
+        {
+            "option": {
+                "id": "opt_PqlrVL",
+                "code": "TSLA200710C00995000",
+                "ticker": "TSLA",
+                "expiration": "2020-07-10",
+                "strike": "995.0",
+                "type": "call"
+            },
+            "price": {
+                "date": "2020-06-09",
+                "close": "49.65",
+                "close_bid": "48.05",
+                "close_ask": "51.25",
+                "volume": 14,
+                "volume_bid": 1,
+                "volume_ask": 1,
+                "trades": 7,
+                "open_interest": 3,
+                "open_interest_change": 3,
+                "next_day_open_interest": 0,
+                "implied_volatility": "0.655312",
+                "implied_volatility_change": "-0.012279",
+                "delta": "0.42155"
+            }
+        },
+        {
+            "option": {
+                "id": "opt_JYq2BV",
+                "code": "TSLA200710C00990000",
+                "ticker": "TSLA",
+                "expiration": "2020-07-10",
+                "strike": "990.0",
+                "type": "call"
+            },
+            "price": {
+                "date": "2020-06-09",
+                "close": "51.175",
+                "close_bid": "49.7",
+                "close_ask": "52.65",
+                "volume": 3,
+                "volume_bid": 2,
+                "volume_ask": 1,
+                "trades": 3,
+                "open_interest": 0,
+                "open_interest_change": 0,
+                "next_day_open_interest": 0,
+                "implied_volatility": "0.653061",
+                "implied_volatility_change": "-0.007848",
+                "delta": "0.431405"
+            }
+        },
+        {
+            "option": {
+                "id": "opt_EVPjMQ",
+                "code": "TSLA200710C00985000",
+                "ticker": "TSLA",
+                "expiration": "2020-07-10",
+                "strike": "985.0",
+                "type": "call"
+            },
+            "price": {
+                "date": "2020-06-09",
+                "close": "52.875",
+                "close_bid": "51.4",
+                "close_ask": "54.35",
+                "volume": 2,
+                "volume_bid": 0,
+                "volume_ask": 1,
+                "trades": 2,
+                "open_interest": 7,
+                "open_interest_change": 7,
+                "next_day_open_interest": 0,
+                "implied_volatility": "0.651989",
+                "implied_volatility_change": "-0.010391",
+                "delta": "0.441665"
+            }
+        },
+        {
+            "option": {
+                "id": "opt_q1Okax",
+                "code": "TSLA200710C00980000",
+                "ticker": "TSLA",
+                "expiration": "2020-07-10",
+                "strike": "980.0",
+                "type": "call"
+            },
+            "price": {
+                "date": "2020-06-09",
+                "close": "54.7",
+                "close_bid": "53.15",
+                "close_ask": "56.25",
+                "volume": 2,
+                "volume_bid": 1,
+                "volume_ask": 0,
+                "trades": 2,
+                "open_interest": 5,
+                "open_interest_change": 4,
+                "next_day_open_interest": 0,
+                "implied_volatility": "0.651613",
+                "implied_volatility_change": "-0.012115",
+                "delta": "0.452185"
+            }
+        },
+        {
+            "option": {
+                "id": "opt_W38BMn",
+                "code": "TSLA200710C00975000",
+                "ticker": "TSLA",
+                "expiration": "2020-07-10",
+                "strike": "975.0",
+                "type": "call"
+            },
+            "price": {
+                "date": "2020-06-09",
+                "close": "56.525",
+                "close_bid": "54.95",
+                "close_ask": "58.1",
+                "volume": 7,
+                "volume_bid": 0,
+                "volume_ask": 3,
+                "trades": 7,
+                "open_interest": 19,
+                "open_interest_change": 13,
+                "next_day_open_interest": 0,
+                "implied_volatility": "0.650771",
+                "implied_volatility_change": "-0.012786",
+                "delta": "0.462724"
+            }
+        },
+        {
+            "option": {
+                "id": "opt_YNaWo2",
+                "code": "TSLA200710C00970000",
+                "ticker": "TSLA",
+                "expiration": "2020-07-10",
+                "strike": "970.0",
+                "type": "call"
+            },
+            "price": {
+                "date": "2020-06-09",
+                "close": "58.425",
+                "close_bid": "56.85",
+                "close_ask": "60.0",
+                "volume": 12,
+                "volume_bid": 1,
+                "volume_ask": 3,
+                "trades": 7,
+                "open_interest": 6,
+                "open_interest_change": 6,
+                "next_day_open_interest": 0,
+                "implied_volatility": "0.650145",
+                "implied_volatility_change": "-0.004455",
+                "delta": "0.473406"
+            }
+        },
+        {
+            "option": {
+                "id": "opt_5Y2rGr",
+                "code": "TSLA200710C00965000",
+                "ticker": "TSLA",
+                "expiration": "2020-07-10",
+                "strike": "965.0",
+                "type": "call"
+            },
+            "price": {
+                "date": "2020-06-09",
+                "close": "60.375",
+                "close_bid": "58.8",
+                "close_ask": "61.95",
+                "volume": 6,
+                "volume_bid": 0,
+                "volume_ask": 1,
+                "trades": 2,
+                "open_interest": 3,
+                "open_interest_change": 3,
+                "next_day_open_interest": 0,
+                "implied_volatility": "0.649498",
+                "implied_volatility_change": "-0.003088",
+                "delta": "0.484181"
+            }
+        },
+        {
+            "option": {
+                "id": "opt_v4p2NR",
+                "code": "TSLA200710C00960000",
+                "ticker": "TSLA",
+                "expiration": "2020-07-10",
+                "strike": "960.0",
+                "type": "call"
+            },
+            "price": {
+                "date": "2020-06-09",
+                "close": "61.85",
+                "close_bid": "60.75",
+                "close_ask": "62.95",
+                "volume": 5,
+                "volume_bid": 1,
+                "volume_ask": 1,
+                "trades": 5,
+                "open_interest": 16,
+                "open_interest_change": 14,
+                "next_day_open_interest": 0,
+                "implied_volatility": "0.644023",
+                "implied_volatility_change": "-0.01594",
+                "delta": "0.494445"
+            }
+        },
+        {
+            "option": {
+                "id": "opt_8OPdMo",
+                "code": "TSLA200710C00955000",
+                "ticker": "TSLA",
+                "expiration": "2020-07-10",
+                "strike": "955.0",
+                "type": "call"
+            },
+            "price": {
+                "date": "2020-06-09",
+                "close": "64.425",
+                "close_bid": "62.85",
+                "close_ask": "66.0",
+                "volume": 23,
+                "volume_bid": 6,
+                "volume_ask": 6,
+                "trades": 12,
+                "open_interest": 4,
+                "open_interest_change": 3,
+                "next_day_open_interest": 0,
+                "implied_volatility": "0.648114",
+                "implied_volatility_change": "-0.006227",
+                "delta": "0.505983"
+            }
+        },
+        {
+            "option": {
+                "id": "opt_v4mbv8",
+                "code": "TSLA200710C00950000",
+                "ticker": "TSLA",
+                "expiration": "2020-07-10",
+                "strike": "950.0",
+                "type": "call"
+            },
+            "price": {
+                "date": "2020-06-09",
+                "close": "66.675",
+                "close_bid": "64.95",
+                "close_ask": "68.4",
+                "volume": 65,
+                "volume_bid": 26,
+                "volume_ask": 20,
+                "trades": 41,
+                "open_interest": 523,
+                "open_interest_change": 15,
+                "next_day_open_interest": 0,
+                "implied_volatility": "0.648737",
+                "implied_volatility_change": "-0.009078",
+                "delta": "0.517121"
+            }
+        },
+        {
+            "option": {
+                "id": "opt_dJoneq",
+                "code": "TSLA200710C00945000",
+                "ticker": "TSLA",
+                "expiration": "2020-07-10",
+                "strike": "945.0",
+                "type": "call"
+            },
+            "price": {
+                "date": "2020-06-09",
+                "close": "68.375",
+                "close_bid": "66.45",
+                "close_ask": "70.3",
+                "volume": 27,
+                "volume_bid": 16,
+                "volume_ask": 7,
+                "trades": 19,
+                "open_interest": 12,
+                "open_interest_change": 12,
+                "next_day_open_interest": 0,
+                "implied_volatility": "0.643815",
+                "implied_volatility_change": "-0.014473",
+                "delta": "0.527881"
+            }
+        },
+        {
+            "option": {
+                "id": "opt_KPZWGa",
+                "code": "TSLA200710C00940000",
+                "ticker": "TSLA",
+                "expiration": "2020-07-10",
+                "strike": "940.0",
+                "type": "call"
+            },
+            "price": {
+                "date": "2020-06-09",
+                "close": "70.925",
+                "close_bid": "69.35",
+                "close_ask": "72.5",
+                "volume": 29,
+                "volume_bid": 2,
+                "volume_ask": 13,
+                "trades": 12,
+                "open_interest": 11,
+                "open_interest_change": 10,
+                "next_day_open_interest": 0,
+                "implied_volatility": "0.646172",
+                "implied_volatility_change": "-0.013017",
+                "delta": "0.539251"
+            }
+        },
+        {
+            "option": {
+                "id": "opt_ZV1RmV",
+                "code": "TSLA200710C00935000",
+                "ticker": "TSLA",
+                "expiration": "2020-07-10",
+                "strike": "935.0",
+                "type": "call"
+            },
+            "price": {
+                "date": "2020-06-09",
+                "close": "73.25",
+                "close_bid": "71.7",
+                "close_ask": "74.8",
+                "volume": 34,
+                "volume_bid": 11,
+                "volume_ask": 13,
+                "trades": 23,
+                "open_interest": 18,
+                "open_interest_change": 18,
+                "next_day_open_interest": 0,
+                "implied_volatility": "0.64595",
+                "implied_volatility_change": "-0.002407",
+                "delta": "0.550469"
+            }
+        },
+        {
+            "option": {
+                "id": "opt_Alk4vp",
+                "code": "TSLA200710C00930000",
+                "ticker": "TSLA",
+                "expiration": "2020-07-10",
+                "strike": "930.0",
+                "type": "call"
+            },
+            "price": {
+                "date": "2020-06-09",
+                "close": "75.825",
+                "close_bid": "74.05",
+                "close_ask": "77.6",
+                "volume": 18,
+                "volume_bid": 11,
+                "volume_ask": 7,
+                "trades": 17,
+                "open_interest": 12,
+                "open_interest_change": 11,
+                "next_day_open_interest": 0,
+                "implied_volatility": "0.647518",
+                "implied_volatility_change": "-0.003173",
+                "delta": "0.561751"
+            }
+        },
+        {
+            "option": {
+                "id": "opt_4Wvl92",
+                "code": "TSLA200710C00925000",
+                "ticker": "TSLA",
+                "expiration": "2020-07-10",
+                "strike": "925.0",
+                "type": "call"
+            },
+            "price": {
+                "date": "2020-06-09",
+                "close": "78.3",
+                "close_bid": "76.55",
+                "close_ask": "80.05",
+                "volume": 3,
+                "volume_bid": 0,
+                "volume_ask": 1,
+                "trades": 3,
+                "open_interest": 23,
+                "open_interest_change": 8,
+                "next_day_open_interest": 0,
+                "implied_volatility": "0.647641",
+                "implied_volatility_change": "-0.00443",
+                "delta": "0.572985"
+            }
+        },
+        {
+            "option": {
+                "id": "opt_Rp2qRD",
+                "code": "TSLA200710C00920000",
+                "ticker": "TSLA",
+                "expiration": "2020-07-10",
+                "strike": "920.0",
+                "type": "call"
+            },
+            "price": {
+                "date": "2020-06-09",
+                "close": "80.45",
+                "close_bid": "79.05",
+                "close_ask": "81.85",
+                "volume": 5,
+                "volume_bid": 1,
+                "volume_ask": 2,
+                "trades": 5,
+                "open_interest": 14,
+                "open_interest_change": 11,
+                "next_day_open_interest": 0,
+                "implied_volatility": "0.644192",
+                "implied_volatility_change": "-0.002502",
+                "delta": "0.584269"
+            }
+        },
+        {
+            "option": {
+                "id": "opt_3L654R",
+                "code": "TSLA200710C00915000",
+                "ticker": "TSLA",
+                "expiration": "2020-07-10",
+                "strike": "915.0",
+                "type": "call"
+            },
+            "price": {
+                "date": "2020-06-09",
+                "close": "82.95",
+                "close_bid": "80.8",
+                "close_ask": "85.1",
+                "volume": 8,
+                "volume_bid": 5,
+                "volume_ask": 2,
+                "trades": 4,
+                "open_interest": 12,
+                "open_interest_change": 12,
+                "next_day_open_interest": 0,
+                "implied_volatility": "0.643452",
+                "implied_volatility_change": "-0.006408",
+                "delta": "0.595577"
+            }
+        },
+        {
+            "option": {
+                "id": "opt_w4BGxj",
+                "code": "TSLA200710C00910000",
+                "ticker": "TSLA",
+                "expiration": "2020-07-10",
+                "strike": "910.0",
+                "type": "call"
+            },
+            "price": {
+                "date": "2020-06-09",
+                "close": "85.925",
+                "close_bid": "84.1",
+                "close_ask": "87.75",
+                "volume": 4,
+                "volume_bid": 1,
+                "volume_ask": 3,
+                "trades": 3,
+                "open_interest": 35,
+                "open_interest_change": -166,
+                "next_day_open_interest": 0,
+                "implied_volatility": "0.646656",
+                "implied_volatility_change": "-0.001267",
+                "delta": "0.606698"
+            }
+        },
+        {
+            "option": {
+                "id": "opt_NoBEk3",
+                "code": "TSLA200710C00905000",
+                "ticker": "TSLA",
+                "expiration": "2020-07-10",
+                "strike": "905.0",
+                "type": "call"
+            },
+            "price": {
+                "date": "2020-06-09",
+                "close": "88.375",
+                "close_bid": "86.45",
+                "close_ask": "90.3",
+                "volume": 0,
+                "volume_bid": 0,
+                "volume_ask": 0,
+                "trades": 0,
+                "open_interest": 1,
+                "open_interest_change": -1,
+                "next_day_open_interest": 0,
+                "implied_volatility": "0.644335",
+                "implied_volatility_change": null,
+                "delta": "0.61805"
+            }
+        },
+        {
+            "option": {
+                "id": "opt_Pq4NPE",
+                "code": "TSLA200710C00900000",
+                "ticker": "TSLA",
+                "expiration": "2020-07-10",
+                "strike": "900.0",
+                "type": "call"
+            },
+            "price": {
+                "date": "2020-06-09",
+                "close": "90.95",
+                "close_bid": "88.75",
+                "close_ask": "93.15",
+                "volume": 41,
+                "volume_bid": 32,
+                "volume_ask": 0,
+                "trades": 21,
+                "open_interest": 87,
+                "open_interest_change": -28,
+                "next_day_open_interest": 0,
+                "implied_volatility": "0.642617",
+                "implied_volatility_change": "-0.006169",
+                "delta": "0.629394"
+            }
+        },
+        {
+            "option": {
+                "id": "opt_GvdVOb",
+                "code": "TSLA200710C00895000",
+                "ticker": "TSLA",
+                "expiration": "2020-07-10",
+                "strike": "895.0",
+                "type": "call"
+            },
+            "price": {
+                "date": "2020-06-09",
+                "close": "93.475",
+                "close_bid": "91.05",
+                "close_ask": "95.9",
+                "volume": 2,
+                "volume_bid": 0,
+                "volume_ask": 1,
+                "trades": 2,
+                "open_interest": 36,
+                "open_interest_change": 30,
+                "next_day_open_interest": 0,
+                "implied_volatility": "0.639804",
+                "implied_volatility_change": "-0.004623",
+                "delta": "0.640859"
+            }
+        },
+        {
+            "option": {
+                "id": "opt_jjkM6P",
+                "code": "TSLA200710C00890000",
+                "ticker": "TSLA",
+                "expiration": "2020-07-10",
+                "strike": "890.0",
+                "type": "call"
+            },
+            "price": {
+                "date": "2020-06-09",
+                "close": "96.05",
+                "close_bid": "93.8",
+                "close_ask": "98.3",
+                "volume": 1,
+                "volume_bid": 0,
+                "volume_ask": 0,
+                "trades": 1,
+                "open_interest": 9,
+                "open_interest_change": 0,
+                "next_day_open_interest": 0,
+                "implied_volatility": "0.636843",
+                "implied_volatility_change": "-0.009994",
+                "delta": "0.65238"
+            }
+        },
+        {
+            "option": {
+                "id": "opt_JY8Lql",
+                "code": "TSLA200710C00885000",
+                "ticker": "TSLA",
+                "expiration": "2020-07-10",
+                "strike": "885.0",
+                "type": "call"
+            },
+            "price": {
+                "date": "2020-06-09",
+                "close": "99.075",
+                "close_bid": "96.9",
+                "close_ask": "101.25",
+                "volume": 1,
+                "volume_bid": 1,
+                "volume_ask": 0,
+                "trades": 1,
+                "open_interest": 4,
+                "open_interest_change": -2,
+                "next_day_open_interest": 0,
+                "implied_volatility": "0.637716",
+                "implied_volatility_change": "-0.057425",
+                "delta": "0.663409"
+            }
+        },
+        {
+            "option": {
+                "id": "opt_Rpb2mx",
+                "code": "TSLA200710C00880000",
+                "ticker": "TSLA",
+                "expiration": "2020-07-10",
+                "strike": "880.0",
+                "type": "call"
+            },
+            "price": {
+                "date": "2020-06-09",
+                "close": "102.275",
+                "close_bid": "99.95",
+                "close_ask": "104.6",
+                "volume": 4,
+                "volume_bid": 1,
+                "volume_ask": 0,
+                "trades": 3,
+                "open_interest": 86,
+                "open_interest_change": -18,
+                "next_day_open_interest": 0,
+                "implied_volatility": "0.639788",
+                "implied_volatility_change": "-0.00838",
+                "delta": "0.674153"
+            }
+        },
+        {
+            "option": {
+                "id": "opt_GvBd63",
+                "code": "TSLA200710C00875000",
+                "ticker": "TSLA",
+                "expiration": "2020-07-10",
+                "strike": "875.0",
+                "type": "call"
+            },
+            "price": {
+                "date": "2020-06-09",
+                "close": "105.45",
+                "close_bid": "103.45",
+                "close_ask": "107.45",
+                "volume": 2,
+                "volume_bid": 0,
+                "volume_ask": 0,
+                "trades": 1,
+                "open_interest": 34,
+                "open_interest_change": -2,
+                "next_day_open_interest": 0,
+                "implied_volatility": "0.641057",
+                "implied_volatility_change": "-0.006678",
+                "delta": "0.684879"
+            }
+        },
+        {
+            "option": {
+                "id": "opt_x4en8a",
+                "code": "TSLA200710C00870000",
+                "ticker": "TSLA",
+                "expiration": "2020-07-10",
+                "strike": "870.0",
+                "type": "call"
+            },
+            "price": {
+                "date": "2020-06-09",
+                "close": "0.0",
+                "close_bid": "105.85",
+                "close_ask": "111.0",
+                "volume": 0,
+                "volume_bid": 0,
+                "volume_ask": 0,
+                "trades": 0,
+                "open_interest": 42,
+                "open_interest_change": -3,
+                "next_day_open_interest": 0,
+                "implied_volatility": null,
+                "implied_volatility_change": null,
+                "delta": "0.0"
+            }
+        },
+        {
+            "option": {
+                "id": "opt_l3ZlG3",
+                "code": "TSLA200710C00865000",
+                "ticker": "TSLA",
+                "expiration": "2020-07-10",
+                "strike": "865.0",
+                "type": "call"
+            },
+            "price": {
+                "date": "2020-06-09",
+                "close": "112.425",
+                "close_bid": "110.05",
+                "close_ask": "114.8",
+                "volume": 1,
+                "volume_bid": 0,
+                "volume_ask": 1,
+                "trades": 1,
+                "open_interest": 18,
+                "open_interest_change": -5,
+                "next_day_open_interest": 0,
+                "implied_volatility": "0.648474",
+                "implied_volatility_change": "-0.000159",
+                "delta": "0.705005"
+            }
+        },
+        {
+            "option": {
+                "id": "opt_VlL7jO",
+                "code": "TSLA200710C00860000",
+                "ticker": "TSLA",
+                "expiration": "2020-07-10",
+                "strike": "860.0",
+                "type": "call"
+            },
+            "price": {
+                "date": "2020-06-09",
+                "close": "115.975",
+                "close_bid": "113.65",
+                "close_ask": "118.3",
+                "volume": 0,
+                "volume_bid": 0,
+                "volume_ask": 0,
+                "trades": 0,
+                "open_interest": 28,
+                "open_interest_change": 0,
+                "next_day_open_interest": 0,
+                "implied_volatility": "0.652105",
+                "implied_volatility_change": "0.078757",
+                "delta": "0.714782"
+            }
+        },
+        {
+            "option": {
+                "id": "opt_0VYb1w",
+                "code": "TSLA200710C00855000",
+                "ticker": "TSLA",
+                "expiration": "2020-07-10",
+                "strike": "855.0",
+                "type": "call"
+            },
+            "price": {
+                "date": "2020-06-09",
+                "close": "0.0",
+                "close_bid": "114.1",
+                "close_ask": "121.55",
+                "volume": 0,
+                "volume_bid": 0,
+                "volume_ask": 0,
+                "trades": 0,
+                "open_interest": 2,
+                "open_interest_change": 0,
+                "next_day_open_interest": 0,
+                "implied_volatility": null,
+                "implied_volatility_change": null,
+                "delta": "0.0"
+            }
+        },
+        {
+            "option": {
+                "id": "opt_AlKk2d",
+                "code": "TSLA200710C00850000",
+                "ticker": "TSLA",
+                "expiration": "2020-07-10",
+                "strike": "850.0",
+                "type": "call"
+            },
+            "price": {
+                "date": "2020-06-09",
+                "close": "0.0",
+                "close_bid": "118.8",
+                "close_ask": "126.2",
+                "volume": 2,
+                "volume_bid": 1,
+                "volume_ask": 0,
+                "trades": 2,
+                "open_interest": 24,
+                "open_interest_change": 2,
+                "next_day_open_interest": 0,
+                "implied_volatility": "0.669957",
+                "implied_volatility_change": "0.024948",
+                "delta": "0.0"
+            }
+        },
+        {
+            "option": {
+                "id": "opt_7EGYbG",
+                "code": "TSLA200710C00845000",
+                "ticker": "TSLA",
+                "expiration": "2020-07-10",
+                "strike": "845.0",
+                "type": "call"
+            },
+            "price": {
+                "date": "2020-06-09",
+                "close": "0.0",
+                "close_bid": "123.5",
+                "close_ask": "129.65",
+                "volume": 0,
+                "volume_bid": 0,
+                "volume_ask": 0,
+                "trades": 0,
+                "open_interest": 15,
+                "open_interest_change": -1,
+                "next_day_open_interest": 0,
+                "implied_volatility": null,
+                "implied_volatility_change": null,
+                "delta": "0.0"
+            }
+        },
+        {
+            "option": {
+                "id": "opt_2vEV2k",
+                "code": "TSLA200710C00840000",
+                "ticker": "TSLA",
+                "expiration": "2020-07-10",
+                "strike": "840.0",
+                "type": "call"
+            },
+            "price": {
+                "date": "2020-06-09",
+                "close": "0.0",
+                "close_bid": "126.05",
+                "close_ask": "132.9",
+                "volume": 2,
+                "volume_bid": 0,
+                "volume_ask": 1,
+                "trades": 2,
+                "open_interest": 4,
+                "open_interest_change": -1,
+                "next_day_open_interest": 0,
+                "implied_volatility": "0.645791",
+                "implied_volatility_change": "-0.007744",
+                "delta": "0.0"
+            }
+        },
+        {
+            "option": {
+                "id": "opt_ZVE1b4",
+                "code": "TSLA200710C00835000",
+                "ticker": "TSLA",
+                "expiration": "2020-07-10",
+                "strike": "835.0",
+                "type": "call"
+            },
+            "price": {
+                "date": "2020-06-09",
+                "close": "132.875",
+                "close_bid": "130.5",
+                "close_ask": "135.25",
+                "volume": 0,
+                "volume_bid": 0,
+                "volume_ask": 0,
+                "trades": 0,
+                "open_interest": 5,
+                "open_interest_change": 3,
+                "next_day_open_interest": 0,
+                "implied_volatility": "0.652384",
+                "implied_volatility_change": "0.006226",
+                "delta": "0.76498"
+            }
+        },
+        {
+            "option": {
+                "id": "opt_nNmRxp",
+                "code": "TSLA200710C00830000",
+                "ticker": "TSLA",
+                "expiration": "2020-07-10",
+                "strike": "830.0",
+                "type": "call"
+            },
+            "price": {
+                "date": "2020-06-09",
+                "close": "0.0",
+                "close_bid": "133.0",
+                "close_ask": "139.95",
+                "volume": 6,
+                "volume_bid": 0,
+                "volume_ask": 0,
+                "trades": 3,
+                "open_interest": 6,
+                "open_interest_change": -1,
+                "next_day_open_interest": 0,
+                "implied_volatility": "0.645295",
+                "implied_volatility_change": "-0.006072",
+                "delta": "0.0"
+            }
+        },
+        {
+            "option": {
+                "id": "opt_aExP6e",
+                "code": "TSLA200710C00825000",
+                "ticker": "TSLA",
+                "expiration": "2020-07-10",
+                "strike": "825.0",
+                "type": "call"
+            },
+            "price": {
+                "date": "2020-06-09",
+                "close": "140.6",
+                "close_bid": "138.15",
+                "close_ask": "143.05",
+                "volume": 1,
+                "volume_bid": 0,
+                "volume_ask": 0,
+                "trades": 1,
+                "open_interest": 12,
+                "open_interest_change": -1,
+                "next_day_open_interest": 0,
+                "implied_volatility": "0.659714",
+                "implied_volatility_change": "-0.004835",
+                "delta": "0.782062"
+            }
+        },
+        {
+            "option": {
+                "id": "opt_w47B5A",
+                "code": "TSLA200710C00820000",
+                "ticker": "TSLA",
+                "expiration": "2020-07-10",
+                "strike": "820.0",
+                "type": "call"
+            },
+            "price": {
+                "date": "2020-06-09",
+                "close": "0.0",
+                "close_bid": "140.95",
+                "close_ask": "147.55",
+                "volume": 6,
+                "volume_bid": 0,
+                "volume_ask": 0,
+                "trades": 3,
+                "open_interest": 3,
+                "open_interest_change": 0,
+                "next_day_open_interest": 0,
+                "implied_volatility": "0.64773",
+                "implied_volatility_change": null,
+                "delta": "0.0"
+            }
+        },
+        {
+            "option": {
+                "id": "opt_KP2Zmm",
+                "code": "TSLA200710C00815000",
+                "ticker": "TSLA",
+                "expiration": "2020-07-10",
+                "strike": "815.0",
+                "type": "call"
+            },
+            "price": {
+                "date": "2020-06-09",
+                "close": "0.0",
+                "close_bid": "144.95",
+                "close_ask": "151.2",
+                "volume": 0,
+                "volume_bid": 0,
+                "volume_ask": 0,
+                "trades": 0,
+                "open_interest": 7,
+                "open_interest_change": 0,
+                "next_day_open_interest": 0,
+                "implied_volatility": null,
+                "implied_volatility_change": null,
+                "delta": "0.0"
+            }
+        },
+        {
+            "option": {
+                "id": "opt_dJloWj",
+                "code": "TSLA200710C00810000",
+                "ticker": "TSLA",
+                "expiration": "2020-07-10",
+                "strike": "810.0",
+                "type": "call"
+            },
+            "price": {
+                "date": "2020-06-09",
+                "close": "0.0",
+                "close_bid": "147.6",
+                "close_ask": "153.4",
+                "volume": 1,
+                "volume_bid": 0,
+                "volume_ask": 0,
+                "trades": 1,
+                "open_interest": 4,
+                "open_interest_change": 0,
+                "next_day_open_interest": 0,
+                "implied_volatility": "0.660071",
+                "implied_volatility_change": "-0.008037",
+                "delta": "0.0"
+            }
+        },
+        {
+            "option": {
+                "id": "opt_NoMB4N",
+                "code": "TSLA200710C00805000",
+                "ticker": "TSLA",
+                "expiration": "2020-07-10",
+                "strike": "805.0",
+                "type": "call"
+            },
+            "price": {
+                "date": "2020-06-09",
+                "close": "0.0",
+                "close_bid": "151.0",
+                "close_ask": "157.05",
+                "volume": 0,
+                "volume_bid": 0,
+                "volume_ask": 0,
+                "trades": 0,
+                "open_interest": 6,
+                "open_interest_change": -1,
+                "next_day_open_interest": 0,
+                "implied_volatility": null,
+                "implied_volatility_change": null,
+                "delta": "0.0"
+            }
+        },
+        {
+            "option": {
+                "id": "opt_3LO62M",
+                "code": "TSLA200710C00800000",
+                "ticker": "TSLA",
+                "expiration": "2020-07-10",
+                "strike": "800.0",
+                "type": "call"
+            },
+            "price": {
+                "date": "2020-06-09",
+                "close": "0.0",
+                "close_bid": "156.65",
+                "close_ask": "162.5",
+                "volume": 3,
+                "volume_bid": 0,
+                "volume_ask": 3,
+                "trades": 3,
+                "open_interest": 75,
+                "open_interest_change": 0,
+                "next_day_open_interest": 0,
+                "implied_volatility": "0.639021",
+                "implied_volatility_change": "-0.031223",
+                "delta": "0.0"
+            }
+        },
+        {
+            "option": {
+                "id": "opt_QGr9q8",
+                "code": "TSLA200710C00795000",
+                "ticker": "TSLA",
+                "expiration": "2020-07-10",
+                "strike": "795.0",
+                "type": "call"
+            },
+            "price": {
+                "date": "2020-06-09",
+                "close": "0.0",
+                "close_bid": "159.65",
+                "close_ask": "167.85",
+                "volume": 1,
+                "volume_bid": 0,
+                "volume_ask": 0,
+                "trades": 1,
+                "open_interest": 2,
+                "open_interest_change": 0,
+                "next_day_open_interest": 0,
+                "implied_volatility": "0.649627",
+                "implied_volatility_change": null,
+                "delta": "0.0"
+            }
+        },
+        {
+            "option": {
+                "id": "opt_p4ndj3",
+                "code": "TSLA200710C00790000",
+                "ticker": "TSLA",
+                "expiration": "2020-07-10",
+                "strike": "790.0",
+                "type": "call"
+            },
+            "price": {
+                "date": "2020-06-09",
+                "close": "0.0",
+                "close_bid": "163.85",
+                "close_ask": "171.35",
+                "volume": 1,
+                "volume_bid": 0,
+                "volume_ask": 0,
+                "trades": 1,
+                "open_interest": 0,
+                "open_interest_change": 0,
+                "next_day_open_interest": 0,
+                "implied_volatility": "0.654116",
+                "implied_volatility_change": null,
+                "delta": "0.0"
+            }
+        },
+        {
+            "option": {
+                "id": "opt_GvBd23",
+                "code": "TSLA200710C00785000",
+                "ticker": "TSLA",
+                "expiration": "2020-07-10",
+                "strike": "785.0",
+                "type": "call"
+            },
+            "price": {
+                "date": "2020-06-09",
+                "close": "0.0",
+                "close_bid": "167.9",
+                "close_ask": "175.1",
+                "volume": 1,
+                "volume_bid": 1,
+                "volume_ask": 0,
+                "trades": 1,
+                "open_interest": 0,
+                "open_interest_change": 0,
+                "next_day_open_interest": 0,
+                "implied_volatility": "0.668585",
+                "implied_volatility_change": null,
+                "delta": "0.0"
+            }
+        },
+        {
+            "option": {
+                "id": "opt_r49w3o",
+                "code": "TSLA200710C00780000",
+                "ticker": "TSLA",
+                "expiration": "2020-07-10",
+                "strike": "780.0",
+                "type": "call"
+            },
+            "price": {
+                "date": "2020-06-09",
+                "close": "0.0",
+                "close_bid": "173.15",
+                "close_ask": "180.75",
+                "volume": 0,
+                "volume_bid": 0,
+                "volume_ask": 0,
+                "trades": 0,
+                "open_interest": 0,
+                "open_interest_change": 0,
+                "next_day_open_interest": 0,
+                "implied_volatility": null,
+                "implied_volatility_change": null,
+                "delta": "0.0"
+            }
+        },
+        {
+            "option": {
+                "id": "opt_DNZ329",
+                "code": "TSLA200710C00775000",
+                "ticker": "TSLA",
+                "expiration": "2020-07-10",
+                "strike": "775.0",
+                "type": "call"
+            },
+            "price": {
+                "date": "2020-06-09",
+                "close": "0.0",
+                "close_bid": "175.1",
+                "close_ask": "182.35",
+                "volume": 0,
+                "volume_bid": 0,
+                "volume_ask": 0,
+                "trades": 0,
+                "open_interest": 0,
+                "open_interest_change": 0,
+                "next_day_open_interest": 0,
+                "implied_volatility": null,
+                "implied_volatility_change": null,
+                "delta": "0.0"
+            }
+        },
+        {
+            "option": {
+                "id": "opt_MODmQk",
+                "code": "TSLA200710C00770000",
+                "ticker": "TSLA",
+                "expiration": "2020-07-10",
+                "strike": "770.0",
+                "type": "call"
+            },
+            "price": {
+                "date": "2020-06-09",
+                "close": "0.0",
+                "close_bid": "181.9",
+                "close_ask": "188.7",
+                "volume": 1,
+                "volume_bid": 1,
+                "volume_ask": 0,
+                "trades": 1,
+                "open_interest": 8,
+                "open_interest_change": 3,
+                "next_day_open_interest": 0,
+                "implied_volatility": "0.678183",
+                "implied_volatility_change": "0.015694",
+                "delta": "0.0"
+            }
+        },
+        {
+            "option": {
+                "id": "opt_4Wov2Z",
+                "code": "TSLA200710C00765000",
+                "ticker": "TSLA",
+                "expiration": "2020-07-10",
+                "strike": "765.0",
+                "type": "call"
+            },
+            "price": {
+                "date": "2020-06-09",
+                "close": "0.0",
+                "close_bid": "183.3",
+                "close_ask": "190.25",
+                "volume": 0,
+                "volume_bid": 0,
+                "volume_ask": 0,
+                "trades": 0,
+                "open_interest": 1,
+                "open_interest_change": 0,
+                "next_day_open_interest": 0,
+                "implied_volatility": null,
+                "implied_volatility_change": null,
+                "delta": "0.0"
+            }
+        },
+        {
+            "option": {
+                "id": "opt_eq3JYJ",
+                "code": "TSLA200710C00760000",
+                "ticker": "TSLA",
+                "expiration": "2020-07-10",
+                "strike": "760.0",
+                "type": "call"
+            },
+            "price": {
+                "date": "2020-06-09",
+                "close": "0.0",
+                "close_bid": "189.5",
+                "close_ask": "197.35",
+                "volume": 2,
+                "volume_bid": 0,
+                "volume_ask": 0,
+                "trades": 2,
+                "open_interest": 1,
+                "open_interest_change": 1,
+                "next_day_open_interest": 0,
+                "implied_volatility": "0.691294",
+                "implied_volatility_change": "0.027646",
+                "delta": "0.0"
+            }
+        },
+        {
+            "option": {
+                "id": "opt_9oxE26",
+                "code": "TSLA200710C00755000",
+                "ticker": "TSLA",
+                "expiration": "2020-07-10",
+                "strike": "755.0",
+                "type": "call"
+            },
+            "price": {
+                "date": "2020-06-09",
+                "close": "0.0",
+                "close_bid": "193.55",
+                "close_ask": "199.95",
+                "volume": 0,
+                "volume_bid": 0,
+                "volume_ask": 0,
+                "trades": 0,
+                "open_interest": 0,
+                "open_interest_change": 0,
+                "next_day_open_interest": 0,
+                "implied_volatility": null,
+                "implied_volatility_change": null,
+                "delta": "0.0"
+            }
+        },
+        {
+            "option": {
+                "id": "opt_B3wj2e",
+                "code": "TSLA200710C00750000",
+                "ticker": "TSLA",
+                "expiration": "2020-07-10",
+                "strike": "750.0",
+                "type": "call"
+            },
+            "price": {
+                "date": "2020-06-09",
+                "close": "0.0",
+                "close_bid": "198.1",
+                "close_ask": "205.65",
+                "volume": 2,
+                "volume_bid": 2,
+                "volume_ask": 0,
+                "trades": 2,
+                "open_interest": 1,
+                "open_interest_change": 0,
+                "next_day_open_interest": 0,
+                "implied_volatility": "0.71684",
+                "implied_volatility_change": null,
+                "delta": "0.0"
+            }
+        },
+        {
+            "option": {
+                "id": "opt_mRa3pE",
+                "code": "TSLA200710C00745000",
+                "ticker": "TSLA",
+                "expiration": "2020-07-10",
+                "strike": "745.0",
+                "type": "call"
+            },
+            "price": {
+                "date": "2020-06-09",
+                "close": "0.0",
+                "close_bid": "202.1",
+                "close_ask": "210.75",
+                "volume": 1,
+                "volume_bid": 0,
+                "volume_ask": 0,
+                "trades": 1,
+                "open_interest": 0,
+                "open_interest_change": 0,
+                "next_day_open_interest": 0,
+                "implied_volatility": "0.697146",
+                "implied_volatility_change": null,
+                "delta": "0.0"
+            }
+        },
+        {
+            "option": {
+                "id": "opt_8OpP27",
+                "code": "TSLA200710C00740000",
+                "ticker": "TSLA",
+                "expiration": "2020-07-10",
+                "strike": "740.0",
+                "type": "call"
+            },
+            "price": {
+                "date": "2020-06-09",
+                "close": "0.0",
+                "close_bid": "206.25",
+                "close_ask": "214.55",
+                "volume": 2,
+                "volume_bid": 0,
+                "volume_ask": 0,
+                "trades": 2,
+                "open_interest": 5,
+                "open_interest_change": 4,
+                "next_day_open_interest": 0,
+                "implied_volatility": "0.703293",
+                "implied_volatility_change": "0.021981",
+                "delta": "0.0"
+            }
+        },
+        {
+            "option": {
+                "id": "opt_6PWbBj",
+                "code": "TSLA200710C00700000",
+                "ticker": "TSLA",
+                "expiration": "2020-07-10",
+                "strike": "700.0",
+                "type": "call"
+            },
+            "price": {
+                "date": "2020-06-09",
+                "close": "0.0",
+                "close_bid": "242.55",
+                "close_ask": "251.25",
+                "volume": 2,
+                "volume_bid": 1,
+                "volume_ask": 0,
+                "trades": 2,
+                "open_interest": 1,
+                "open_interest_change": 0,
+                "next_day_open_interest": 0,
+                "implied_volatility": "0.712679",
+                "implied_volatility_change": null,
+                "delta": "0.0"
+            }
+        },
+        {
+            "option": {
+                "id": "opt_161OR9",
+                "code": "TSLA200710C00650000",
+                "ticker": "TSLA",
+                "expiration": "2020-07-10",
+                "strike": "650.0",
+                "type": "call"
+            },
+            "price": {
+                "date": "2020-06-09",
+                "close": "0.0",
+                "close_bid": "291.6",
+                "close_ask": "298.2",
+                "volume": 0,
+                "volume_bid": 0,
+                "volume_ask": 0,
+                "trades": 0,
+                "open_interest": 0,
+                "open_interest_change": 0,
+                "next_day_open_interest": 0,
+                "implied_volatility": null,
+                "implied_volatility_change": null,
+                "delta": "0.0"
+            }
+        },
+        {
+            "option": {
+                "id": "opt_LEaBvq",
+                "code": "TSLA200710C00600000",
+                "ticker": "TSLA",
+                "expiration": "2020-07-10",
+                "strike": "600.0",
+                "type": "call"
+            },
+            "price": {
+                "date": "2020-06-09",
+                "close": "0.0",
+                "close_bid": "340.1",
+                "close_ask": "348.2",
+                "volume": 0,
+                "volume_bid": 0,
+                "volume_ask": 0,
+                "trades": 0,
+                "open_interest": 1,
+                "open_interest_change": 1,
+                "next_day_open_interest": 0,
+                "implied_volatility": null,
+                "implied_volatility_change": null,
+                "delta": "0.0"
+            }
+        },
+        {
+            "option": {
+                "id": "opt_bOMn2V",
+                "code": "TSLA200710P01100000",
+                "ticker": "TSLA",
+                "expiration": "2020-07-10",
+                "strike": "1100.0",
+                "type": "put"
+            },
+            "price": {
+                "date": "2020-06-09",
+                "close": "0.0",
+                "close_bid": "178.8",
+                "close_ask": "185.95",
+                "volume": 5,
+                "volume_bid": 4,
+                "volume_ask": 1,
+                "trades": 4,
+                "open_interest": 3,
+                "open_interest_change": 3,
+                "next_day_open_interest": 0,
+                "implied_volatility": "0.695121",
+                "implied_volatility_change": "-0.019257",
+                "delta": "0.0"
+            }
+        },
+        {
+            "option": {
+                "id": "opt_16Bpr9",
+                "code": "TSLA200710P01075000",
+                "ticker": "TSLA",
+                "expiration": "2020-07-10",
+                "strike": "1075.0",
+                "type": "put"
+            },
+            "price": {
+                "date": "2020-06-09",
+                "close": "0.0",
+                "close_bid": "158.3",
+                "close_ask": "166.15",
+                "volume": 0,
+                "volume_bid": 0,
+                "volume_ask": 0,
+                "trades": 0,
+                "open_interest": 2,
+                "open_interest_change": 2,
+                "next_day_open_interest": 0,
+                "implied_volatility": null,
+                "implied_volatility_change": null,
+                "delta": "0.0"
+            }
+        },
+        {
+            "option": {
+                "id": "opt_eqrOjb",
+                "code": "TSLA200710P01050000",
+                "ticker": "TSLA",
+                "expiration": "2020-07-10",
+                "strike": "1050.0",
+                "type": "put"
+            },
+            "price": {
+                "date": "2020-06-09",
+                "close": "0.0",
+                "close_bid": "140.7",
+                "close_ask": "146.1",
+                "volume": 0,
+                "volume_bid": 0,
+                "volume_ask": 0,
+                "trades": 0,
+                "open_interest": 0,
+                "open_interest_change": 0,
+                "next_day_open_interest": 0,
+                "implied_volatility": null,
+                "implied_volatility_change": null,
+                "delta": "0.0"
+            }
+        },
+        {
+            "option": {
+                "id": "opt_9o7O9O",
+                "code": "TSLA200710P01025000",
+                "ticker": "TSLA",
+                "expiration": "2020-07-10",
+                "strike": "1025.0",
+                "type": "put"
+            },
+            "price": {
+                "date": "2020-06-09",
+                "close": "123.95",
+                "close_bid": "122.0",
+                "close_ask": "125.9",
+                "volume": 0,
+                "volume_bid": 0,
+                "volume_ask": 0,
+                "trades": 0,
+                "open_interest": 1,
+                "open_interest_change": 1,
+                "next_day_open_interest": 0,
+                "implied_volatility": "0.650323",
+                "implied_volatility_change": null,
+                "delta": "-0.639839"
+            }
+        },
+        {
+            "option": {
+                "id": "opt_OJ5AYd",
+                "code": "TSLA200710P01000000",
+                "ticker": "TSLA",
+                "expiration": "2020-07-10",
+                "strike": "1000.0",
+                "type": "put"
+            },
+            "price": {
+                "date": "2020-06-09",
+                "close": "106.15",
+                "close_bid": "104.45",
+                "close_ask": "107.85",
+                "volume": 17,
+                "volume_bid": 15,
+                "volume_ask": 0,
+                "trades": 4,
+                "open_interest": 7,
+                "open_interest_change": 2,
+                "next_day_open_interest": 0,
+                "implied_volatility": "0.647057",
+                "implied_volatility_change": "-0.013352",
+                "delta": "-0.592074"
+            }
+        },
+        {
+            "option": {
+                "id": "opt_5Y2rAx",
+                "code": "TSLA200710P00995000",
+                "ticker": "TSLA",
+                "expiration": "2020-07-10",
+                "strike": "995.0",
+                "type": "put"
+            },
+            "price": {
+                "date": "2020-06-09",
+                "close": "102.725",
+                "close_bid": "101.05",
+                "close_ask": "104.4",
+                "volume": 2,
+                "volume_bid": 0,
+                "volume_ask": 1,
+                "trades": 2,
+                "open_interest": 0,
+                "open_interest_change": 0,
+                "next_day_open_interest": 0,
+                "implied_volatility": "0.643634",
+                "implied_volatility_change": null,
+                "delta": "-0.582002"
+            }
+        },
+        {
+            "option": {
+                "id": "opt_VlwPO5",
+                "code": "TSLA200710P00990000",
+                "ticker": "TSLA",
+                "expiration": "2020-07-10",
+                "strike": "990.0",
+                "type": "put"
+            },
+            "price": {
+                "date": "2020-06-09",
+                "close": "99.4",
+                "close_bid": "97.7",
+                "close_ask": "101.1",
+                "volume": 1,
+                "volume_bid": 0,
+                "volume_ask": 0,
+                "trades": 1,
+                "open_interest": 0,
+                "open_interest_change": 0,
+                "next_day_open_interest": 0,
+                "implied_volatility": "0.641095",
+                "implied_volatility_change": null,
+                "delta": "-0.571613"
+            }
+        },
+        {
+            "option": {
+                "id": "opt_0VmrkK",
+                "code": "TSLA200710P00985000",
+                "ticker": "TSLA",
+                "expiration": "2020-07-10",
+                "strike": "985.0",
+                "type": "put"
+            },
+            "price": {
+                "date": "2020-06-09",
+                "close": "96.1",
+                "close_bid": "94.4",
+                "close_ask": "97.8",
+                "volume": 0,
+                "volume_bid": 0,
+                "volume_ask": 0,
+                "trades": 0,
+                "open_interest": 0,
+                "open_interest_change": 0,
+                "next_day_open_interest": 0,
+                "implied_volatility": "0.638751",
+                "implied_volatility_change": null,
+                "delta": "-0.561097"
+            }
+        },
+        {
+            "option": {
+                "id": "opt_7EDAlP",
+                "code": "TSLA200710P00980000",
+                "ticker": "TSLA",
+                "expiration": "2020-07-10",
+                "strike": "980.0",
+                "type": "put"
+            },
+            "price": {
+                "date": "2020-06-09",
+                "close": "92.85",
+                "close_bid": "91.15",
+                "close_ask": "94.55",
+                "volume": 0,
+                "volume_bid": 0,
+                "volume_ask": 0,
+                "trades": 0,
+                "open_interest": 0,
+                "open_interest_change": 0,
+                "next_day_open_interest": 0,
+                "implied_volatility": "0.636871",
+                "implied_volatility_change": "-0.022824",
+                "delta": "-0.550409"
+            }
+        },
+        {
+            "option": {
+                "id": "opt_MOx9rN",
+                "code": "TSLA200710P00975000",
+                "ticker": "TSLA",
+                "expiration": "2020-07-10",
+                "strike": "975.0",
+                "type": "put"
+            },
+            "price": {
+                "date": "2020-06-09",
+                "close": "89.925",
+                "close_bid": "88.45",
+                "close_ask": "91.4",
+                "volume": 0,
+                "volume_bid": 0,
+                "volume_ask": 0,
+                "trades": 0,
+                "open_interest": 0,
+                "open_interest_change": 0,
+                "next_day_open_interest": 0,
+                "implied_volatility": "0.637933",
+                "implied_volatility_change": null,
+                "delta": "-0.539125"
+            }
+        },
+        {
+            "option": {
+                "id": "opt_r4o2dN",
+                "code": "TSLA200710P00970000",
+                "ticker": "TSLA",
+                "expiration": "2020-07-10",
+                "strike": "970.0",
+                "type": "put"
+            },
+            "price": {
+                "date": "2020-06-09",
+                "close": "86.65",
+                "close_bid": "85.05",
+                "close_ask": "88.25",
+                "volume": 2,
+                "volume_bid": 0,
+                "volume_ask": 0,
+                "trades": 2,
+                "open_interest": 0,
+                "open_interest_change": 0,
+                "next_day_open_interest": 0,
+                "implied_volatility": "0.635797",
+                "implied_volatility_change": null,
+                "delta": "-0.528398"
+            }
+        },
+        {
+            "option": {
+                "id": "opt_QG3Mvb",
+                "code": "TSLA200710P00965000",
+                "ticker": "TSLA",
+                "expiration": "2020-07-10",
+                "strike": "965.0",
+                "type": "put"
+            },
+            "price": {
+                "date": "2020-06-09",
+                "close": "83.725",
+                "close_bid": "82.25",
+                "close_ask": "85.2",
+                "volume": 2,
+                "volume_bid": 0,
+                "volume_ask": 0,
+                "trades": 2,
+                "open_interest": 0,
+                "open_interest_change": 0,
+                "next_day_open_interest": 0,
+                "implied_volatility": "0.636871",
+                "implied_volatility_change": null,
+                "delta": "-0.517131"
+            }
+        },
+        {
+            "option": {
+                "id": "opt_2vnDoo",
+                "code": "TSLA200710P00960000",
+                "ticker": "TSLA",
+                "expiration": "2020-07-10",
+                "strike": "960.0",
+                "type": "put"
+            },
+            "price": {
+                "date": "2020-06-09",
+                "close": "80.75",
+                "close_bid": "79.3",
+                "close_ask": "82.2",
+                "volume": 0,
+                "volume_bid": 0,
+                "volume_ask": 0,
+                "trades": 0,
+                "open_interest": 1,
+                "open_interest_change": 1,
+                "next_day_open_interest": 0,
+                "implied_volatility": "0.637482",
+                "implied_volatility_change": null,
+                "delta": "-0.505961"
+            }
+        },
+        {
+            "option": {
+                "id": "opt_EVRZ7j",
+                "code": "TSLA200710P00955000",
+                "ticker": "TSLA",
+                "expiration": "2020-07-10",
+                "strike": "955.0",
+                "type": "put"
+            },
+            "price": {
+                "date": "2020-06-09",
+                "close": "77.775",
+                "close_bid": "76.3",
+                "close_ask": "79.25",
+                "volume": 4,
+                "volume_bid": 2,
+                "volume_ask": 2,
+                "trades": 4,
+                "open_interest": 1,
+                "open_interest_change": 1,
+                "next_day_open_interest": 0,
+                "implied_volatility": "0.638088",
+                "implied_volatility_change": null,
+                "delta": "-0.494814"
+            }
+        },
+        {
+            "option": {
+                "id": "opt_EVRB56",
+                "code": "TSLA200710P00950000",
+                "ticker": "TSLA",
+                "expiration": "2020-07-10",
+                "strike": "950.0",
+                "type": "put"
+            },
+            "price": {
+                "date": "2020-06-09",
+                "close": "74.675",
+                "close_bid": "72.95",
+                "close_ask": "76.4",
+                "volume": 9,
+                "volume_bid": 1,
+                "volume_ask": 5,
+                "trades": 9,
+                "open_interest": 10,
+                "open_interest_change": 6,
+                "next_day_open_interest": 0,
+                "implied_volatility": "0.637554",
+                "implied_volatility_change": "-0.014429",
+                "delta": "-0.483792"
+            }
+        },
+        {
+            "option": {
+                "id": "opt_0VbpJq",
+                "code": "TSLA200710P00945000",
+                "ticker": "TSLA",
+                "expiration": "2020-07-10",
+                "strike": "945.0",
+                "type": "put"
+            },
+            "price": {
+                "date": "2020-06-09",
+                "close": "71.95",
+                "close_bid": "70.35",
+                "close_ask": "73.55",
+                "volume": 56,
+                "volume_bid": 2,
+                "volume_ask": 53,
+                "trades": 6,
+                "open_interest": 1,
+                "open_interest_change": 1,
+                "next_day_open_interest": 0,
+                "implied_volatility": "0.64048",
+                "implied_volatility_change": null,
+                "delta": "-0.472499"
+            }
+        },
+        {
+            "option": {
+                "id": "opt_OJ5MbV",
+                "code": "TSLA200710P00940000",
+                "ticker": "TSLA",
+                "expiration": "2020-07-10",
+                "strike": "940.0",
+                "type": "put"
+            },
+            "price": {
+                "date": "2020-06-09",
+                "close": "69.325",
+                "close_bid": "67.85",
+                "close_ask": "70.8",
+                "volume": 10,
+                "volume_bid": 5,
+                "volume_ask": 3,
+                "trades": 10,
+                "open_interest": 2,
+                "open_interest_change": 2,
+                "next_day_open_interest": 0,
+                "implied_volatility": "0.643471",
+                "implied_volatility_change": "-0.017992",
+                "delta": "-0.461247"
+            }
+        },
+        {
+            "option": {
+                "id": "opt_Vl7kVL",
+                "code": "TSLA200710P00935000",
+                "ticker": "TSLA",
+                "expiration": "2020-07-10",
+                "strike": "935.0",
+                "type": "put"
+            },
+            "price": {
+                "date": "2020-06-09",
+                "close": "66.4",
+                "close_bid": "64.7",
+                "close_ask": "68.1",
+                "volume": 14,
+                "volume_bid": 2,
+                "volume_ask": 7,
+                "trades": 13,
+                "open_interest": 2,
+                "open_interest_change": 2,
+                "next_day_open_interest": 0,
+                "implied_volatility": "0.637905",
+                "implied_volatility_change": "-0.021844",
+                "delta": "-0.450093"
+            }
+        },
+        {
+            "option": {
+                "id": "opt_LEaYww",
+                "code": "TSLA200710P00930000",
+                "ticker": "TSLA",
+                "expiration": "2020-07-10",
+                "strike": "930.0",
+                "type": "put"
+            },
+            "price": {
+                "date": "2020-06-09",
+                "close": "63.775",
+                "close_bid": "62.1",
+                "close_ask": "65.45",
+                "volume": 10,
+                "volume_bid": 3,
+                "volume_ask": 3,
+                "trades": 10,
+                "open_interest": 53,
+                "open_interest_change": 53,
+                "next_day_open_interest": 0,
+                "implied_volatility": "0.635073",
+                "implied_volatility_change": "-0.019488",
+                "delta": "-0.438692"
+            }
+        },
+        {
+            "option": {
+                "id": "opt_W3eP55",
+                "code": "TSLA200710P00925000",
+                "ticker": "TSLA",
+                "expiration": "2020-07-10",
+                "strike": "925.0",
+                "type": "put"
+            },
+            "price": {
+                "date": "2020-06-09",
+                "close": "61.4",
+                "close_bid": "59.95",
+                "close_ask": "62.85",
+                "volume": 6,
+                "volume_bid": 2,
+                "volume_ask": 2,
+                "trades": 5,
+                "open_interest": 56,
+                "open_interest_change": 56,
+                "next_day_open_interest": 0,
+                "implied_volatility": "0.634584",
+                "implied_volatility_change": "-0.013839",
+                "delta": "-0.427188"
+            }
+        },
+        {
+            "option": {
+                "id": "opt_YNbOKn",
+                "code": "TSLA200710P00920000",
+                "ticker": "TSLA",
+                "expiration": "2020-07-10",
+                "strike": "920.0",
+                "type": "put"
+            },
+            "price": {
+                "date": "2020-06-09",
+                "close": "58.8",
+                "close_bid": "57.25",
+                "close_ask": "60.35",
+                "volume": 16,
+                "volume_bid": 0,
+                "volume_ask": 4,
+                "trades": 5,
+                "open_interest": 5,
+                "open_interest_change": 5,
+                "next_day_open_interest": 0,
+                "implied_volatility": "0.631972",
+                "implied_volatility_change": "-0.010538",
+                "delta": "-0.415628"
+            }
+        },
+        {
+            "option": {
+                "id": "opt_Pq47DV",
+                "code": "TSLA200710P00915000",
+                "ticker": "TSLA",
+                "expiration": "2020-07-10",
+                "strike": "915.0",
+                "type": "put"
+            },
+            "price": {
+                "date": "2020-06-09",
+                "close": "56.25",
+                "close_bid": "54.6",
+                "close_ask": "57.9",
+                "volume": 4,
+                "volume_bid": 2,
+                "volume_ask": 0,
+                "trades": 3,
+                "open_interest": 4,
+                "open_interest_change": 4,
+                "next_day_open_interest": 0,
+                "implied_volatility": "0.629824",
+                "implied_volatility_change": "-0.026819",
+                "delta": "-0.40399"
+            }
+        },
+        {
+            "option": {
+                "id": "opt_6PWRKW",
+                "code": "TSLA200710P00910000",
+                "ticker": "TSLA",
+                "expiration": "2020-07-10",
+                "strike": "910.0",
+                "type": "put"
+            },
+            "price": {
+                "date": "2020-06-09",
+                "close": "54.0",
+                "close_bid": "52.45",
+                "close_ask": "55.55",
+                "volume": 4,
+                "volume_bid": 2,
+                "volume_ask": 0,
+                "trades": 3,
+                "open_interest": 0,
+                "open_interest_change": 0,
+                "next_day_open_interest": 0,
+                "implied_volatility": "0.630483",
+                "implied_volatility_change": null,
+                "delta": "-0.392427"
+            }
+        },
+        {
+            "option": {
+                "id": "opt_5YL3N4",
+                "code": "TSLA200710P00905000",
+                "ticker": "TSLA",
+                "expiration": "2020-07-10",
+                "strike": "905.0",
+                "type": "put"
+            },
+            "price": {
+                "date": "2020-06-09",
+                "close": "51.55",
+                "close_bid": "49.9",
+                "close_ask": "53.2",
+                "volume": 1,
+                "volume_bid": 0,
+                "volume_ask": 0,
+                "trades": 1,
+                "open_interest": 0,
+                "open_interest_change": 0,
+                "next_day_open_interest": 0,
+                "implied_volatility": "0.629262",
+                "implied_volatility_change": null,
+                "delta": "-0.38075"
+            }
+        },
+        {
+            "option": {
+                "id": "opt_W3edpV",
+                "code": "TSLA200710P00900000",
+                "ticker": "TSLA",
+                "expiration": "2020-07-10",
+                "strike": "900.0",
+                "type": "put"
+            },
+            "price": {
+                "date": "2020-06-09",
+                "close": "49.6",
+                "close_bid": "48.25",
+                "close_ask": "50.95",
+                "volume": 23,
+                "volume_bid": 6,
+                "volume_ask": 4,
+                "trades": 14,
+                "open_interest": 33,
+                "open_interest_change": 26,
+                "next_day_open_interest": 0,
+                "implied_volatility": "0.632763",
+                "implied_volatility_change": "-0.013521",
+                "delta": "-0.369458"
+            }
+        },
+        {
+            "option": {
+                "id": "opt_v4mqdp",
+                "code": "TSLA200710P00895000",
+                "ticker": "TSLA",
+                "expiration": "2020-07-10",
+                "strike": "895.0",
+                "type": "put"
+            },
+            "price": {
+                "date": "2020-06-09",
+                "close": "47.275",
+                "close_bid": "45.75",
+                "close_ask": "48.8",
+                "volume": 14,
+                "volume_bid": 0,
+                "volume_ask": 2,
+                "trades": 4,
+                "open_interest": 0,
+                "open_interest_change": 0,
+                "next_day_open_interest": 0,
+                "implied_volatility": "0.632729",
+                "implied_volatility_change": null,
+                "delta": "-0.357909"
+            }
+        },
+        {
+            "option": {
+                "id": "opt_161xGx",
+                "code": "TSLA200710P00890000",
+                "ticker": "TSLA",
+                "expiration": "2020-07-10",
+                "strike": "890.0",
+                "type": "put"
+            },
+            "price": {
+                "date": "2020-06-09",
+                "close": "45.125",
+                "close_bid": "43.6",
+                "close_ask": "46.65",
+                "volume": 5,
+                "volume_bid": 3,
+                "volume_ask": 0,
+                "trades": 4,
+                "open_interest": 3,
+                "open_interest_change": 3,
+                "next_day_open_interest": 0,
+                "implied_volatility": "0.634353",
+                "implied_volatility_change": "-0.005828",
+                "delta": "-0.346567"
+            }
+        },
+        {
+            "option": {
+                "id": "opt_QG9JAV",
+                "code": "TSLA200710P00885000",
+                "ticker": "TSLA",
+                "expiration": "2020-07-10",
+                "strike": "885.0",
+                "type": "put"
+            },
+            "price": {
+                "date": "2020-06-09",
+                "close": "42.975",
+                "close_bid": "41.35",
+                "close_ask": "44.6",
+                "volume": 3,
+                "volume_bid": 1,
+                "volume_ask": 2,
+                "trades": 3,
+                "open_interest": 16,
+                "open_interest_change": 3,
+                "next_day_open_interest": 0,
+                "implied_volatility": "0.635988",
+                "implied_volatility_change": "-0.000095",
+                "delta": "-0.335283"
+            }
+        },
+        {
+            "option": {
+                "id": "opt_6PqW7j",
+                "code": "TSLA200710P00880000",
+                "ticker": "TSLA",
+                "expiration": "2020-07-10",
+                "strike": "880.0",
+                "type": "put"
+            },
+            "price": {
+                "date": "2020-06-09",
+                "close": "40.7",
+                "close_bid": "39.4",
+                "close_ask": "42.0",
+                "volume": 5,
+                "volume_bid": 0,
+                "volume_ask": 4,
+                "trades": 3,
+                "open_interest": 111,
+                "open_interest_change": 10,
+                "next_day_open_interest": 0,
+                "implied_volatility": "0.63644",
+                "implied_volatility_change": "-0.01762",
+                "delta": "-0.323867"
+            }
+        },
+        {
+            "option": {
+                "id": "opt_mRa3ML",
+                "code": "TSLA200710P00875000",
+                "ticker": "TSLA",
+                "expiration": "2020-07-10",
+                "strike": "875.0",
+                "type": "put"
+            },
+            "price": {
+                "date": "2020-06-09",
+                "close": "39.45",
+                "close_bid": "38.25",
+                "close_ask": "40.65",
+                "volume": 12,
+                "volume_bid": 11,
+                "volume_ask": 0,
+                "trades": 3,
+                "open_interest": 48,
+                "open_interest_change": 0,
+                "next_day_open_interest": 0,
+                "implied_volatility": "0.641994",
+                "implied_volatility_change": "-0.011384",
+                "delta": "-0.314118"
+            }
+        },
+        {
+            "option": {
+                "id": "opt_v4Mm18",
+                "code": "TSLA200710P00870000",
+                "ticker": "TSLA",
+                "expiration": "2020-07-10",
+                "strike": "870.0",
+                "type": "put"
+            },
+            "price": {
+                "date": "2020-06-09",
+                "close": "37.35",
+                "close_bid": "35.9",
+                "close_ask": "38.8",
+                "volume": 6,
+                "volume_bid": 0,
+                "volume_ask": 0,
+                "trades": 5,
+                "open_interest": 35,
+                "open_interest_change": 2,
+                "next_day_open_interest": 0,
+                "implied_volatility": "0.636794",
+                "implied_volatility_change": "-0.016774",
+                "delta": "-0.302935"
+            }
+        },
+        {
+            "option": {
+                "id": "opt_OJ7502",
+                "code": "TSLA200710P00865000",
+                "ticker": "TSLA",
+                "expiration": "2020-07-10",
+                "strike": "865.0",
+                "type": "put"
+            },
+            "price": {
+                "date": "2020-06-09",
+                "close": "35.525",
+                "close_bid": "34.1",
+                "close_ask": "36.95",
+                "volume": 4,
+                "volume_bid": 0,
+                "volume_ask": 1,
+                "trades": 4,
+                "open_interest": 54,
+                "open_interest_change": 1,
+                "next_day_open_interest": 0,
+                "implied_volatility": "0.634572",
+                "implied_volatility_change": "-0.018681",
+                "delta": "-0.292136"
+            }
+        },
+        {
+            "option": {
+                "id": "opt_B3wjx8",
+                "code": "TSLA200710P00860000",
+                "ticker": "TSLA",
+                "expiration": "2020-07-10",
+                "strike": "860.0",
+                "type": "put"
+            },
+            "price": {
+                "date": "2020-06-09",
+                "close": "33.8",
+                "close_bid": "32.4",
+                "close_ask": "35.2",
+                "volume": 2,
+                "volume_bid": 0,
+                "volume_ask": 1,
+                "trades": 2,
+                "open_interest": 21,
+                "open_interest_change": 14,
+                "next_day_open_interest": 0,
+                "implied_volatility": "0.633474",
+                "implied_volatility_change": "-0.013125",
+                "delta": "-0.281493"
+            }
+        },
+        {
+            "option": {
+                "id": "opt_NoMB0E",
+                "code": "TSLA200710P00855000",
+                "ticker": "TSLA",
+                "expiration": "2020-07-10",
+                "strike": "855.0",
+                "type": "put"
+            },
+            "price": {
+                "date": "2020-06-09",
+                "close": "32.1",
+                "close_bid": "30.7",
+                "close_ask": "33.5",
+                "volume": 2,
+                "volume_bid": 0,
+                "volume_ask": 0,
+                "trades": 2,
+                "open_interest": 15,
+                "open_interest_change": 0,
+                "next_day_open_interest": 0,
+                "implied_volatility": "0.632619",
+                "implied_volatility_change": null,
+                "delta": "-0.270869"
+            }
+        },
+        {
+            "option": {
+                "id": "opt_aExPbD",
+                "code": "TSLA200710P00850000",
+                "ticker": "TSLA",
+                "expiration": "2020-07-10",
+                "strike": "850.0",
+                "type": "put"
+            },
+            "price": {
+                "date": "2020-06-09",
+                "close": "30.375",
+                "close_bid": "28.9",
+                "close_ask": "31.85",
+                "volume": 22,
+                "volume_bid": 1,
+                "volume_ask": 3,
+                "trades": 9,
+                "open_interest": 36,
+                "open_interest_change": -4,
+                "next_day_open_interest": 0,
+                "implied_volatility": "0.631484",
+                "implied_volatility_change": "-0.016452",
+                "delta": "-0.260151"
+            }
+        },
+        {
+            "option": {
+                "id": "opt_KP2Z0V",
+                "code": "TSLA200710P00845000",
+                "ticker": "TSLA",
+                "expiration": "2020-07-10",
+                "strike": "845.0",
+                "type": "put"
+            },
+            "price": {
+                "date": "2020-06-09",
+                "close": "29.0",
+                "close_bid": "27.95",
+                "close_ask": "30.05",
+                "volume": 2,
+                "volume_bid": 0,
+                "volume_ask": 1,
+                "trades": 2,
+                "open_interest": 3,
+                "open_interest_change": 1,
+                "next_day_open_interest": 0,
+                "implied_volatility": "0.634267",
+                "implied_volatility_change": "-0.028921",
+                "delta": "-0.250388"
+            }
+        },
+        {
+            "option": {
+                "id": "opt_Rpb20a",
+                "code": "TSLA200710P00840000",
+                "ticker": "TSLA",
+                "expiration": "2020-07-10",
+                "strike": "840.0",
+                "type": "put"
+            },
+            "price": {
+                "date": "2020-06-09",
+                "close": "27.45",
+                "close_bid": "26.1",
+                "close_ask": "28.8",
+                "volume": 5,
+                "volume_bid": 0,
+                "volume_ask": 0,
+                "trades": 4,
+                "open_interest": 18,
+                "open_interest_change": 11,
+                "next_day_open_interest": 0,
+                "implied_volatility": "0.635097",
+                "implied_volatility_change": "-0.014146",
+                "delta": "-0.240187"
+            }
+        },
+        {
+            "option": {
+                "id": "opt_kl8jMY",
+                "code": "TSLA200710P00835000",
+                "ticker": "TSLA",
+                "expiration": "2020-07-10",
+                "strike": "835.0",
+                "type": "put"
+            },
+            "price": {
+                "date": "2020-06-09",
+                "close": "26.125",
+                "close_bid": "25.1",
+                "close_ask": "27.15",
+                "volume": 9,
+                "volume_bid": 1,
+                "volume_ask": 1,
+                "trades": 5,
+                "open_interest": 20,
+                "open_interest_change": 19,
+                "next_day_open_interest": 0,
+                "implied_volatility": "0.638466",
+                "implied_volatility_change": "-0.012241",
+                "delta": "-0.230722"
+            }
+        },
+        {
+            "option": {
+                "id": "opt_3LO678",
+                "code": "TSLA200710P00830000",
+                "ticker": "TSLA",
+                "expiration": "2020-07-10",
+                "strike": "830.0",
+                "type": "put"
+            },
+            "price": {
+                "date": "2020-06-09",
+                "close": "24.775",
+                "close_bid": "23.75",
+                "close_ask": "25.8",
+                "volume": 9,
+                "volume_bid": 0,
+                "volume_ask": 0,
+                "trades": 4,
+                "open_interest": 2,
+                "open_interest_change": 1,
+                "next_day_open_interest": 0,
+                "implied_volatility": "0.641567",
+                "implied_volatility_change": "-0.006879",
+                "delta": "-0.221272"
+            }
+        },
+        {
+            "option": {
+                "id": "opt_l3ZlMq",
+                "code": "TSLA200710P00825000",
+                "ticker": "TSLA",
+                "expiration": "2020-07-10",
+                "strike": "825.0",
+                "type": "put"
+            },
+            "price": {
+                "date": "2020-06-09",
+                "close": "23.475",
+                "close_bid": "22.4",
+                "close_ask": "24.55",
+                "volume": 23,
+                "volume_bid": 1,
+                "volume_ask": 6,
+                "trades": 8,
+                "open_interest": 12,
+                "open_interest_change": -3,
+                "next_day_open_interest": 0,
+                "implied_volatility": "0.645253",
+                "implied_volatility_change": "-0.006236",
+                "delta": "-0.212084"
+            }
+        },
+        {
+            "option": {
+                "id": "opt_jjwk74",
+                "code": "TSLA200710P00820000",
+                "ticker": "TSLA",
+                "expiration": "2020-07-10",
+                "strike": "820.0",
+                "type": "put"
+            },
+            "price": {
+                "date": "2020-06-09",
+                "close": "22.55",
+                "close_bid": "21.15",
+                "close_ask": "23.95",
+                "volume": 12,
+                "volume_bid": 2,
+                "volume_ask": 2,
+                "trades": 8,
+                "open_interest": 28,
+                "open_interest_change": 5,
+                "next_day_open_interest": 0,
+                "implied_volatility": "0.653212",
+                "implied_volatility_change": "-0.006831",
+                "delta": "-0.204322"
+            }
+        },
+        {
+            "option": {
+                "id": "opt_OJ750d",
+                "code": "TSLA200710P00815000",
+                "ticker": "TSLA",
+                "expiration": "2020-07-10",
+                "strike": "815.0",
+                "type": "put"
+            },
+            "price": {
+                "date": "2020-06-09",
+                "close": "20.8",
+                "close_bid": "19.95",
+                "close_ask": "21.65",
+                "volume": 4,
+                "volume_bid": 0,
+                "volume_ask": 1,
+                "trades": 4,
+                "open_interest": 17,
+                "open_interest_change": 1,
+                "next_day_open_interest": 0,
+                "implied_volatility": "0.645107",
+                "implied_volatility_change": "-0.016836",
+                "delta": "-0.193658"
+            }
+        },
+        {
+            "option": {
+                "id": "opt_Pqe40E",
+                "code": "TSLA200710P00810000",
+                "ticker": "TSLA",
+                "expiration": "2020-07-10",
+                "strike": "810.0",
+                "type": "put"
+            },
+            "price": {
+                "date": "2020-06-09",
+                "close": "19.675",
+                "close_bid": "18.85",
+                "close_ask": "20.5",
+                "volume": 5,
+                "volume_bid": 0,
+                "volume_ask": 0,
+                "trades": 3,
+                "open_interest": 16,
+                "open_interest_change": 3,
+                "next_day_open_interest": 0,
+                "implied_volatility": "0.64374",
+                "implied_volatility_change": "-0.018815",
+                "delta": "-0.185179"
+            }
+        },
+        {
+            "option": {
+                "id": "opt_EVaR06",
+                "code": "TSLA200710P00805000",
+                "ticker": "TSLA",
+                "expiration": "2020-07-10",
+                "strike": "805.0",
+                "type": "put"
+            },
+            "price": {
+                "date": "2020-06-09",
+                "close": "18.575",
+                "close_bid": "17.75",
+                "close_ask": "19.4",
+                "volume": 11,
+                "volume_bid": 0,
+                "volume_ask": 0,
+                "trades": 2,
+                "open_interest": 14,
+                "open_interest_change": 1,
+                "next_day_open_interest": 0,
+                "implied_volatility": "0.642714",
+                "implied_volatility_change": "-0.008134",
+                "delta": "-0.176763"
+            }
+        },
+        {
+            "option": {
+                "id": "opt_x4en6o",
+                "code": "TSLA200710P00800000",
+                "ticker": "TSLA",
+                "expiration": "2020-07-10",
+                "strike": "800.0",
+                "type": "put"
+            },
+            "price": {
+                "date": "2020-06-09",
+                "close": "17.45",
+                "close_bid": "16.9",
+                "close_ask": "18.0",
+                "volume": 43,
+                "volume_bid": 11,
+                "volume_ask": 11,
+                "trades": 26,
+                "open_interest": 269,
+                "open_interest_change": 219,
+                "next_day_open_interest": 0,
+                "implied_volatility": "0.641335",
+                "implied_volatility_change": "-0.019101",
+                "delta": "-0.168218"
+            }
+        },
+        {
+            "option": {
+                "id": "opt_2vEVbo",
+                "code": "TSLA200710P00795000",
+                "ticker": "TSLA",
+                "expiration": "2020-07-10",
+                "strike": "795.0",
+                "type": "put"
+            },
+            "price": {
+                "date": "2020-06-09",
+                "close": "16.475",
+                "close_bid": "15.65",
+                "close_ask": "17.3",
+                "volume": 0,
+                "volume_bid": 0,
+                "volume_ask": 0,
+                "trades": 0,
+                "open_interest": 27,
+                "open_interest_change": 0,
+                "next_day_open_interest": 0,
+                "implied_volatility": "0.64219",
+                "implied_volatility_change": "-0.014981",
+                "delta": "-0.16032"
+            }
+        },
+        {
+            "option": {
+                "id": "opt_YN5b0N",
+                "code": "TSLA200710P00790000",
+                "ticker": "TSLA",
+                "expiration": "2020-07-10",
+                "strike": "790.0",
+                "type": "put"
+            },
+            "price": {
+                "date": "2020-06-09",
+                "close": "15.675",
+                "close_bid": "14.9",
+                "close_ask": "16.45",
+                "volume": 8,
+                "volume_bid": 1,
+                "volume_ask": 0,
+                "trades": 7,
+                "open_interest": 20,
+                "open_interest_change": 4,
+                "next_day_open_interest": 0,
+                "implied_volatility": "0.645705",
+                "implied_volatility_change": "-0.006284",
+                "delta": "-0.153275"
+            }
+        },
+        {
+            "option": {
+                "id": "opt_oeBNMZ",
+                "code": "TSLA200710P00785000",
+                "ticker": "TSLA",
+                "expiration": "2020-07-10",
+                "strike": "785.0",
+                "type": "put"
+            },
+            "price": {
+                "date": "2020-06-09",
+                "close": "14.775",
+                "close_bid": "14.0",
+                "close_ask": "15.55",
+                "volume": 3,
+                "volume_bid": 0,
+                "volume_ask": 1,
+                "trades": 3,
+                "open_interest": 12,
+                "open_interest_change": -5,
+                "next_day_open_interest": 0,
+                "implied_volatility": "0.647707",
+                "implied_volatility_change": "-0.005747",
+                "delta": "-0.145813"
+            }
+        },
+        {
+            "option": {
+                "id": "opt_nNmRVl",
+                "code": "TSLA200710P00780000",
+                "ticker": "TSLA",
+                "expiration": "2020-07-10",
+                "strike": "780.0",
+                "type": "put"
+            },
+            "price": {
+                "date": "2020-06-09",
+                "close": "14.325",
+                "close_bid": "13.15",
+                "close_ask": "15.5",
+                "volume": 3,
+                "volume_bid": 0,
+                "volume_ask": 1,
+                "trades": 3,
+                "open_interest": 209,
+                "open_interest_change": 199,
+                "next_day_open_interest": 0,
+                "implied_volatility": "0.656594",
+                "implied_volatility_change": "-0.00394",
+                "delta": "-0.140641"
+            }
+        },
+        {
+            "option": {
+                "id": "opt_ZVE101",
+                "code": "TSLA200710P00775000",
+                "ticker": "TSLA",
+                "expiration": "2020-07-10",
+                "strike": "775.0",
+                "type": "put"
+            },
+            "price": {
+                "date": "2020-06-09",
+                "close": "13.325",
+                "close_bid": "12.75",
+                "close_ask": "13.9",
+                "volume": 25,
+                "volume_bid": 4,
+                "volume_ask": 0,
+                "trades": 7,
+                "open_interest": 55,
+                "open_interest_change": 5,
+                "next_day_open_interest": 0,
+                "implied_volatility": "0.657119",
+                "implied_volatility_change": "-0.006061",
+                "delta": "-0.132833"
+            }
+        },
+        {
+            "option": {
+                "id": "opt_dJloMR",
+                "code": "TSLA200710P00770000",
+                "ticker": "TSLA",
+                "expiration": "2020-07-10",
+                "strike": "770.0",
+                "type": "put"
+            },
+            "price": {
+                "date": "2020-06-09",
+                "close": "12.575",
+                "close_bid": "11.95",
+                "close_ask": "13.2",
+                "volume": 44,
+                "volume_bid": 6,
+                "volume_ask": 17,
+                "trades": 10,
+                "open_interest": 52,
+                "open_interest_change": 5,
+                "next_day_open_interest": 0,
+                "implied_volatility": "0.661489",
+                "implied_volatility_change": "-0.000836",
+                "delta": "-0.126351"
+            }
+        },
+        {
+            "option": {
+                "id": "opt_8OpP7p",
+                "code": "TSLA200710P00765000",
+                "ticker": "TSLA",
+                "expiration": "2020-07-10",
+                "strike": "765.0",
+                "type": "put"
+            },
+            "price": {
+                "date": "2020-06-09",
+                "close": "11.9",
+                "close_bid": "11.3",
+                "close_ask": "12.5",
+                "volume": 2,
+                "volume_bid": 0,
+                "volume_ask": 0,
+                "trades": 2,
+                "open_interest": 17,
+                "open_interest_change": 2,
+                "next_day_open_interest": 0,
+                "implied_volatility": "0.667031",
+                "implied_volatility_change": null,
+                "delta": "-0.120347"
+            }
+        },
+        {
+            "option": {
+                "id": "opt_w47BV3",
+                "code": "TSLA200710P00760000",
+                "ticker": "TSLA",
+                "expiration": "2020-07-10",
+                "strike": "760.0",
+                "type": "put"
+            },
+            "price": {
+                "date": "2020-06-09",
+                "close": "11.25",
+                "close_bid": "10.65",
+                "close_ask": "11.85",
+                "volume": 13,
+                "volume_bid": 0,
+                "volume_ask": 2,
+                "trades": 8,
+                "open_interest": 19,
+                "open_interest_change": 5,
+                "next_day_open_interest": 0,
+                "implied_volatility": "0.673012",
+                "implied_volatility_change": "0.005087",
+                "delta": "-0.114582"
+            }
+        },
+        {
+            "option": {
+                "id": "opt_p4ndMv",
+                "code": "TSLA200710P00755000",
+                "ticker": "TSLA",
+                "expiration": "2020-07-10",
+                "strike": "755.0",
+                "type": "put"
+            },
+            "price": {
+                "date": "2020-06-09",
+                "close": "10.625",
+                "close_bid": "10.05",
+                "close_ask": "11.2",
+                "volume": 6,
+                "volume_bid": 0,
+                "volume_ask": 2,
+                "trades": 4,
+                "open_interest": 23,
+                "open_interest_change": 0,
+                "next_day_open_interest": 0,
+                "implied_volatility": "0.67477",
+                "implied_volatility_change": "0.004442",
+                "delta": "-0.109025"
+            }
+        },
+        {
+            "option": {
+                "id": "opt_GvBd00",
+                "code": "TSLA200710P00750000",
+                "ticker": "TSLA",
+                "expiration": "2020-07-10",
+                "strike": "750.0",
+                "type": "put"
+            },
+            "price": {
+                "date": "2020-06-09",
+                "close": "10.025",
+                "close_bid": "9.45",
+                "close_ask": "10.6",
+                "volume": 33,
+                "volume_bid": 8,
+                "volume_ask": 3,
+                "trades": 18,
+                "open_interest": 113,
+                "open_interest_change": 37,
+                "next_day_open_interest": 0,
+                "implied_volatility": "0.674599",
+                "implied_volatility_change": "-0.002798",
+                "delta": "-0.103604"
+            }
+        },
+        {
+            "option": {
+                "id": "opt_q14KMA",
+                "code": "TSLA200710P00745000",
+                "ticker": "TSLA",
+                "expiration": "2020-07-10",
+                "strike": "745.0",
+                "type": "put"
+            },
+            "price": {
+                "date": "2020-06-09",
+                "close": "9.475",
+                "close_bid": "8.9",
+                "close_ask": "10.05",
+                "volume": 2,
+                "volume_bid": 1,
+                "volume_ask": 1,
+                "trades": 2,
+                "open_interest": 22,
+                "open_interest_change": 0,
+                "next_day_open_interest": 0,
+                "implied_volatility": "0.675576",
+                "implied_volatility_change": "-0.013244",
+                "delta": "-0.098471"
+            }
+        },
+        {
+            "option": {
+                "id": "opt_JY980m",
+                "code": "TSLA200710P00740000",
+                "ticker": "TSLA",
+                "expiration": "2020-07-10",
+                "strike": "740.0",
+                "type": "put"
+            },
+            "price": {
+                "date": "2020-06-09",
+                "close": "8.975",
+                "close_bid": "8.4",
+                "close_ask": "9.55",
+                "volume": 5,
+                "volume_bid": 1,
+                "volume_ask": 2,
+                "trades": 4,
+                "open_interest": 76,
+                "open_interest_change": 7,
+                "next_day_open_interest": 0,
+                "implied_volatility": "0.677773",
+                "implied_volatility_change": "-0.010949",
+                "delta": "-0.093663"
+            }
+        },
+        {
+            "option": {
+                "id": "opt_YNbk9N",
+                "code": "TSLA200710P00700000",
+                "ticker": "TSLA",
+                "expiration": "2020-07-10",
+                "strike": "700.0",
+                "type": "put"
+            },
+            "price": {
+                "date": "2020-06-09",
+                "close": "5.575",
+                "close_bid": "4.95",
+                "close_ask": "6.2",
+                "volume": 12,
+                "volume_bid": 5,
+                "volume_ask": 3,
+                "trades": 10,
+                "open_interest": 90,
+                "open_interest_change": 26,
+                "next_day_open_interest": 0,
+                "implied_volatility": "0.710246",
+                "implied_volatility_change": "-0.020428",
+                "delta": "-0.060445"
+            }
+        },
+        {
+            "option": {
+                "id": "opt_5YLw8x",
+                "code": "TSLA200710P00650000",
+                "ticker": "TSLA",
+                "expiration": "2020-07-10",
+                "strike": "650.0",
+                "type": "put"
+            },
+            "price": {
+                "date": "2020-06-09",
+                "close": "3.425",
+                "close_bid": "3.0",
+                "close_ask": "3.85",
+                "volume": 66,
+                "volume_bid": 49,
+                "volume_ask": 16,
+                "trades": 29,
+                "open_interest": 43,
+                "open_interest_change": 10,
+                "next_day_open_interest": 0,
+                "implied_volatility": "0.760824",
+                "implied_volatility_change": "0.014284",
+                "delta": "-0.036984"
+            }
+        },
+        {
+            "option": {
+                "id": "opt_oeNRKv",
+                "code": "TSLA200710P00600000",
+                "ticker": "TSLA",
+                "expiration": "2020-07-10",
+                "strike": "600.0",
+                "type": "put"
+            },
+            "price": {
+                "date": "2020-06-09",
+                "close": "2.125",
+                "close_bid": "2.0",
+                "close_ask": "2.25",
+                "volume": 37,
+                "volume_bid": 14,
+                "volume_ask": 17,
+                "trades": 18,
+                "open_interest": 195,
+                "open_interest_change": 18,
+                "next_day_open_interest": 0,
+                "implied_volatility": "0.837285",
+                "implied_volatility_change": "0.016641",
+                "delta": "-0.022551"
+            }
+        }
+    ]
+}

@@ -1,0 +1,4580 @@
+{
+    "chain": [
+        {
+            "option": {
+                "id": "opt_klj87Q",
+                "code": "ZM200612C00315000",
+                "ticker": "ZM",
+                "expiration": "2020-06-12",
+                "strike": "315.0",
+                "type": "call"
+            },
+            "price": {
+                "date": "2020-06-09",
+                "close": "0.05",
+                "close_bid": "0.0",
+                "close_ask": "0.1",
+                "volume": 0,
+                "volume_bid": 0,
+                "volume_ask": 0,
+                "trades": 0,
+                "open_interest": 10,
+                "open_interest_change": 0,
+                "next_day_open_interest": 0,
+                "implied_volatility": "1.77549",
+                "implied_volatility_change": null,
+                "delta": "0.00501"
+            }
+        },
+        {
+            "option": {
+                "id": "opt_oeNBr6",
+                "code": "ZM200612C00310000",
+                "ticker": "ZM",
+                "expiration": "2020-06-12",
+                "strike": "310.0",
+                "type": "call"
+            },
+            "price": {
+                "date": "2020-06-09",
+                "close": "0.05",
+                "close_bid": "0.0",
+                "close_ask": "0.1",
+                "volume": 0,
+                "volume_bid": 0,
+                "volume_ask": 0,
+                "trades": 0,
+                "open_interest": 2,
+                "open_interest_change": 0,
+                "next_day_open_interest": 0,
+                "implied_volatility": "1.71728",
+                "implied_volatility_change": null,
+                "delta": "0.005159"
+            }
+        },
+        {
+            "option": {
+                "id": "opt_p4dn7k",
+                "code": "ZM200612C00305000",
+                "ticker": "ZM",
+                "expiration": "2020-06-12",
+                "strike": "305.0",
+                "type": "call"
+            },
+            "price": {
+                "date": "2020-06-09",
+                "close": "0.05",
+                "close_bid": "0.0",
+                "close_ask": "0.1",
+                "volume": 0,
+                "volume_bid": 0,
+                "volume_ask": 0,
+                "trades": 0,
+                "open_interest": 0,
+                "open_interest_change": 0,
+                "next_day_open_interest": 0,
+                "implied_volatility": "1.7048",
+                "implied_volatility_change": null,
+                "delta": "0.006575"
+            }
+        },
+        {
+            "option": {
+                "id": "opt_v4mP6E",
+                "code": "ZM200612C00300000",
+                "ticker": "ZM",
+                "expiration": "2020-06-12",
+                "strike": "300.0",
+                "type": "call"
+            },
+            "price": {
+                "date": "2020-06-09",
+                "close": "0.025",
+                "close_bid": "0.0",
+                "close_ask": "0.05",
+                "volume": 1,
+                "volume_bid": 0,
+                "volume_ask": 0,
+                "trades": 1,
+                "open_interest": 520,
+                "open_interest_change": 28,
+                "next_day_open_interest": 0,
+                "implied_volatility": "1.48893",
+                "implied_volatility_change": "0.237497",
+                "delta": "0.003093"
+            }
+        },
+        {
+            "option": {
+                "id": "opt_LEaeL7",
+                "code": "ZM200612C00295000",
+                "ticker": "ZM",
+                "expiration": "2020-06-12",
+                "strike": "295.0",
+                "type": "call"
+            },
+            "price": {
+                "date": "2020-06-09",
+                "close": "0.025",
+                "close_bid": "0.0",
+                "close_ask": "0.05",
+                "volume": 0,
+                "volume_bid": 0,
+                "volume_ask": 0,
+                "trades": 0,
+                "open_interest": 37,
+                "open_interest_change": 0,
+                "next_day_open_interest": 0,
+                "implied_volatility": "1.43021",
+                "implied_volatility_change": "0.127907",
+                "delta": "0.003206"
+            }
+        },
+        {
+            "option": {
+                "id": "opt_W3e2xq",
+                "code": "ZM200612C00290000",
+                "ticker": "ZM",
+                "expiration": "2020-06-12",
+                "strike": "290.0",
+                "type": "call"
+            },
+            "price": {
+                "date": "2020-06-09",
+                "close": "0.025",
+                "close_bid": "0.0",
+                "close_ask": "0.05",
+                "volume": 1,
+                "volume_bid": 0,
+                "volume_ask": 0,
+                "trades": 1,
+                "open_interest": 101,
+                "open_interest_change": 0,
+                "next_day_open_interest": 0,
+                "implied_volatility": "1.37017",
+                "implied_volatility_change": null,
+                "delta": "0.00333"
+            }
+        },
+        {
+            "option": {
+                "id": "opt_EVRA4p",
+                "code": "ZM200612C00285000",
+                "ticker": "ZM",
+                "expiration": "2020-06-12",
+                "strike": "285.0",
+                "type": "call"
+            },
+            "price": {
+                "date": "2020-06-09",
+                "close": "0.025",
+                "close_bid": "0.0",
+                "close_ask": "0.05",
+                "volume": 0,
+                "volume_bid": 0,
+                "volume_ask": 0,
+                "trades": 0,
+                "open_interest": 94,
+                "open_interest_change": -2,
+                "next_day_open_interest": 0,
+                "implied_volatility": "1.30876",
+                "implied_volatility_change": "0.167222",
+                "delta": "0.003469"
+            }
+        },
+        {
+            "option": {
+                "id": "opt_Pq42ER",
+                "code": "ZM200612C00280000",
+                "ticker": "ZM",
+                "expiration": "2020-06-12",
+                "strike": "280.0",
+                "type": "call"
+            },
+            "price": {
+                "date": "2020-06-09",
+                "close": "0.025",
+                "close_bid": "0.0",
+                "close_ask": "0.05",
+                "volume": 31,
+                "volume_bid": 3,
+                "volume_ask": 0,
+                "trades": 8,
+                "open_interest": 499,
+                "open_interest_change": 11,
+                "next_day_open_interest": 0,
+                "implied_volatility": "1.2459",
+                "implied_volatility_change": "0.149116",
+                "delta": "0.003625"
+            }
+        },
+        {
+            "option": {
+                "id": "opt_1619NZ",
+                "code": "ZM200612C00275000",
+                "ticker": "ZM",
+                "expiration": "2020-06-12",
+                "strike": "275.0",
+                "type": "call"
+            },
+            "price": {
+                "date": "2020-06-09",
+                "close": "0.025",
+                "close_bid": "0.0",
+                "close_ask": "0.05",
+                "volume": 1,
+                "volume_bid": 0,
+                "volume_ask": 1,
+                "trades": 1,
+                "open_interest": 309,
+                "open_interest_change": 12,
+                "next_day_open_interest": 0,
+                "implied_volatility": "1.1815",
+                "implied_volatility_change": "0.115247",
+                "delta": "0.0038"
+            }
+        },
+        {
+            "option": {
+                "id": "opt_Vl72p0",
+                "code": "ZM200612C00270000",
+                "ticker": "ZM",
+                "expiration": "2020-06-12",
+                "strike": "270.0",
+                "type": "call"
+            },
+            "price": {
+                "date": "2020-06-09",
+                "close": "0.025",
+                "close_bid": "0.0",
+                "close_ask": "0.05",
+                "volume": 26,
+                "volume_bid": 26,
+                "volume_ask": 0,
+                "trades": 4,
+                "open_interest": 284,
+                "open_interest_change": 55,
+                "next_day_open_interest": 0,
+                "implied_volatility": "1.11547",
+                "implied_volatility_change": "0.045199",
+                "delta": "0.004"
+            }
+        },
+        {
+            "option": {
+                "id": "opt_5YLBb1",
+                "code": "ZM200612C00265000",
+                "ticker": "ZM",
+                "expiration": "2020-06-12",
+                "strike": "265.0",
+                "type": "call"
+            },
+            "price": {
+                "date": "2020-06-09",
+                "close": "0.075",
+                "close_bid": "0.0",
+                "close_ask": "0.15",
+                "volume": 7,
+                "volume_bid": 5,
+                "volume_ask": 1,
+                "trades": 7,
+                "open_interest": 556,
+                "open_interest_change": 349,
+                "next_day_open_interest": 0,
+                "implied_volatility": "1.18596",
+                "implied_volatility_change": "0.15659",
+                "delta": "0.010324"
+            }
+        },
+        {
+            "option": {
+                "id": "opt_0Vb9R2",
+                "code": "ZM200612C00260000",
+                "ticker": "ZM",
+                "expiration": "2020-06-12",
+                "strike": "260.0",
+                "type": "call"
+            },
+            "price": {
+                "date": "2020-06-09",
+                "close": "0.025",
+                "close_bid": "0.0",
+                "close_ask": "0.05",
+                "volume": 14,
+                "volume_bid": 14,
+                "volume_ask": 0,
+                "trades": 7,
+                "open_interest": 613,
+                "open_interest_change": 5,
+                "next_day_open_interest": 0,
+                "implied_volatility": "0.97813",
+                "implied_volatility_change": "-0.0421",
+                "delta": "0.004499"
+            }
+        },
+        {
+            "option": {
+                "id": "opt_l3E0v8",
+                "code": "ZM200612C00255000",
+                "ticker": "ZM",
+                "expiration": "2020-06-12",
+                "strike": "255.0",
+                "type": "call"
+            },
+            "price": {
+                "date": "2020-06-09",
+                "close": "0.075",
+                "close_bid": "0.05",
+                "close_ask": "0.1",
+                "volume": 29,
+                "volume_bid": 23,
+                "volume_ask": 2,
+                "trades": 13,
+                "open_interest": 1142,
+                "open_interest_change": -51,
+                "next_day_open_interest": 0,
+                "implied_volatility": "1.03024",
+                "implied_volatility_change": "0.060002",
+                "delta": "0.011679"
+            }
+        },
+        {
+            "option": {
+                "id": "opt_w43rpl",
+                "code": "ZM200612C00250000",
+                "ticker": "ZM",
+                "expiration": "2020-06-12",
+                "strike": "250.0",
+                "type": "call"
+            },
+            "price": {
+                "date": "2020-06-09",
+                "close": "0.075",
+                "close_bid": "0.05",
+                "close_ask": "0.1",
+                "volume": 1096,
+                "volume_bid": 1025,
+                "volume_ask": 42,
+                "trades": 57,
+                "open_interest": 1270,
+                "open_interest_change": -79,
+                "next_day_open_interest": 0,
+                "implied_volatility": "0.948752",
+                "implied_volatility_change": "0.009112",
+                "delta": "0.012553"
+            }
+        },
+        {
+            "option": {
+                "id": "opt_VlqPq6",
+                "code": "ZM200612C00245000",
+                "ticker": "ZM",
+                "expiration": "2020-06-12",
+                "strike": "245.0",
+                "type": "call"
+            },
+            "price": {
+                "date": "2020-06-09",
+                "close": "0.075",
+                "close_bid": "0.05",
+                "close_ask": "0.1",
+                "volume": 68,
+                "volume_bid": 50,
+                "volume_ask": 10,
+                "trades": 25,
+                "open_interest": 431,
+                "open_interest_change": -10,
+                "next_day_open_interest": 0,
+                "implied_volatility": "0.864571",
+                "implied_volatility_change": "-0.047228",
+                "delta": "0.013619"
+            }
+        },
+        {
+            "option": {
+                "id": "opt_7EYGEr",
+                "code": "ZM200612C00242500",
+                "ticker": "ZM",
+                "expiration": "2020-06-12",
+                "strike": "242.5",
+                "type": "call"
+            },
+            "price": {
+                "date": "2020-06-09",
+                "close": "0.075",
+                "close_bid": "0.0",
+                "close_ask": "0.15",
+                "volume": 115,
+                "volume_bid": 42,
+                "volume_ask": 71,
+                "trades": 35,
+                "open_interest": 46,
+                "open_interest_change": 20,
+                "next_day_open_interest": 0,
+                "implied_volatility": "0.821384",
+                "implied_volatility_change": "-0.079322",
+                "delta": "0.014245"
+            }
+        },
+        {
+            "option": {
+                "id": "opt_nNnY7N",
+                "code": "ZM200612C00240000",
+                "ticker": "ZM",
+                "expiration": "2020-06-12",
+                "strike": "240.0",
+                "type": "call"
+            },
+            "price": {
+                "date": "2020-06-09",
+                "close": "0.15",
+                "close_bid": "0.1",
+                "close_ask": "0.2",
+                "volume": 397,
+                "volume_bid": 62,
+                "volume_ask": 152,
+                "trades": 73,
+                "open_interest": 2409,
+                "open_interest_change": 192,
+                "next_day_open_interest": 0,
+                "implied_volatility": "0.860931",
+                "implied_volatility_change": "-0.007424",
+                "delta": "0.025375"
+            }
+        },
+        {
+            "option": {
+                "id": "opt_MOmDO8",
+                "code": "ZM200612C00237500",
+                "ticker": "ZM",
+                "expiration": "2020-06-12",
+                "strike": "237.5",
+                "type": "call"
+            },
+            "price": {
+                "date": "2020-06-09",
+                "close": "0.25",
+                "close_bid": "0.15",
+                "close_ask": "0.35",
+                "volume": 68,
+                "volume_bid": 7,
+                "volume_ask": 43,
+                "trades": 17,
+                "open_interest": 116,
+                "open_interest_change": 38,
+                "next_day_open_interest": 0,
+                "implied_volatility": "0.886374",
+                "implied_volatility_change": "0.018654",
+                "delta": "0.038788"
+            }
+        },
+        {
+            "option": {
+                "id": "opt_q12G35",
+                "code": "ZM200612C00235000",
+                "ticker": "ZM",
+                "expiration": "2020-06-12",
+                "strike": "235.0",
+                "type": "call"
+            },
+            "price": {
+                "date": "2020-06-09",
+                "close": "0.25",
+                "close_bid": "0.15",
+                "close_ask": "0.35",
+                "volume": 239,
+                "volume_bid": 75,
+                "volume_ask": 71,
+                "trades": 74,
+                "open_interest": 1142,
+                "open_interest_change": 87,
+                "next_day_open_interest": 0,
+                "implied_volatility": "0.833902",
+                "implied_volatility_change": "-0.011048",
+                "delta": "0.040849"
+            }
+        },
+        {
+            "option": {
+                "id": "opt_mR3aRY",
+                "code": "ZM200612C00232500",
+                "ticker": "ZM",
+                "expiration": "2020-06-12",
+                "strike": "232.5",
+                "type": "call"
+            },
+            "price": {
+                "date": "2020-06-09",
+                "close": "0.3",
+                "close_bid": "0.25",
+                "close_ask": "0.35",
+                "volume": 129,
+                "volume_bid": 47,
+                "volume_ask": 33,
+                "trades": 41,
+                "open_interest": 298,
+                "open_interest_change": 186,
+                "next_day_open_interest": 0,
+                "implied_volatility": "0.807984",
+                "implied_volatility_change": "-0.033968",
+                "delta": "0.049151"
+            }
+        },
+        {
+            "option": {
+                "id": "opt_GvmoJe",
+                "code": "ZM200612C00230000",
+                "ticker": "ZM",
+                "expiration": "2020-06-12",
+                "strike": "230.0",
+                "type": "call"
+            },
+            "price": {
+                "date": "2020-06-09",
+                "close": "0.375",
+                "close_bid": "0.35",
+                "close_ask": "0.4",
+                "volume": 865,
+                "volume_bid": 481,
+                "volume_ask": 199,
+                "trades": 181,
+                "open_interest": 2541,
+                "open_interest_change": 132,
+                "next_day_open_interest": 0,
+                "implied_volatility": "0.787123",
+                "implied_volatility_change": "-0.042714",
+                "delta": "0.060887"
+            }
+        },
+        {
+            "option": {
+                "id": "opt_4WvoWA",
+                "code": "ZM200612C00227500",
+                "ticker": "ZM",
+                "expiration": "2020-06-12",
+                "strike": "227.5",
+                "type": "call"
+            },
+            "price": {
+                "date": "2020-06-09",
+                "close": "0.45",
+                "close_bid": "0.4",
+                "close_ask": "0.5",
+                "volume": 205,
+                "volume_bid": 21,
+                "volume_ask": 65,
+                "trades": 73,
+                "open_interest": 325,
+                "open_interest_change": 219,
+                "next_day_open_interest": 0,
+                "implied_volatility": "0.75782",
+                "implied_volatility_change": "-0.072649",
+                "delta": "0.073412"
+            }
+        },
+        {
+            "option": {
+                "id": "opt_oe4Jj6",
+                "code": "ZM200612C00225000",
+                "ticker": "ZM",
+                "expiration": "2020-06-12",
+                "strike": "225.0",
+                "type": "call"
+            },
+            "price": {
+                "date": "2020-06-09",
+                "close": "0.625",
+                "close_bid": "0.55",
+                "close_ask": "0.7",
+                "volume": 782,
+                "volume_bid": 231,
+                "volume_ask": 252,
+                "trades": 283,
+                "open_interest": 1990,
+                "open_interest_change": 432,
+                "next_day_open_interest": 0,
+                "implied_volatility": "0.753738",
+                "implied_volatility_change": "-0.066702",
+                "delta": "0.097253"
+            }
+        },
+        {
+            "option": {
+                "id": "opt_ZV1EVY",
+                "code": "ZM200612C00222500",
+                "ticker": "ZM",
+                "expiration": "2020-06-12",
+                "strike": "222.5",
+                "type": "call"
+            },
+            "price": {
+                "date": "2020-06-09",
+                "close": "0.85",
+                "close_bid": "0.75",
+                "close_ask": "0.95",
+                "volume": 295,
+                "volume_bid": 69,
+                "volume_ask": 114,
+                "trades": 128,
+                "open_interest": 312,
+                "open_interest_change": 89,
+                "next_day_open_interest": 0,
+                "implied_volatility": "0.747429",
+                "implied_volatility_change": "-0.05574",
+                "delta": "0.126313"
+            }
+        },
+        {
+            "option": {
+                "id": "opt_OJMl30",
+                "code": "ZM200612C00220000",
+                "ticker": "ZM",
+                "expiration": "2020-06-12",
+                "strike": "220.0",
+                "type": "call"
+            },
+            "price": {
+                "date": "2020-06-09",
+                "close": "1.175",
+                "close_bid": "1.1",
+                "close_ask": "1.25",
+                "volume": 1659,
+                "volume_bid": 811,
+                "volume_ask": 381,
+                "trades": 470,
+                "open_interest": 1981,
+                "open_interest_change": 649,
+                "next_day_open_interest": 0,
+                "implied_volatility": "0.747528",
+                "implied_volatility_change": "-0.064373",
+                "delta": "0.164259"
+            }
+        },
+        {
+            "option": {
+                "id": "opt_dJolpo",
+                "code": "ZM200612C00217500",
+                "ticker": "ZM",
+                "expiration": "2020-06-12",
+                "strike": "217.5",
+                "type": "call"
+            },
+            "price": {
+                "date": "2020-06-09",
+                "close": "1.6",
+                "close_bid": "1.45",
+                "close_ask": "1.75",
+                "volume": 364,
+                "volume_bid": 121,
+                "volume_ask": 125,
+                "trades": 137,
+                "open_interest": 360,
+                "open_interest_change": 120,
+                "next_day_open_interest": 0,
+                "implied_volatility": "0.748164",
+                "implied_volatility_change": "-0.060497",
+                "delta": "0.209625"
+            }
+        },
+        {
+            "option": {
+                "id": "opt_JY4Gpw",
+                "code": "ZM200612C00215000",
+                "ticker": "ZM",
+                "expiration": "2020-06-12",
+                "strike": "215.0",
+                "type": "call"
+            },
+            "price": {
+                "date": "2020-06-09",
+                "close": "2.125",
+                "close_bid": "2.1",
+                "close_ask": "2.15",
+                "volume": 1520,
+                "volume_bid": 492,
+                "volume_ask": 591,
+                "trades": 437,
+                "open_interest": 2361,
+                "open_interest_change": 1081,
+                "next_day_open_interest": 0,
+                "implied_volatility": "0.746143",
+                "implied_volatility_change": "-0.060605",
+                "delta": "0.26135"
+            }
+        },
+        {
+            "option": {
+                "id": "opt_NoBMqM",
+                "code": "ZM200612C00212500",
+                "ticker": "ZM",
+                "expiration": "2020-06-12",
+                "strike": "212.5",
+                "type": "call"
+            },
+            "price": {
+                "date": "2020-06-09",
+                "close": "2.825",
+                "close_bid": "2.75",
+                "close_ask": "2.9",
+                "volume": 871,
+                "volume_bid": 219,
+                "volume_ask": 527,
+                "trades": 210,
+                "open_interest": 507,
+                "open_interest_change": 91,
+                "next_day_open_interest": 0,
+                "implied_volatility": "0.750754",
+                "implied_volatility_change": "-0.05515",
+                "delta": "0.32168"
+            }
+        },
+        {
+            "option": {
+                "id": "opt_LE21v1",
+                "code": "ZM200612C00210000",
+                "ticker": "ZM",
+                "expiration": "2020-06-12",
+                "strike": "210.0",
+                "type": "call"
+            },
+            "price": {
+                "date": "2020-06-09",
+                "close": "3.5",
+                "close_bid": "3.4",
+                "close_ask": "3.6",
+                "volume": 1772,
+                "volume_bid": 694,
+                "volume_ask": 674,
+                "trades": 597,
+                "open_interest": 1429,
+                "open_interest_change": 348,
+                "next_day_open_interest": 0,
+                "implied_volatility": "0.730161",
+                "implied_volatility_change": "-0.055664",
+                "delta": "0.382402"
+            }
+        },
+        {
+            "option": {
+                "id": "opt_aEPxEL",
+                "code": "ZM200612C00207500",
+                "ticker": "ZM",
+                "expiration": "2020-06-12",
+                "strike": "207.5",
+                "type": "call"
+            },
+            "price": {
+                "date": "2020-06-09",
+                "close": "4.55",
+                "close_bid": "4.4",
+                "close_ask": "4.7",
+                "volume": 903,
+                "volume_bid": 451,
+                "volume_ask": 325,
+                "trades": 282,
+                "open_interest": 333,
+                "open_interest_change": 130,
+                "next_day_open_interest": 0,
+                "implied_volatility": "0.739729",
+                "implied_volatility_change": "-0.091279",
+                "delta": "0.453879"
+            }
+        },
+        {
+            "option": {
+                "id": "opt_0VW4KD",
+                "code": "ZM200612C00205000",
+                "ticker": "ZM",
+                "expiration": "2020-06-12",
+                "strike": "205.0",
+                "type": "call"
+            },
+            "price": {
+                "date": "2020-06-09",
+                "close": "5.7",
+                "close_bid": "5.5",
+                "close_ask": "5.9",
+                "volume": 1037,
+                "volume_bid": 459,
+                "volume_ask": 330,
+                "trades": 412,
+                "open_interest": 905,
+                "open_interest_change": 76,
+                "next_day_open_interest": 0,
+                "implied_volatility": "0.738681",
+                "implied_volatility_change": "-0.079534",
+                "delta": "0.525863"
+            }
+        },
+        {
+            "option": {
+                "id": "opt_nNRmNP",
+                "code": "ZM200612C00202500",
+                "ticker": "ZM",
+                "expiration": "2020-06-12",
+                "strike": "202.5",
+                "type": "call"
+            },
+            "price": {
+                "date": "2020-06-09",
+                "close": "7.1",
+                "close_bid": "6.9",
+                "close_ask": "7.3",
+                "volume": 127,
+                "volume_bid": 35,
+                "volume_ask": 55,
+                "trades": 59,
+                "open_interest": 595,
+                "open_interest_change": 204,
+                "next_day_open_interest": 0,
+                "implied_volatility": "0.747169",
+                "implied_volatility_change": "-0.063791",
+                "delta": "0.597175"
+            }
+        },
+        {
+            "option": {
+                "id": "opt_QGVLR4",
+                "code": "ZM200612C00200000",
+                "ticker": "ZM",
+                "expiration": "2020-06-12",
+                "strike": "200.0",
+                "type": "call"
+            },
+            "price": {
+                "date": "2020-06-09",
+                "close": "8.65",
+                "close_bid": "8.5",
+                "close_ask": "8.8",
+                "volume": 1428,
+                "volume_bid": 1037,
+                "volume_ask": 266,
+                "trades": 181,
+                "open_interest": 1500,
+                "open_interest_change": 466,
+                "next_day_open_interest": 0,
+                "implied_volatility": "0.752257",
+                "implied_volatility_change": "-0.04384",
+                "delta": "0.665306"
+            }
+        },
+        {
+            "option": {
+                "id": "opt_p4nN0L",
+                "code": "ZM200612C00197500",
+                "ticker": "ZM",
+                "expiration": "2020-06-12",
+                "strike": "197.5",
+                "type": "call"
+            },
+            "price": {
+                "date": "2020-06-09",
+                "close": "10.2",
+                "close_bid": "9.8",
+                "close_ask": "10.6",
+                "volume": 33,
+                "volume_bid": 16,
+                "volume_ask": 13,
+                "trades": 17,
+                "open_interest": 115,
+                "open_interest_change": 10,
+                "next_day_open_interest": 0,
+                "implied_volatility": "0.730364",
+                "implied_volatility_change": "-0.079652",
+                "delta": "0.734914"
+            }
+        },
+        {
+            "option": {
+                "id": "opt_DN8vP4",
+                "code": "ZM200612C00195000",
+                "ticker": "ZM",
+                "expiration": "2020-06-12",
+                "strike": "195.0",
+                "type": "call"
+            },
+            "price": {
+                "date": "2020-06-09",
+                "close": "12.2",
+                "close_bid": "11.9",
+                "close_ask": "12.5",
+                "volume": 295,
+                "volume_bid": 102,
+                "volume_ask": 158,
+                "trades": 43,
+                "open_interest": 639,
+                "open_interest_change": 428,
+                "next_day_open_interest": 0,
+                "implied_volatility": "0.756348",
+                "implied_volatility_change": "-0.07694",
+                "delta": "0.786482"
+            }
+        },
+        {
+            "option": {
+                "id": "opt_RpbYn7",
+                "code": "ZM200612C00192500",
+                "ticker": "ZM",
+                "expiration": "2020-06-12",
+                "strike": "192.5",
+                "type": "call"
+            },
+            "price": {
+                "date": "2020-06-09",
+                "close": "14.2",
+                "close_bid": "13.9",
+                "close_ask": "14.5",
+                "volume": 8,
+                "volume_bid": 7,
+                "volume_ask": 0,
+                "trades": 5,
+                "open_interest": 75,
+                "open_interest_change": -82,
+                "next_day_open_interest": 0,
+                "implied_volatility": "0.759925",
+                "implied_volatility_change": "-0.094037",
+                "delta": "0.836"
+            }
+        },
+        {
+            "option": {
+                "id": "opt_9opmDq",
+                "code": "ZM200612C00190000",
+                "ticker": "ZM",
+                "expiration": "2020-06-12",
+                "strike": "190.0",
+                "type": "call"
+            },
+            "price": {
+                "date": "2020-06-09",
+                "close": "16.3",
+                "close_bid": "16.0",
+                "close_ask": "16.6",
+                "volume": 69,
+                "volume_bid": 11,
+                "volume_ask": 3,
+                "trades": 20,
+                "open_interest": 736,
+                "open_interest_change": 431,
+                "next_day_open_interest": 0,
+                "implied_volatility": "0.758644",
+                "implied_volatility_change": "-0.071415",
+                "delta": "0.878948"
+            }
+        },
+        {
+            "option": {
+                "id": "opt_oeBw0e",
+                "code": "ZM200612C00187500",
+                "ticker": "ZM",
+                "expiration": "2020-06-12",
+                "strike": "187.5",
+                "type": "call"
+            },
+            "price": {
+                "date": "2020-06-09",
+                "close": "18.2",
+                "close_bid": "17.3",
+                "close_ask": "19.1",
+                "volume": 1,
+                "volume_bid": 1,
+                "volume_ask": 0,
+                "trades": 1,
+                "open_interest": 104,
+                "open_interest_change": 4,
+                "next_day_open_interest": 0,
+                "implied_volatility": "0.633877",
+                "implied_volatility_change": "-0.276602",
+                "delta": "0.947174"
+            }
+        },
+        {
+            "option": {
+                "id": "opt_r4Ak53",
+                "code": "ZM200612C00185000",
+                "ticker": "ZM",
+                "expiration": "2020-06-12",
+                "strike": "185.0",
+                "type": "call"
+            },
+            "price": {
+                "date": "2020-06-09",
+                "close": "20.7",
+                "close_bid": "20.2",
+                "close_ask": "21.2",
+                "volume": 13,
+                "volume_bid": 7,
+                "volume_ask": 5,
+                "trades": 6,
+                "open_interest": 314,
+                "open_interest_change": -5,
+                "next_day_open_interest": 0,
+                "implied_volatility": "0.70762",
+                "implied_volatility_change": "-0.18212",
+                "delta": "0.952044"
+            }
+        },
+        {
+            "option": {
+                "id": "opt_3LOAvV",
+                "code": "ZM200612C00182500",
+                "ticker": "ZM",
+                "expiration": "2020-06-12",
+                "strike": "182.5",
+                "type": "call"
+            },
+            "price": {
+                "date": "2020-06-09",
+                "close": "22.7",
+                "close_bid": "21.8",
+                "close_ask": "23.6",
+                "volume": 4,
+                "volume_bid": 0,
+                "volume_ask": 4,
+                "trades": 3,
+                "open_interest": 24,
+                "open_interest_change": -6,
+                "next_day_open_interest": 0,
+                "implied_volatility": "0.0",
+                "implied_volatility_change": null,
+                "delta": "1.0"
+            }
+        },
+        {
+            "option": {
+                "id": "opt_nNn2o3",
+                "code": "ZM200612C00180000",
+                "ticker": "ZM",
+                "expiration": "2020-06-12",
+                "strike": "180.0",
+                "type": "call"
+            },
+            "price": {
+                "date": "2020-06-09",
+                "close": "25.15",
+                "close_bid": "24.2",
+                "close_ask": "26.1",
+                "volume": 14,
+                "volume_bid": 5,
+                "volume_ask": 7,
+                "trades": 8,
+                "open_interest": 367,
+                "open_interest_change": -3,
+                "next_day_open_interest": 0,
+                "implied_volatility": "0.0",
+                "implied_volatility_change": null,
+                "delta": "1.0"
+            }
+        },
+        {
+            "option": {
+                "id": "opt_GvBKb5",
+                "code": "ZM200612C00177500",
+                "ticker": "ZM",
+                "expiration": "2020-06-12",
+                "strike": "177.5",
+                "type": "call"
+            },
+            "price": {
+                "date": "2020-06-09",
+                "close": "27.55",
+                "close_bid": "26.7",
+                "close_ask": "28.4",
+                "volume": 5,
+                "volume_bid": 0,
+                "volume_ask": 5,
+                "trades": 3,
+                "open_interest": 44,
+                "open_interest_change": 1,
+                "next_day_open_interest": 0,
+                "implied_volatility": "0.0",
+                "implied_volatility_change": null,
+                "delta": "1.0"
+            }
+        },
+        {
+            "option": {
+                "id": "opt_4WOAnb",
+                "code": "ZM200612C00175000",
+                "ticker": "ZM",
+                "expiration": "2020-06-12",
+                "strike": "175.0",
+                "type": "call"
+            },
+            "price": {
+                "date": "2020-06-09",
+                "close": "29.75",
+                "close_bid": "28.7",
+                "close_ask": "30.8",
+                "volume": 17,
+                "volume_bid": 2,
+                "volume_ask": 0,
+                "trades": 7,
+                "open_interest": 271,
+                "open_interest_change": -4,
+                "next_day_open_interest": 0,
+                "implied_volatility": "0.0",
+                "implied_volatility_change": null,
+                "delta": "1.0"
+            }
+        },
+        {
+            "option": {
+                "id": "opt_mRBGVJ",
+                "code": "ZM200612C00172500",
+                "ticker": "ZM",
+                "expiration": "2020-06-12",
+                "strike": "172.5",
+                "type": "call"
+            },
+            "price": {
+                "date": "2020-06-09",
+                "close": "32.5",
+                "close_bid": "31.7",
+                "close_ask": "33.3",
+                "volume": 0,
+                "volume_bid": 0,
+                "volume_ask": 0,
+                "trades": 0,
+                "open_interest": 71,
+                "open_interest_change": -1,
+                "next_day_open_interest": 0,
+                "implied_volatility": "0.0",
+                "implied_volatility_change": null,
+                "delta": "1.0"
+            }
+        },
+        {
+            "option": {
+                "id": "opt_8OGm2m",
+                "code": "ZM200612C00170000",
+                "ticker": "ZM",
+                "expiration": "2020-06-12",
+                "strike": "170.0",
+                "type": "call"
+            },
+            "price": {
+                "date": "2020-06-09",
+                "close": "34.55",
+                "close_bid": "33.2",
+                "close_ask": "35.9",
+                "volume": 12,
+                "volume_bid": 0,
+                "volume_ask": 6,
+                "trades": 4,
+                "open_interest": 201,
+                "open_interest_change": -2,
+                "next_day_open_interest": 0,
+                "implied_volatility": "0.0",
+                "implied_volatility_change": null,
+                "delta": "1.0"
+            }
+        },
+        {
+            "option": {
+                "id": "opt_MOAwQ8",
+                "code": "ZM200612C00167500",
+                "ticker": "ZM",
+                "expiration": "2020-06-12",
+                "strike": "167.5",
+                "type": "call"
+            },
+            "price": {
+                "date": "2020-06-09",
+                "close": "37.4",
+                "close_bid": "36.5",
+                "close_ask": "38.3",
+                "volume": 4,
+                "volume_bid": 2,
+                "volume_ask": 2,
+                "trades": 3,
+                "open_interest": 74,
+                "open_interest_change": 0,
+                "next_day_open_interest": 0,
+                "implied_volatility": "0.0",
+                "implied_volatility_change": null,
+                "delta": "1.0"
+            }
+        },
+        {
+            "option": {
+                "id": "opt_NoD9RM",
+                "code": "ZM200612C00165000",
+                "ticker": "ZM",
+                "expiration": "2020-06-12",
+                "strike": "165.0",
+                "type": "call"
+            },
+            "price": {
+                "date": "2020-06-09",
+                "close": "39.6",
+                "close_bid": "38.4",
+                "close_ask": "40.8",
+                "volume": 2,
+                "volume_bid": 1,
+                "volume_ask": 1,
+                "trades": 2,
+                "open_interest": 55,
+                "open_interest_change": 0,
+                "next_day_open_interest": 0,
+                "implied_volatility": "0.0",
+                "implied_volatility_change": null,
+                "delta": "1.0"
+            }
+        },
+        {
+            "option": {
+                "id": "opt_Aldb2Q",
+                "code": "ZM200612C00162500",
+                "ticker": "ZM",
+                "expiration": "2020-06-12",
+                "strike": "162.5",
+                "type": "call"
+            },
+            "price": {
+                "date": "2020-06-09",
+                "close": "42.75",
+                "close_bid": "41.6",
+                "close_ask": "43.9",
+                "volume": 1,
+                "volume_bid": 1,
+                "volume_ask": 0,
+                "trades": 1,
+                "open_interest": 31,
+                "open_interest_change": 0,
+                "next_day_open_interest": 0,
+                "implied_volatility": null,
+                "implied_volatility_change": null,
+                "delta": null
+            }
+        },
+        {
+            "option": {
+                "id": "opt_p49bLk",
+                "code": "ZM200612C00160000",
+                "ticker": "ZM",
+                "expiration": "2020-06-12",
+                "strike": "160.0",
+                "type": "call"
+            },
+            "price": {
+                "date": "2020-06-09",
+                "close": "44.95",
+                "close_bid": "44.2",
+                "close_ask": "45.7",
+                "volume": 15,
+                "volume_bid": 6,
+                "volume_ask": 7,
+                "trades": 9,
+                "open_interest": 46,
+                "open_interest_change": -9,
+                "next_day_open_interest": 0,
+                "implied_volatility": "0.0",
+                "implied_volatility_change": null,
+                "delta": "1.0"
+            }
+        },
+        {
+            "option": {
+                "id": "opt_4WOw2A",
+                "code": "ZM200612C00157500",
+                "ticker": "ZM",
+                "expiration": "2020-06-12",
+                "strike": "157.5",
+                "type": "call"
+            },
+            "price": {
+                "date": "2020-06-09",
+                "close": "47.55",
+                "close_bid": "46.5",
+                "close_ask": "48.6",
+                "volume": 1,
+                "volume_bid": 0,
+                "volume_ask": 0,
+                "trades": 1,
+                "open_interest": 20,
+                "open_interest_change": 0,
+                "next_day_open_interest": 0,
+                "implied_volatility": null,
+                "implied_volatility_change": null,
+                "delta": null
+            }
+        },
+        {
+            "option": {
+                "id": "opt_7EqQbr",
+                "code": "ZM200612C00155000",
+                "ticker": "ZM",
+                "expiration": "2020-06-12",
+                "strike": "155.0",
+                "type": "call"
+            },
+            "price": {
+                "date": "2020-06-09",
+                "close": "50.15",
+                "close_bid": "49.2",
+                "close_ask": "51.1",
+                "volume": 2,
+                "volume_bid": 0,
+                "volume_ask": 2,
+                "trades": 2,
+                "open_interest": 53,
+                "open_interest_change": 1,
+                "next_day_open_interest": 0,
+                "implied_volatility": null,
+                "implied_volatility_change": null,
+                "delta": null
+            }
+        },
+        {
+            "option": {
+                "id": "opt_9op82d",
+                "code": "ZM200612C00152500",
+                "ticker": "ZM",
+                "expiration": "2020-06-12",
+                "strike": "152.5",
+                "type": "call"
+            },
+            "price": {
+                "date": "2020-06-09",
+                "close": "52.5",
+                "close_bid": "51.4",
+                "close_ask": "53.6",
+                "volume": 1,
+                "volume_bid": 0,
+                "volume_ask": 1,
+                "trades": 1,
+                "open_interest": 28,
+                "open_interest_change": -2,
+                "next_day_open_interest": 0,
+                "implied_volatility": null,
+                "implied_volatility_change": null,
+                "delta": null
+            }
+        },
+        {
+            "option": {
+                "id": "opt_q12oW5",
+                "code": "ZM200612C00150000",
+                "ticker": "ZM",
+                "expiration": "2020-06-12",
+                "strike": "150.0",
+                "type": "call"
+            },
+            "price": {
+                "date": "2020-06-09",
+                "close": "54.45",
+                "close_bid": "53.1",
+                "close_ask": "55.8",
+                "volume": 0,
+                "volume_bid": 0,
+                "volume_ask": 0,
+                "trades": 0,
+                "open_interest": 40,
+                "open_interest_change": 0,
+                "next_day_open_interest": 0,
+                "implied_volatility": "0.0",
+                "implied_volatility_change": null,
+                "delta": "1.0"
+            }
+        },
+        {
+            "option": {
+                "id": "opt_mRBKpY",
+                "code": "ZM200612C00149000",
+                "ticker": "ZM",
+                "expiration": "2020-06-12",
+                "strike": "149.0",
+                "type": "call"
+            },
+            "price": {
+                "date": "2020-06-09",
+                "close": "55.5",
+                "close_bid": "54.3",
+                "close_ask": "56.7",
+                "volume": 2,
+                "volume_bid": 0,
+                "volume_ask": 1,
+                "trades": 2,
+                "open_interest": 3,
+                "open_interest_change": 0,
+                "next_day_open_interest": 0,
+                "implied_volatility": "0.0",
+                "implied_volatility_change": null,
+                "delta": "1.0"
+            }
+        },
+        {
+            "option": {
+                "id": "opt_KP9njG",
+                "code": "ZM200612C00148000",
+                "ticker": "ZM",
+                "expiration": "2020-06-12",
+                "strike": "148.0",
+                "type": "call"
+            },
+            "price": {
+                "date": "2020-06-09",
+                "close": "57.05",
+                "close_bid": "56.0",
+                "close_ask": "58.1",
+                "volume": 1,
+                "volume_bid": 0,
+                "volume_ask": 1,
+                "trades": 1,
+                "open_interest": 24,
+                "open_interest_change": 0,
+                "next_day_open_interest": 0,
+                "implied_volatility": null,
+                "implied_volatility_change": null,
+                "delta": null
+            }
+        },
+        {
+            "option": {
+                "id": "opt_aEjG6L",
+                "code": "ZM200612C00147000",
+                "ticker": "ZM",
+                "expiration": "2020-06-12",
+                "strike": "147.0",
+                "type": "call"
+            },
+            "price": {
+                "date": "2020-06-09",
+                "close": "57.55",
+                "close_bid": "56.2",
+                "close_ask": "58.9",
+                "volume": 0,
+                "volume_bid": 0,
+                "volume_ask": 0,
+                "trades": 0,
+                "open_interest": 18,
+                "open_interest_change": 2,
+                "next_day_open_interest": 0,
+                "implied_volatility": "0.0",
+                "implied_volatility_change": null,
+                "delta": "1.0"
+            }
+        },
+        {
+            "option": {
+                "id": "opt_Gvm1Ge",
+                "code": "ZM200612C00146000",
+                "ticker": "ZM",
+                "expiration": "2020-06-12",
+                "strike": "146.0",
+                "type": "call"
+            },
+            "price": {
+                "date": "2020-06-09",
+                "close": "58.95",
+                "close_bid": "57.3",
+                "close_ask": "60.6",
+                "volume": 0,
+                "volume_bid": 0,
+                "volume_ask": 0,
+                "trades": 0,
+                "open_interest": 3,
+                "open_interest_change": 0,
+                "next_day_open_interest": 0,
+                "implied_volatility": null,
+                "implied_volatility_change": null,
+                "delta": null
+            }
+        },
+        {
+            "option": {
+                "id": "opt_l3mW8m",
+                "code": "ZM200612C00145000",
+                "ticker": "ZM",
+                "expiration": "2020-06-12",
+                "strike": "145.0",
+                "type": "call"
+            },
+            "price": {
+                "date": "2020-06-09",
+                "close": "59.65",
+                "close_bid": "58.3",
+                "close_ask": "61.0",
+                "volume": 0,
+                "volume_bid": 0,
+                "volume_ask": 0,
+                "trades": 0,
+                "open_interest": 15,
+                "open_interest_change": 0,
+                "next_day_open_interest": 0,
+                "implied_volatility": "0.0",
+                "implied_volatility_change": null,
+                "delta": "1.0"
+            }
+        },
+        {
+            "option": {
+                "id": "opt_w460Jw",
+                "code": "ZM200612C00144000",
+                "ticker": "ZM",
+                "expiration": "2020-06-12",
+                "strike": "144.0",
+                "type": "call"
+            },
+            "price": {
+                "date": "2020-06-09",
+                "close": "60.75",
+                "close_bid": "59.2",
+                "close_ask": "62.3",
+                "volume": 0,
+                "volume_bid": 0,
+                "volume_ask": 0,
+                "trades": 0,
+                "open_interest": 2,
+                "open_interest_change": 1,
+                "next_day_open_interest": 0,
+                "implied_volatility": "0.0",
+                "implied_volatility_change": null,
+                "delta": "1.0"
+            }
+        },
+        {
+            "option": {
+                "id": "opt_3LEnlx",
+                "code": "ZM200612C00143000",
+                "ticker": "ZM",
+                "expiration": "2020-06-12",
+                "strike": "143.0",
+                "type": "call"
+            },
+            "price": {
+                "date": "2020-06-09",
+                "close": "61.55",
+                "close_bid": "60.2",
+                "close_ask": "62.9",
+                "volume": 0,
+                "volume_bid": 0,
+                "volume_ask": 0,
+                "trades": 0,
+                "open_interest": 6,
+                "open_interest_change": 1,
+                "next_day_open_interest": 0,
+                "implied_volatility": "0.0",
+                "implied_volatility_change": null,
+                "delta": "1.0"
+            }
+        },
+        {
+            "option": {
+                "id": "opt_dJRwjo",
+                "code": "ZM200612C00142000",
+                "ticker": "ZM",
+                "expiration": "2020-06-12",
+                "strike": "142.0",
+                "type": "call"
+            },
+            "price": {
+                "date": "2020-06-09",
+                "close": "62.65",
+                "close_bid": "61.2",
+                "close_ask": "64.1",
+                "volume": 0,
+                "volume_bid": 0,
+                "volume_ask": 0,
+                "trades": 0,
+                "open_interest": 6,
+                "open_interest_change": 0,
+                "next_day_open_interest": 0,
+                "implied_volatility": "0.0",
+                "implied_volatility_change": null,
+                "delta": "1.0"
+            }
+        },
+        {
+            "option": {
+                "id": "opt_EVZ7J1",
+                "code": "ZM200612C00141000",
+                "ticker": "ZM",
+                "expiration": "2020-06-12",
+                "strike": "141.0",
+                "type": "call"
+            },
+            "price": {
+                "date": "2020-06-09",
+                "close": "63.75",
+                "close_bid": "62.5",
+                "close_ask": "65.0",
+                "volume": 0,
+                "volume_bid": 0,
+                "volume_ask": 0,
+                "trades": 0,
+                "open_interest": 4,
+                "open_interest_change": 0,
+                "next_day_open_interest": 0,
+                "implied_volatility": "0.0",
+                "implied_volatility_change": null,
+                "delta": "1.0"
+            }
+        },
+        {
+            "option": {
+                "id": "opt_2vPB26",
+                "code": "ZM200612C00140000",
+                "ticker": "ZM",
+                "expiration": "2020-06-12",
+                "strike": "140.0",
+                "type": "call"
+            },
+            "price": {
+                "date": "2020-06-09",
+                "close": "64.5",
+                "close_bid": "63.1",
+                "close_ask": "65.9",
+                "volume": 0,
+                "volume_bid": 0,
+                "volume_ask": 0,
+                "trades": 0,
+                "open_interest": 26,
+                "open_interest_change": 0,
+                "next_day_open_interest": 0,
+                "implied_volatility": "0.0",
+                "implied_volatility_change": null,
+                "delta": "1.0"
+            }
+        },
+        {
+            "option": {
+                "id": "opt_B3K82D",
+                "code": "ZM200612C00139000",
+                "ticker": "ZM",
+                "expiration": "2020-06-12",
+                "strike": "139.0",
+                "type": "call"
+            },
+            "price": {
+                "date": "2020-06-09",
+                "close": "65.6",
+                "close_bid": "64.3",
+                "close_ask": "66.9",
+                "volume": 2,
+                "volume_bid": 0,
+                "volume_ask": 2,
+                "trades": 2,
+                "open_interest": 3,
+                "open_interest_change": 0,
+                "next_day_open_interest": 0,
+                "implied_volatility": "0.0",
+                "implied_volatility_change": null,
+                "delta": "1.0"
+            }
+        },
+        {
+            "option": {
+                "id": "opt_ZVo8bY",
+                "code": "ZM200612C00138000",
+                "ticker": "ZM",
+                "expiration": "2020-06-12",
+                "strike": "138.0",
+                "type": "call"
+            },
+            "price": {
+                "date": "2020-06-09",
+                "close": "66.6",
+                "close_bid": "65.3",
+                "close_ask": "67.9",
+                "volume": 2,
+                "volume_bid": 0,
+                "volume_ask": 2,
+                "trades": 1,
+                "open_interest": 3,
+                "open_interest_change": 0,
+                "next_day_open_interest": 0,
+                "implied_volatility": "0.0",
+                "implied_volatility_change": null,
+                "delta": "1.0"
+            }
+        },
+        {
+            "option": {
+                "id": "opt_x4vbq5",
+                "code": "ZM200612C00137000",
+                "ticker": "ZM",
+                "expiration": "2020-06-12",
+                "strike": "137.0",
+                "type": "call"
+            },
+            "price": {
+                "date": "2020-06-09",
+                "close": "67.7",
+                "close_bid": "66.3",
+                "close_ask": "69.1",
+                "volume": 0,
+                "volume_bid": 0,
+                "volume_ask": 0,
+                "trades": 0,
+                "open_interest": 8,
+                "open_interest_change": 1,
+                "next_day_open_interest": 0,
+                "implied_volatility": "0.0",
+                "implied_volatility_change": null,
+                "delta": "1.0"
+            }
+        },
+        {
+            "option": {
+                "id": "opt_klaLwQ",
+                "code": "ZM200612C00136000",
+                "ticker": "ZM",
+                "expiration": "2020-06-12",
+                "strike": "136.0",
+                "type": "call"
+            },
+            "price": {
+                "date": "2020-06-09",
+                "close": "68.65",
+                "close_bid": "67.2",
+                "close_ask": "70.1",
+                "volume": 0,
+                "volume_bid": 0,
+                "volume_ask": 0,
+                "trades": 0,
+                "open_interest": 6,
+                "open_interest_change": 1,
+                "next_day_open_interest": 0,
+                "implied_volatility": "0.0",
+                "implied_volatility_change": null,
+                "delta": "1.0"
+            }
+        },
+        {
+            "option": {
+                "id": "opt_nNnKxP",
+                "code": "ZM200612C00135000",
+                "ticker": "ZM",
+                "expiration": "2020-06-12",
+                "strike": "135.0",
+                "type": "call"
+            },
+            "price": {
+                "date": "2020-06-09",
+                "close": "69.4",
+                "close_bid": "68.1",
+                "close_ask": "70.7",
+                "volume": 0,
+                "volume_bid": 0,
+                "volume_ask": 0,
+                "trades": 0,
+                "open_interest": 28,
+                "open_interest_change": -2,
+                "next_day_open_interest": 0,
+                "implied_volatility": "0.0",
+                "implied_volatility_change": null,
+                "delta": "1.0"
+            }
+        },
+        {
+            "option": {
+                "id": "opt_Rp6rwN",
+                "code": "ZM200612C00134000",
+                "ticker": "ZM",
+                "expiration": "2020-06-12",
+                "strike": "134.0",
+                "type": "call"
+            },
+            "price": {
+                "date": "2020-06-09",
+                "close": "70.65",
+                "close_bid": "69.2",
+                "close_ask": "72.1",
+                "volume": 2,
+                "volume_bid": 0,
+                "volume_ask": 2,
+                "trades": 2,
+                "open_interest": 8,
+                "open_interest_change": 2,
+                "next_day_open_interest": 0,
+                "implied_volatility": "0.0",
+                "implied_volatility_change": null,
+                "delta": "1.0"
+            }
+        },
+        {
+            "option": {
+                "id": "opt_LEpn4B",
+                "code": "ZM200612C00133000",
+                "ticker": "ZM",
+                "expiration": "2020-06-12",
+                "strike": "133.0",
+                "type": "call"
+            },
+            "price": {
+                "date": "2020-06-09",
+                "close": "71.9",
+                "close_bid": "70.1",
+                "close_ask": "73.7",
+                "volume": 0,
+                "volume_bid": 0,
+                "volume_ask": 0,
+                "trades": 0,
+                "open_interest": 0,
+                "open_interest_change": 0,
+                "next_day_open_interest": 0,
+                "implied_volatility": null,
+                "implied_volatility_change": null,
+                "delta": null
+            }
+        },
+        {
+            "option": {
+                "id": "opt_4W9BjZ",
+                "code": "ZM200612C00132000",
+                "ticker": "ZM",
+                "expiration": "2020-06-12",
+                "strike": "132.0",
+                "type": "call"
+            },
+            "price": {
+                "date": "2020-06-09",
+                "close": "72.7",
+                "close_bid": "71.3",
+                "close_ask": "74.1",
+                "volume": 0,
+                "volume_bid": 0,
+                "volume_ask": 0,
+                "trades": 0,
+                "open_interest": 0,
+                "open_interest_change": 0,
+                "next_day_open_interest": 0,
+                "implied_volatility": null,
+                "implied_volatility_change": null,
+                "delta": null
+            }
+        },
+        {
+            "option": {
+                "id": "opt_16Bldw",
+                "code": "ZM200612C00131000",
+                "ticker": "ZM",
+                "expiration": "2020-06-12",
+                "strike": "131.0",
+                "type": "call"
+            },
+            "price": {
+                "date": "2020-06-09",
+                "close": "73.55",
+                "close_bid": "72.3",
+                "close_ask": "74.8",
+                "volume": 0,
+                "volume_bid": 0,
+                "volume_ask": 0,
+                "trades": 0,
+                "open_interest": 0,
+                "open_interest_change": 0,
+                "next_day_open_interest": 0,
+                "implied_volatility": "0.0",
+                "implied_volatility_change": null,
+                "delta": "1.0"
+            }
+        },
+        {
+            "option": {
+                "id": "opt_0VWDZM",
+                "code": "ZM200612C00130000",
+                "ticker": "ZM",
+                "expiration": "2020-06-12",
+                "strike": "130.0",
+                "type": "call"
+            },
+            "price": {
+                "date": "2020-06-09",
+                "close": "74.45",
+                "close_bid": "73.2",
+                "close_ask": "75.7",
+                "volume": 0,
+                "volume_bid": 0,
+                "volume_ask": 0,
+                "trades": 0,
+                "open_interest": 23,
+                "open_interest_change": -2,
+                "next_day_open_interest": 0,
+                "implied_volatility": "0.0",
+                "implied_volatility_change": null,
+                "delta": "1.0"
+            }
+        },
+        {
+            "option": {
+                "id": "opt_nN59Pp",
+                "code": "ZM200612C00129000",
+                "ticker": "ZM",
+                "expiration": "2020-06-12",
+                "strike": "129.0",
+                "type": "call"
+            },
+            "price": {
+                "date": "2020-06-09",
+                "close": "75.55",
+                "close_bid": "74.1",
+                "close_ask": "77.0",
+                "volume": 3,
+                "volume_bid": 3,
+                "volume_ask": 0,
+                "trades": 2,
+                "open_interest": 0,
+                "open_interest_change": 0,
+                "next_day_open_interest": 0,
+                "implied_volatility": "0.0",
+                "implied_volatility_change": null,
+                "delta": "1.0"
+            }
+        },
+        {
+            "option": {
+                "id": "opt_9o7LW6",
+                "code": "ZM200612C00128000",
+                "ticker": "ZM",
+                "expiration": "2020-06-12",
+                "strike": "128.0",
+                "type": "call"
+            },
+            "price": {
+                "date": "2020-06-09",
+                "close": "76.5",
+                "close_bid": "75.1",
+                "close_ask": "77.9",
+                "volume": 2,
+                "volume_bid": 0,
+                "volume_ask": 2,
+                "trades": 2,
+                "open_interest": 4,
+                "open_interest_change": 4,
+                "next_day_open_interest": 0,
+                "implied_volatility": "0.0",
+                "implied_volatility_change": null,
+                "delta": "1.0"
+            }
+        },
+        {
+            "option": {
+                "id": "opt_DNYxw9",
+                "code": "ZM200612C00127000",
+                "ticker": "ZM",
+                "expiration": "2020-06-12",
+                "strike": "127.0",
+                "type": "call"
+            },
+            "price": {
+                "date": "2020-06-09",
+                "close": "77.75",
+                "close_bid": "76.3",
+                "close_ask": "79.2",
+                "volume": 0,
+                "volume_bid": 0,
+                "volume_ask": 0,
+                "trades": 0,
+                "open_interest": 0,
+                "open_interest_change": 0,
+                "next_day_open_interest": 0,
+                "implied_volatility": null,
+                "implied_volatility_change": null,
+                "delta": null
+            }
+        },
+        {
+            "option": {
+                "id": "opt_5Yod4p",
+                "code": "ZM200612C00125000",
+                "ticker": "ZM",
+                "expiration": "2020-06-12",
+                "strike": "125.0",
+                "type": "call"
+            },
+            "price": {
+                "date": "2020-06-09",
+                "close": "79.55",
+                "close_bid": "78.2",
+                "close_ask": "80.9",
+                "volume": 0,
+                "volume_bid": 0,
+                "volume_ask": 0,
+                "trades": 0,
+                "open_interest": 8,
+                "open_interest_change": 0,
+                "next_day_open_interest": 0,
+                "implied_volatility": "0.0",
+                "implied_volatility_change": null,
+                "delta": "1.0"
+            }
+        },
+        {
+            "option": {
+                "id": "opt_bOlp7A",
+                "code": "ZM200612C00120000",
+                "ticker": "ZM",
+                "expiration": "2020-06-12",
+                "strike": "120.0",
+                "type": "call"
+            },
+            "price": {
+                "date": "2020-06-09",
+                "close": "84.4",
+                "close_bid": "83.1",
+                "close_ask": "85.7",
+                "volume": 0,
+                "volume_bid": 0,
+                "volume_ask": 0,
+                "trades": 0,
+                "open_interest": 6,
+                "open_interest_change": 0,
+                "next_day_open_interest": 0,
+                "implied_volatility": "0.0",
+                "implied_volatility_change": null,
+                "delta": "1.0"
+            }
+        },
+        {
+            "option": {
+                "id": "opt_AldmLl",
+                "code": "ZM200612C00115000",
+                "ticker": "ZM",
+                "expiration": "2020-06-12",
+                "strike": "115.0",
+                "type": "call"
+            },
+            "price": {
+                "date": "2020-06-09",
+                "close": "89.85",
+                "close_bid": "88.3",
+                "close_ask": "91.4",
+                "volume": 0,
+                "volume_bid": 0,
+                "volume_ask": 0,
+                "trades": 0,
+                "open_interest": 2,
+                "open_interest_change": 0,
+                "next_day_open_interest": 0,
+                "implied_volatility": null,
+                "implied_volatility_change": null,
+                "delta": null
+            }
+        },
+        {
+            "option": {
+                "id": "opt_eqNnVl",
+                "code": "ZM200612C00110000",
+                "ticker": "ZM",
+                "expiration": "2020-06-12",
+                "strike": "110.0",
+                "type": "call"
+            },
+            "price": {
+                "date": "2020-06-09",
+                "close": "94.55",
+                "close_bid": "93.3",
+                "close_ask": "95.8",
+                "volume": 1,
+                "volume_bid": 0,
+                "volume_ask": 1,
+                "trades": 1,
+                "open_interest": 24,
+                "open_interest_change": 1,
+                "next_day_open_interest": 0,
+                "implied_volatility": null,
+                "implied_volatility_change": null,
+                "delta": null
+            }
+        },
+        {
+            "option": {
+                "id": "opt_MOAlko",
+                "code": "ZM200612C00105000",
+                "ticker": "ZM",
+                "expiration": "2020-06-12",
+                "strike": "105.0",
+                "type": "call"
+            },
+            "price": {
+                "date": "2020-06-09",
+                "close": "99.4",
+                "close_bid": "98.1",
+                "close_ask": "100.7",
+                "volume": 2,
+                "volume_bid": 0,
+                "volume_ask": 2,
+                "trades": 2,
+                "open_interest": 13,
+                "open_interest_change": 0,
+                "next_day_open_interest": 0,
+                "implied_volatility": "0.0",
+                "implied_volatility_change": null,
+                "delta": "1.0"
+            }
+        },
+        {
+            "option": {
+                "id": "opt_7Eqp2Z",
+                "code": "ZM200612C00100000",
+                "ticker": "ZM",
+                "expiration": "2020-06-12",
+                "strike": "100.0",
+                "type": "call"
+            },
+            "price": {
+                "date": "2020-06-09",
+                "close": "104.65",
+                "close_bid": "103.3",
+                "close_ask": "106.0",
+                "volume": 0,
+                "volume_bid": 0,
+                "volume_ask": 0,
+                "trades": 0,
+                "open_interest": 6,
+                "open_interest_change": 0,
+                "next_day_open_interest": 0,
+                "implied_volatility": null,
+                "implied_volatility_change": null,
+                "delta": null
+            }
+        },
+        {
+            "option": {
+                "id": "opt_B3KVWG",
+                "code": "ZM200612C00095000",
+                "ticker": "ZM",
+                "expiration": "2020-06-12",
+                "strike": "95.0",
+                "type": "call"
+            },
+            "price": {
+                "date": "2020-06-09",
+                "close": "109.9",
+                "close_bid": "108.3",
+                "close_ask": "111.5",
+                "volume": 0,
+                "volume_bid": 0,
+                "volume_ask": 0,
+                "trades": 0,
+                "open_interest": 1,
+                "open_interest_change": 0,
+                "next_day_open_interest": 0,
+                "implied_volatility": null,
+                "implied_volatility_change": null,
+                "delta": null
+            }
+        },
+        {
+            "option": {
+                "id": "opt_2vPKmL",
+                "code": "ZM200612C00090000",
+                "ticker": "ZM",
+                "expiration": "2020-06-12",
+                "strike": "90.0",
+                "type": "call"
+            },
+            "price": {
+                "date": "2020-06-09",
+                "close": "114.75",
+                "close_bid": "113.1",
+                "close_ask": "116.4",
+                "volume": 0,
+                "volume_bid": 0,
+                "volume_ask": 0,
+                "trades": 0,
+                "open_interest": 1,
+                "open_interest_change": 0,
+                "next_day_open_interest": 0,
+                "implied_volatility": null,
+                "implied_volatility_change": null,
+                "delta": null
+            }
+        },
+        {
+            "option": {
+                "id": "opt_aEj8M3",
+                "code": "ZM200612C00085000",
+                "ticker": "ZM",
+                "expiration": "2020-06-12",
+                "strike": "85.0",
+                "type": "call"
+            },
+            "price": {
+                "date": "2020-06-09",
+                "close": "119.8",
+                "close_bid": "118.5",
+                "close_ask": "121.1",
+                "volume": 10,
+                "volume_bid": 0,
+                "volume_ask": 10,
+                "trades": 1,
+                "open_interest": 13,
+                "open_interest_change": 11,
+                "next_day_open_interest": 0,
+                "implied_volatility": null,
+                "implied_volatility_change": null,
+                "delta": null
+            }
+        },
+        {
+            "option": {
+                "id": "opt_mRB2OJ",
+                "code": "ZM200612C00080000",
+                "ticker": "ZM",
+                "expiration": "2020-06-12",
+                "strike": "80.0",
+                "type": "call"
+            },
+            "price": {
+                "date": "2020-06-09",
+                "close": "124.7",
+                "close_bid": "123.3",
+                "close_ask": "126.1",
+                "volume": 1,
+                "volume_bid": 1,
+                "volume_ask": 0,
+                "trades": 1,
+                "open_interest": 2,
+                "open_interest_change": 2,
+                "next_day_open_interest": 0,
+                "implied_volatility": null,
+                "implied_volatility_change": null,
+                "delta": null
+            }
+        },
+        {
+            "option": {
+                "id": "opt_16Yda7",
+                "code": "ZM200612C00075000",
+                "ticker": "ZM",
+                "expiration": "2020-06-12",
+                "strike": "75.0",
+                "type": "call"
+            },
+            "price": {
+                "date": "2020-06-09",
+                "close": "129.55",
+                "close_bid": "128.3",
+                "close_ask": "130.8",
+                "volume": 0,
+                "volume_bid": 0,
+                "volume_ask": 0,
+                "trades": 0,
+                "open_interest": 6,
+                "open_interest_change": 2,
+                "next_day_open_interest": 0,
+                "implied_volatility": null,
+                "implied_volatility_change": null,
+                "delta": null
+            }
+        },
+        {
+            "option": {
+                "id": "opt_ZVodBQ",
+                "code": "ZM200612C00070000",
+                "ticker": "ZM",
+                "expiration": "2020-06-12",
+                "strike": "70.0",
+                "type": "call"
+            },
+            "price": {
+                "date": "2020-06-09",
+                "close": "134.4",
+                "close_bid": "133.1",
+                "close_ask": "135.7",
+                "volume": 0,
+                "volume_bid": 0,
+                "volume_ask": 0,
+                "trades": 0,
+                "open_interest": 4,
+                "open_interest_change": 0,
+                "next_day_open_interest": 0,
+                "implied_volatility": null,
+                "implied_volatility_change": null,
+                "delta": null
+            }
+        },
+        {
+            "option": {
+                "id": "opt_EVRa4E",
+                "code": "ZM200612P00315000",
+                "ticker": "ZM",
+                "expiration": "2020-06-12",
+                "strike": "315.0",
+                "type": "put"
+            },
+            "price": {
+                "date": "2020-06-09",
+                "close": "110.3",
+                "close_bid": "108.9",
+                "close_ask": "111.7",
+                "volume": 2,
+                "volume_bid": 0,
+                "volume_ask": 2,
+                "trades": 2,
+                "open_interest": 3,
+                "open_interest_change": 2,
+                "next_day_open_interest": 0,
+                "implied_volatility": "2.59059",
+                "implied_volatility_change": null,
+                "delta": "-0.959666"
+            }
+        },
+        {
+            "option": {
+                "id": "opt_Vl7LpJ",
+                "code": "ZM200612P00310000",
+                "ticker": "ZM",
+                "expiration": "2020-06-12",
+                "strike": "310.0",
+                "type": "put"
+            },
+            "price": {
+                "date": "2020-06-09",
+                "close": "105.45",
+                "close_bid": "104.0",
+                "close_ask": "106.9",
+                "volume": 0,
+                "volume_bid": 0,
+                "volume_ask": 0,
+                "trades": 0,
+                "open_interest": 7,
+                "open_interest_change": 3,
+                "next_day_open_interest": 0,
+                "implied_volatility": "2.57184",
+                "implied_volatility_change": "1.2225",
+                "delta": "-0.952693"
+            }
+        },
+        {
+            "option": {
+                "id": "opt_v4mM66",
+                "code": "ZM200612P00305000",
+                "ticker": "ZM",
+                "expiration": "2020-06-12",
+                "strike": "305.0",
+                "type": "put"
+            },
+            "price": {
+                "date": "2020-06-09",
+                "close": "100.35",
+                "close_bid": "98.9",
+                "close_ask": "101.8",
+                "volume": 0,
+                "volume_bid": 0,
+                "volume_ask": 0,
+                "trades": 0,
+                "open_interest": 2,
+                "open_interest_change": 1,
+                "next_day_open_interest": 0,
+                "implied_volatility": "2.44509",
+                "implied_volatility_change": null,
+                "delta": "-0.955527"
+            }
+        },
+        {
+            "option": {
+                "id": "opt_w4BEpj",
+                "code": "ZM200612P00300000",
+                "ticker": "ZM",
+                "expiration": "2020-06-12",
+                "strike": "300.0",
+                "type": "put"
+            },
+            "price": {
+                "date": "2020-06-09",
+                "close": "95.3",
+                "close_bid": "93.9",
+                "close_ask": "96.7",
+                "volume": 1,
+                "volume_bid": 0,
+                "volume_ask": 1,
+                "trades": 1,
+                "open_interest": 1,
+                "open_interest_change": 0,
+                "next_day_open_interest": 0,
+                "implied_volatility": "2.33772",
+                "implied_volatility_change": null,
+                "delta": "-0.956462"
+            }
+        },
+        {
+            "option": {
+                "id": "opt_kljE6o",
+                "code": "ZM200612P00295000",
+                "ticker": "ZM",
+                "expiration": "2020-06-12",
+                "strike": "295.0",
+                "type": "put"
+            },
+            "price": {
+                "date": "2020-06-09",
+                "close": "90.3",
+                "close_bid": "88.9",
+                "close_ask": "91.7",
+                "volume": 5,
+                "volume_bid": 3,
+                "volume_ask": 2,
+                "trades": 3,
+                "open_interest": 3,
+                "open_interest_change": 2,
+                "next_day_open_interest": 0,
+                "implied_volatility": "2.25065",
+                "implied_volatility_change": "0.837713",
+                "delta": "-0.955184"
+            }
+        },
+        {
+            "option": {
+                "id": "opt_GvdA5b",
+                "code": "ZM200612P00290000",
+                "ticker": "ZM",
+                "expiration": "2020-06-12",
+                "strike": "290.0",
+                "type": "put"
+            },
+            "price": {
+                "date": "2020-06-09",
+                "close": "85.15",
+                "close_bid": "83.9",
+                "close_ask": "86.4",
+                "volume": 6,
+                "volume_bid": 5,
+                "volume_ask": 1,
+                "trades": 3,
+                "open_interest": 6,
+                "open_interest_change": 0,
+                "next_day_open_interest": 0,
+                "implied_volatility": "2.09587",
+                "implied_volatility_change": "1.79587",
+                "delta": "-0.960856"
+            }
+        },
+        {
+            "option": {
+                "id": "opt_jjkPVP",
+                "code": "ZM200612P00285000",
+                "ticker": "ZM",
+                "expiration": "2020-06-12",
+                "strike": "285.0",
+                "type": "put"
+            },
+            "price": {
+                "date": "2020-06-09",
+                "close": "80.3",
+                "close_bid": "78.8",
+                "close_ask": "81.8",
+                "volume": 0,
+                "volume_bid": 0,
+                "volume_ask": 0,
+                "trades": 0,
+                "open_interest": 0,
+                "open_interest_change": 0,
+                "next_day_open_interest": 0,
+                "implied_volatility": "2.07244",
+                "implied_volatility_change": null,
+                "delta": "-0.95217"
+            }
+        },
+        {
+            "option": {
+                "id": "opt_LEaeOw",
+                "code": "ZM200612P00280000",
+                "ticker": "ZM",
+                "expiration": "2020-06-12",
+                "strike": "280.0",
+                "type": "put"
+            },
+            "price": {
+                "date": "2020-06-09",
+                "close": "75.35",
+                "close_bid": "73.9",
+                "close_ask": "76.8",
+                "volume": 0,
+                "volume_bid": 0,
+                "volume_ask": 0,
+                "trades": 0,
+                "open_interest": 4,
+                "open_interest_change": 0,
+                "next_day_open_interest": 0,
+                "implied_volatility": "2.00339",
+                "implied_volatility_change": null,
+                "delta": "-0.947997"
+            }
+        },
+        {
+            "option": {
+                "id": "opt_YNbrEn",
+                "code": "ZM200612P00275000",
+                "ticker": "ZM",
+                "expiration": "2020-06-12",
+                "strike": "275.0",
+                "type": "put"
+            },
+            "price": {
+                "date": "2020-06-09",
+                "close": "70.55",
+                "close_bid": "69.3",
+                "close_ask": "71.8",
+                "volume": 1,
+                "volume_bid": 0,
+                "volume_ask": 1,
+                "trades": 1,
+                "open_interest": 5,
+                "open_interest_change": 0,
+                "next_day_open_interest": 0,
+                "implied_volatility": "2.00182",
+                "implied_volatility_change": null,
+                "delta": "-0.936407"
+            }
+        },
+        {
+            "option": {
+                "id": "opt_q1K6Eb",
+                "code": "ZM200612P00270000",
+                "ticker": "ZM",
+                "expiration": "2020-06-12",
+                "strike": "270.0",
+                "type": "put"
+            },
+            "price": {
+                "date": "2020-06-09",
+                "close": "65.55",
+                "close_bid": "64.3",
+                "close_ask": "66.8",
+                "volume": 1,
+                "volume_bid": 0,
+                "volume_ask": 1,
+                "trades": 1,
+                "open_interest": 3,
+                "open_interest_change": 0,
+                "next_day_open_interest": 0,
+                "implied_volatility": "1.90785",
+                "implied_volatility_change": null,
+                "delta": "-0.933804"
+            }
+        },
+        {
+            "option": {
+                "id": "opt_OJ52dV",
+                "code": "ZM200612P00265000",
+                "ticker": "ZM",
+                "expiration": "2020-06-12",
+                "strike": "265.0",
+                "type": "put"
+            },
+            "price": {
+                "date": "2020-06-09",
+                "close": "60.15",
+                "close_bid": "58.4",
+                "close_ask": "61.9",
+                "volume": 0,
+                "volume_bid": 0,
+                "volume_ask": 0,
+                "trades": 0,
+                "open_interest": 3,
+                "open_interest_change": 0,
+                "next_day_open_interest": 0,
+                "implied_volatility": "1.62622",
+                "implied_volatility_change": "0.674498",
+                "delta": "-0.952347"
+            }
+        },
+        {
+            "option": {
+                "id": "opt_oeNqY5",
+                "code": "ZM200612P00260000",
+                "ticker": "ZM",
+                "expiration": "2020-06-12",
+                "strike": "260.0",
+                "type": "put"
+            },
+            "price": {
+                "date": "2020-06-09",
+                "close": "55.55",
+                "close_bid": "54.4",
+                "close_ask": "56.7",
+                "volume": 2,
+                "volume_bid": 2,
+                "volume_ask": 0,
+                "trades": 1,
+                "open_interest": 2,
+                "open_interest_change": 1,
+                "next_day_open_interest": 0,
+                "implied_volatility": "1.71525",
+                "implied_volatility_change": "0.693761",
+                "delta": "-0.927473"
+            }
+        },
+        {
+            "option": {
+                "id": "opt_Vl8nvn",
+                "code": "ZM200612P00255000",
+                "ticker": "ZM",
+                "expiration": "2020-06-12",
+                "strike": "255.0",
+                "type": "put"
+            },
+            "price": {
+                "date": "2020-06-09",
+                "close": "50.0",
+                "close_bid": "49.1",
+                "close_ask": "50.9",
+                "volume": 0,
+                "volume_bid": 0,
+                "volume_ask": 0,
+                "trades": 0,
+                "open_interest": 78,
+                "open_interest_change": 0,
+                "next_day_open_interest": 0,
+                "implied_volatility": "1.35564",
+                "implied_volatility_change": null,
+                "delta": "-0.957174"
+            }
+        },
+        {
+            "option": {
+                "id": "opt_QGRnK1",
+                "code": "ZM200612P00250000",
+                "ticker": "ZM",
+                "expiration": "2020-06-12",
+                "strike": "250.0",
+                "type": "put"
+            },
+            "price": {
+                "date": "2020-06-09",
+                "close": "45.6",
+                "close_bid": "44.4",
+                "close_ask": "46.8",
+                "volume": 10,
+                "volume_bid": 5,
+                "volume_ask": 0,
+                "trades": 2,
+                "open_interest": 31,
+                "open_interest_change": 1,
+                "next_day_open_interest": 0,
+                "implied_volatility": "1.51509",
+                "implied_volatility_change": "0.280692",
+                "delta": "-0.916526"
+            }
+        },
+        {
+            "option": {
+                "id": "opt_6PldlG",
+                "code": "ZM200612P00245000",
+                "ticker": "ZM",
+                "expiration": "2020-06-12",
+                "strike": "245.0",
+                "type": "put"
+            },
+            "price": {
+                "date": "2020-06-09",
+                "close": "40.2",
+                "close_bid": "39.0",
+                "close_ask": "41.4",
+                "volume": 2,
+                "volume_bid": 0,
+                "volume_ask": 2,
+                "trades": 2,
+                "open_interest": 48,
+                "open_interest_change": 1,
+                "next_day_open_interest": 0,
+                "implied_volatility": "1.24286",
+                "implied_volatility_change": "0.091977",
+                "delta": "-0.935716"
+            }
+        },
+        {
+            "option": {
+                "id": "opt_l3lZBx",
+                "code": "ZM200612P00242500",
+                "ticker": "ZM",
+                "expiration": "2020-06-12",
+                "strike": "242.5",
+                "type": "put"
+            },
+            "price": {
+                "date": "2020-06-09",
+                "close": "37.7",
+                "close_bid": "36.1",
+                "close_ask": "39.3",
+                "volume": 11,
+                "volume_bid": 11,
+                "volume_ask": 0,
+                "trades": 3,
+                "open_interest": 16,
+                "open_interest_change": 16,
+                "next_day_open_interest": 0,
+                "implied_volatility": "1.18968",
+                "implied_volatility_change": "0.331338",
+                "delta": "-0.933234"
+            }
+        },
+        {
+            "option": {
+                "id": "opt_9opBJG",
+                "code": "ZM200612P00240000",
+                "ticker": "ZM",
+                "expiration": "2020-06-12",
+                "strike": "240.0",
+                "type": "put"
+            },
+            "price": {
+                "date": "2020-06-09",
+                "close": "34.95",
+                "close_bid": "33.7",
+                "close_ask": "36.2",
+                "volume": 0,
+                "volume_bid": 0,
+                "volume_ask": 0,
+                "trades": 0,
+                "open_interest": 56,
+                "open_interest_change": 0,
+                "next_day_open_interest": 0,
+                "implied_volatility": "1.01458",
+                "implied_volatility_change": null,
+                "delta": "-0.95103"
+            }
+        },
+        {
+            "option": {
+                "id": "opt_q1K4Dq",
+                "code": "ZM200612P00237500",
+                "ticker": "ZM",
+                "expiration": "2020-06-12",
+                "strike": "237.5",
+                "type": "put"
+            },
+            "price": {
+                "date": "2020-06-09",
+                "close": "32.65",
+                "close_bid": "31.0",
+                "close_ask": "34.3",
+                "volume": 0,
+                "volume_bid": 0,
+                "volume_ask": 0,
+                "trades": 0,
+                "open_interest": 1,
+                "open_interest_change": 0,
+                "next_day_open_interest": 0,
+                "implied_volatility": "1.05749",
+                "implied_volatility_change": null,
+                "delta": "-0.931269"
+            }
+        },
+        {
+            "option": {
+                "id": "opt_eqNVQ0",
+                "code": "ZM200612P00235000",
+                "ticker": "ZM",
+                "expiration": "2020-06-12",
+                "strike": "235.0",
+                "type": "put"
+            },
+            "price": {
+                "date": "2020-06-09",
+                "close": "30.4",
+                "close_bid": "28.7",
+                "close_ask": "32.1",
+                "volume": 3,
+                "volume_bid": 1,
+                "volume_ask": 2,
+                "trades": 2,
+                "open_interest": 53,
+                "open_interest_change": 21,
+                "next_day_open_interest": 0,
+                "implied_volatility": "1.07909",
+                "implied_volatility_change": "0.175244",
+                "delta": "-0.909067"
+            }
+        },
+        {
+            "option": {
+                "id": "opt_JY896q",
+                "code": "ZM200612P00232500",
+                "ticker": "ZM",
+                "expiration": "2020-06-12",
+                "strike": "232.5",
+                "type": "put"
+            },
+            "price": {
+                "date": "2020-06-09",
+                "close": "27.55",
+                "close_bid": "26.3",
+                "close_ask": "28.8",
+                "volume": 0,
+                "volume_bid": 0,
+                "volume_ask": 0,
+                "trades": 0,
+                "open_interest": 11,
+                "open_interest_change": 0,
+                "next_day_open_interest": 0,
+                "implied_volatility": "0.89739",
+                "implied_volatility_change": null,
+                "delta": "-0.933127"
+            }
+        },
+        {
+            "option": {
+                "id": "opt_16Ya0l",
+                "code": "ZM200612P00230000",
+                "ticker": "ZM",
+                "expiration": "2020-06-12",
+                "strike": "230.0",
+                "type": "put"
+            },
+            "price": {
+                "date": "2020-06-09",
+                "close": "25.35",
+                "close_bid": "24.6",
+                "close_ask": "26.1",
+                "volume": 24,
+                "volume_bid": 10,
+                "volume_ask": 3,
+                "trades": 13,
+                "open_interest": 142,
+                "open_interest_change": -11,
+                "next_day_open_interest": 0,
+                "implied_volatility": "0.932613",
+                "implied_volatility_change": "0.080796",
+                "delta": "-0.902943"
+            }
+        },
+        {
+            "option": {
+                "id": "opt_dJol5O",
+                "code": "ZM200612P00227500",
+                "ticker": "ZM",
+                "expiration": "2020-06-12",
+                "strike": "227.5",
+                "type": "put"
+            },
+            "price": {
+                "date": "2020-06-09",
+                "close": "22.7",
+                "close_bid": "21.4",
+                "close_ask": "24.0",
+                "volume": 1,
+                "volume_bid": 1,
+                "volume_ask": 0,
+                "trades": 1,
+                "open_interest": 32,
+                "open_interest_change": 2,
+                "next_day_open_interest": 0,
+                "implied_volatility": "0.821847",
+                "implied_volatility_change": "-0.04148",
+                "delta": "-0.910018"
+            }
+        },
+        {
+            "option": {
+                "id": "opt_MOAkd8",
+                "code": "ZM200612P00225000",
+                "ticker": "ZM",
+                "expiration": "2020-06-12",
+                "strike": "225.0",
+                "type": "put"
+            },
+            "price": {
+                "date": "2020-06-09",
+                "close": "20.55",
+                "close_bid": "19.6",
+                "close_ask": "21.5",
+                "volume": 13,
+                "volume_bid": 8,
+                "volume_ask": 3,
+                "trades": 7,
+                "open_interest": 326,
+                "open_interest_change": 7,
+                "next_day_open_interest": 0,
+                "implied_volatility": "0.855638",
+                "implied_volatility_change": "0.043648",
+                "delta": "-0.873363"
+            }
+        },
+        {
+            "option": {
+                "id": "opt_OJ57P7",
+                "code": "ZM200612P00222500",
+                "ticker": "ZM",
+                "expiration": "2020-06-12",
+                "strike": "222.5",
+                "type": "put"
+            },
+            "price": {
+                "date": "2020-06-09",
+                "close": "17.9",
+                "close_bid": "17.6",
+                "close_ask": "18.2",
+                "volume": 5,
+                "volume_bid": 4,
+                "volume_ask": 0,
+                "trades": 3,
+                "open_interest": 144,
+                "open_interest_change": 2,
+                "next_day_open_interest": 0,
+                "implied_volatility": "0.743187",
+                "implied_volatility_change": "-0.126539",
+                "delta": "-0.87655"
+            }
+        },
+        {
+            "option": {
+                "id": "opt_r4A5Qj",
+                "code": "ZM200612P00220000",
+                "ticker": "ZM",
+                "expiration": "2020-06-12",
+                "strike": "220.0",
+                "type": "put"
+            },
+            "price": {
+                "date": "2020-06-09",
+                "close": "15.8",
+                "close_bid": "15.5",
+                "close_ask": "16.1",
+                "volume": 272,
+                "volume_bid": 103,
+                "volume_ask": 153,
+                "trades": 61,
+                "open_interest": 532,
+                "open_interest_change": 111,
+                "next_day_open_interest": 0,
+                "implied_volatility": "0.757447",
+                "implied_volatility_change": "-0.066817",
+                "delta": "-0.833229"
+            }
+        },
+        {
+            "option": {
+                "id": "opt_W3eWxj",
+                "code": "ZM200612P00217500",
+                "ticker": "ZM",
+                "expiration": "2020-06-12",
+                "strike": "217.5",
+                "type": "put"
+            },
+            "price": {
+                "date": "2020-06-09",
+                "close": "13.7",
+                "close_bid": "13.4",
+                "close_ask": "14.0",
+                "volume": 8,
+                "volume_bid": 3,
+                "volume_ask": 5,
+                "trades": 8,
+                "open_interest": 304,
+                "open_interest_change": 1,
+                "next_day_open_interest": 0,
+                "implied_volatility": "0.751781",
+                "implied_volatility_change": "-0.094796",
+                "delta": "-0.789561"
+            }
+        },
+        {
+            "option": {
+                "id": "opt_bOl7QR",
+                "code": "ZM200612P00215000",
+                "ticker": "ZM",
+                "expiration": "2020-06-12",
+                "strike": "215.0",
+                "type": "put"
+            },
+            "price": {
+                "date": "2020-06-09",
+                "close": "11.7",
+                "close_bid": "11.4",
+                "close_ask": "12.0",
+                "volume": 74,
+                "volume_bid": 18,
+                "volume_ask": 33,
+                "trades": 44,
+                "open_interest": 818,
+                "open_interest_change": -73,
+                "next_day_open_interest": 0,
+                "implied_volatility": "0.74729",
+                "implied_volatility_change": "-0.061499",
+                "delta": "-0.73983"
+            }
+        },
+        {
+            "option": {
+                "id": "opt_klj8BK",
+                "code": "ZM200612P00212500",
+                "ticker": "ZM",
+                "expiration": "2020-06-12",
+                "strike": "212.5",
+                "type": "put"
+            },
+            "price": {
+                "date": "2020-06-09",
+                "close": "9.8",
+                "close_bid": "9.6",
+                "close_ask": "10.0",
+                "volume": 76,
+                "volume_bid": 25,
+                "volume_ask": 18,
+                "trades": 33,
+                "open_interest": 165,
+                "open_interest_change": 10,
+                "next_day_open_interest": 0,
+                "implied_volatility": "0.731859",
+                "implied_volatility_change": "-0.084302",
+                "delta": "-0.682773"
+            }
+        },
+        {
+            "option": {
+                "id": "opt_v4V0va",
+                "code": "ZM200612P00210000",
+                "ticker": "ZM",
+                "expiration": "2020-06-12",
+                "strike": "210.0",
+                "type": "put"
+            },
+            "price": {
+                "date": "2020-06-09",
+                "close": "8.15",
+                "close_bid": "7.9",
+                "close_ask": "8.4",
+                "volume": 898,
+                "volume_bid": 403,
+                "volume_ask": 298,
+                "trades": 297,
+                "open_interest": 609,
+                "open_interest_change": 38,
+                "next_day_open_interest": 0,
+                "implied_volatility": "0.743246",
+                "implied_volatility_change": "-0.061668",
+                "delta": "-0.616386"
+            }
+        },
+        {
+            "option": {
+                "id": "opt_p4dnBR",
+                "code": "ZM200612P00207500",
+                "ticker": "ZM",
+                "expiration": "2020-06-12",
+                "strike": "207.5",
+                "type": "put"
+            },
+            "price": {
+                "date": "2020-06-09",
+                "close": "6.65",
+                "close_bid": "6.5",
+                "close_ask": "6.8",
+                "volume": 547,
+                "volume_bid": 289,
+                "volume_ask": 176,
+                "trades": 200,
+                "open_interest": 745,
+                "open_interest_change": -433,
+                "next_day_open_interest": 0,
+                "implied_volatility": "0.738269",
+                "implied_volatility_change": "-0.070798",
+                "delta": "-0.545898"
+            }
+        },
+        {
+            "option": {
+                "id": "opt_5Yom8w",
+                "code": "ZM200612P00205000",
+                "ticker": "ZM",
+                "expiration": "2020-06-12",
+                "strike": "205.0",
+                "type": "put"
+            },
+            "price": {
+                "date": "2020-06-09",
+                "close": "5.4",
+                "close_bid": "5.3",
+                "close_ask": "5.5",
+                "volume": 4140,
+                "volume_bid": 1827,
+                "volume_ask": 1834,
+                "trades": 663,
+                "open_interest": 2070,
+                "open_interest_change": -401,
+                "next_day_open_interest": 0,
+                "implied_volatility": "0.758871",
+                "implied_volatility_change": "-0.039398",
+                "delta": "-0.474256"
+            }
+        },
+        {
+            "option": {
+                "id": "opt_jjkwBp",
+                "code": "ZM200612P00202500",
+                "ticker": "ZM",
+                "expiration": "2020-06-12",
+                "strike": "202.5",
+                "type": "put"
+            },
+            "price": {
+                "date": "2020-06-09",
+                "close": "4.2",
+                "close_bid": "4.1",
+                "close_ask": "4.3",
+                "volume": 1598,
+                "volume_bid": 212,
+                "volume_ask": 186,
+                "trades": 245,
+                "open_interest": 1312,
+                "open_interest_change": 191,
+                "next_day_open_interest": 0,
+                "implied_volatility": "0.745691",
+                "implied_volatility_change": "-0.083657",
+                "delta": "-0.402662"
+            }
+        },
+        {
+            "option": {
+                "id": "opt_LE24AD",
+                "code": "ZM200612P00200000",
+                "ticker": "ZM",
+                "expiration": "2020-06-12",
+                "strike": "200.0",
+                "type": "put"
+            },
+            "price": {
+                "date": "2020-06-09",
+                "close": "3.2",
+                "close_bid": "3.1",
+                "close_ask": "3.3",
+                "volume": 4260,
+                "volume_bid": 1427,
+                "volume_ask": 1870,
+                "trades": 1042,
+                "open_interest": 3142,
+                "open_interest_change": 619,
+                "next_day_open_interest": 0,
+                "implied_volatility": "0.752763",
+                "implied_volatility_change": "-0.066036",
+                "delta": "-0.333581"
+            }
+        },
+        {
+            "option": {
+                "id": "opt_RpbYZ7",
+                "code": "ZM200612P00197500",
+                "ticker": "ZM",
+                "expiration": "2020-06-12",
+                "strike": "197.5",
+                "type": "put"
+            },
+            "price": {
+                "date": "2020-06-09",
+                "close": "2.475",
+                "close_bid": "2.4",
+                "close_ask": "2.55",
+                "volume": 1550,
+                "volume_bid": 149,
+                "volume_ask": 196,
+                "trades": 205,
+                "open_interest": 1725,
+                "open_interest_change": 67,
+                "next_day_open_interest": 0,
+                "implied_volatility": "0.75839",
+                "implied_volatility_change": "-0.078144",
+                "delta": "-0.272091"
+            }
+        },
+        {
+            "option": {
+                "id": "opt_v4VRMN",
+                "code": "ZM200612P00195000",
+                "ticker": "ZM",
+                "expiration": "2020-06-12",
+                "strike": "195.0",
+                "type": "put"
+            },
+            "price": {
+                "date": "2020-06-09",
+                "close": "1.825",
+                "close_bid": "1.75",
+                "close_ask": "1.9",
+                "volume": 1711,
+                "volume_bid": 650,
+                "volume_ask": 446,
+                "trades": 580,
+                "open_interest": 1613,
+                "open_interest_change": 718,
+                "next_day_open_interest": 0,
+                "implied_volatility": "0.77274",
+                "implied_volatility_change": "-0.068948",
+                "delta": "-0.215235"
+            }
+        },
+        {
+            "option": {
+                "id": "opt_kl8NbA",
+                "code": "ZM200612P00192500",
+                "ticker": "ZM",
+                "expiration": "2020-06-12",
+                "strike": "192.5",
+                "type": "put"
+            },
+            "price": {
+                "date": "2020-06-09",
+                "close": "1.325",
+                "close_bid": "1.25",
+                "close_ask": "1.4",
+                "volume": 759,
+                "volume_bid": 235,
+                "volume_ask": 286,
+                "trades": 171,
+                "open_interest": 458,
+                "open_interest_change": 65,
+                "next_day_open_interest": 0,
+                "implied_volatility": "0.76757",
+                "implied_volatility_change": "-0.079348",
+                "delta": "-0.166248"
+            }
+        },
+        {
+            "option": {
+                "id": "opt_W3PEWJ",
+                "code": "ZM200612P00190000",
+                "ticker": "ZM",
+                "expiration": "2020-06-12",
+                "strike": "190.0",
+                "type": "put"
+            },
+            "price": {
+                "date": "2020-06-09",
+                "close": "1.0",
+                "close_bid": "0.9",
+                "close_ask": "1.1",
+                "volume": 1417,
+                "volume_bid": 453,
+                "volume_ask": 539,
+                "trades": 546,
+                "open_interest": 3016,
+                "open_interest_change": 609,
+                "next_day_open_interest": 0,
+                "implied_volatility": "0.799254",
+                "implied_volatility_change": "-0.070194",
+                "delta": "-0.129444"
+            }
+        },
+        {
+            "option": {
+                "id": "opt_JY9Nx6",
+                "code": "ZM200612P00187500",
+                "ticker": "ZM",
+                "expiration": "2020-06-12",
+                "strike": "187.5",
+                "type": "put"
+            },
+            "price": {
+                "date": "2020-06-09",
+                "close": "0.7",
+                "close_bid": "0.65",
+                "close_ask": "0.75",
+                "volume": 359,
+                "volume_bid": 137,
+                "volume_ask": 108,
+                "trades": 122,
+                "open_interest": 624,
+                "open_interest_change": 124,
+                "next_day_open_interest": 0,
+                "implied_volatility": "0.795305",
+                "implied_volatility_change": "-0.07681",
+                "delta": "-0.095933"
+            }
+        },
+        {
+            "option": {
+                "id": "opt_JY4lGq",
+                "code": "ZM200612P00185000",
+                "ticker": "ZM",
+                "expiration": "2020-06-12",
+                "strike": "185.0",
+                "type": "put"
+            },
+            "price": {
+                "date": "2020-06-09",
+                "close": "0.525",
+                "close_bid": "0.45",
+                "close_ask": "0.6",
+                "volume": 471,
+                "volume_bid": 110,
+                "volume_ask": 137,
+                "trades": 209,
+                "open_interest": 1846,
+                "open_interest_change": 491,
+                "next_day_open_interest": 0,
+                "implied_volatility": "0.824454",
+                "implied_volatility_change": "-0.059117",
+                "delta": "-0.07314"
+            }
+        },
+        {
+            "option": {
+                "id": "opt_EVaN8W",
+                "code": "ZM200612P00182500",
+                "ticker": "ZM",
+                "expiration": "2020-06-12",
+                "strike": "182.5",
+                "type": "put"
+            },
+            "price": {
+                "date": "2020-06-09",
+                "close": "0.425",
+                "close_bid": "0.4",
+                "close_ask": "0.45",
+                "volume": 167,
+                "volume_bid": 41,
+                "volume_ask": 16,
+                "trades": 75,
+                "open_interest": 596,
+                "open_interest_change": 255,
+                "next_day_open_interest": 0,
+                "implied_volatility": "0.867663",
+                "implied_volatility_change": "-0.060631",
+                "delta": "-0.058802"
+            }
+        },
+        {
+            "option": {
+                "id": "opt_VlYEL6",
+                "code": "ZM200612P00180000",
+                "ticker": "ZM",
+                "expiration": "2020-06-12",
+                "strike": "180.0",
+                "type": "put"
+            },
+            "price": {
+                "date": "2020-06-09",
+                "close": "0.3",
+                "close_bid": "0.25",
+                "close_ask": "0.35",
+                "volume": 755,
+                "volume_bid": 258,
+                "volume_ask": 252,
+                "trades": 254,
+                "open_interest": 3912,
+                "open_interest_change": 1085,
+                "next_day_open_interest": 0,
+                "implied_volatility": "0.872915",
+                "implied_volatility_change": "-0.097437",
+                "delta": "-0.042899"
+            }
+        },
+        {
+            "option": {
+                "id": "opt_p4nN1L",
+                "code": "ZM200612P00177500",
+                "ticker": "ZM",
+                "expiration": "2020-06-12",
+                "strike": "177.5",
+                "type": "put"
+            },
+            "price": {
+                "date": "2020-06-09",
+                "close": "0.275",
+                "close_bid": "0.2",
+                "close_ask": "0.35",
+                "volume": 172,
+                "volume_bid": 18,
+                "volume_ask": 47,
+                "trades": 46,
+                "open_interest": 686,
+                "open_interest_change": 26,
+                "next_day_open_interest": 0,
+                "implied_volatility": "0.934066",
+                "implied_volatility_change": "-0.046343",
+                "delta": "-0.037355"
+            }
+        },
+        {
+            "option": {
+                "id": "opt_EVZLEE",
+                "code": "ZM200612P00175000",
+                "ticker": "ZM",
+                "expiration": "2020-06-12",
+                "strike": "175.0",
+                "type": "put"
+            },
+            "price": {
+                "date": "2020-06-09",
+                "close": "0.175",
+                "close_bid": "0.15",
+                "close_ask": "0.2",
+                "volume": 337,
+                "volume_bid": 197,
+                "volume_ask": 50,
+                "trades": 94,
+                "open_interest": 1066,
+                "open_interest_change": 127,
+                "next_day_open_interest": 0,
+                "implied_volatility": "0.939743",
+                "implied_volatility_change": "-0.078017",
+                "delta": "-0.02526"
+            }
+        },
+        {
+            "option": {
+                "id": "opt_q12jWq",
+                "code": "ZM200612P00172500",
+                "ticker": "ZM",
+                "expiration": "2020-06-12",
+                "strike": "172.5",
+                "type": "put"
+            },
+            "price": {
+                "date": "2020-06-09",
+                "close": "0.125",
+                "close_bid": "0.1",
+                "close_ask": "0.15",
+                "volume": 179,
+                "volume_bid": 74,
+                "volume_ask": 4,
+                "trades": 43,
+                "open_interest": 416,
+                "open_interest_change": -6,
+                "next_day_open_interest": 0,
+                "implied_volatility": "0.950371",
+                "implied_volatility_change": "-0.083019",
+                "delta": "-0.018369"
+            }
+        },
+        {
+            "option": {
+                "id": "opt_W3P5mj",
+                "code": "ZM200612P00170000",
+                "ticker": "ZM",
+                "expiration": "2020-06-12",
+                "strike": "170.0",
+                "type": "put"
+            },
+            "price": {
+                "date": "2020-06-09",
+                "close": "0.125",
+                "close_bid": "0.1",
+                "close_ask": "0.15",
+                "volume": 281,
+                "volume_bid": 129,
+                "volume_ask": 24,
+                "trades": 73,
+                "open_interest": 1692,
+                "open_interest_change": 85,
+                "next_day_open_interest": 0,
+                "implied_volatility": "1.01777",
+                "implied_volatility_change": "-0.054396",
+                "delta": "-0.017123"
+            }
+        },
+        {
+            "option": {
+                "id": "opt_x4vbAM",
+                "code": "ZM200612P00167500",
+                "ticker": "ZM",
+                "expiration": "2020-06-12",
+                "strike": "167.5",
+                "type": "put"
+            },
+            "price": {
+                "date": "2020-06-09",
+                "close": "0.075",
+                "close_bid": "0.05",
+                "close_ask": "0.1",
+                "volume": 81,
+                "volume_bid": 14,
+                "volume_ask": 33,
+                "trades": 22,
+                "open_interest": 287,
+                "open_interest_change": 62,
+                "next_day_open_interest": 0,
+                "implied_volatility": "1.02936",
+                "implied_volatility_change": "-0.059179",
+                "delta": "-0.010863"
+            }
+        },
+        {
+            "option": {
+                "id": "opt_LE29mO",
+                "code": "ZM200612P00165000",
+                "ticker": "ZM",
+                "expiration": "2020-06-12",
+                "strike": "165.0",
+                "type": "put"
+            },
+            "price": {
+                "date": "2020-06-09",
+                "close": "0.075",
+                "close_bid": "0.05",
+                "close_ask": "0.1",
+                "volume": 170,
+                "volume_bid": 119,
+                "volume_ask": 31,
+                "trades": 40,
+                "open_interest": 943,
+                "open_interest_change": 80,
+                "next_day_open_interest": 0,
+                "implied_volatility": "1.09581",
+                "implied_volatility_change": "0.027574",
+                "delta": "-0.010317"
+            }
+        },
+        {
+            "option": {
+                "id": "opt_JY4Zmq",
+                "code": "ZM200612P00162500",
+                "ticker": "ZM",
+                "expiration": "2020-06-12",
+                "strike": "162.5",
+                "type": "put"
+            },
+            "price": {
+                "date": "2020-06-09",
+                "close": "0.1",
+                "close_bid": "0.05",
+                "close_ask": "0.15",
+                "volume": 14,
+                "volume_bid": 12,
+                "volume_ask": 2,
+                "trades": 10,
+                "open_interest": 260,
+                "open_interest_change": 10,
+                "next_day_open_interest": 0,
+                "implied_volatility": "1.20073",
+                "implied_volatility_change": "0.053557",
+                "delta": "-0.012165"
+            }
+        },
+        {
+            "option": {
+                "id": "opt_Pq7Dmm",
+                "code": "ZM200612P00160000",
+                "ticker": "ZM",
+                "expiration": "2020-06-12",
+                "strike": "160.0",
+                "type": "put"
+            },
+            "price": {
+                "date": "2020-06-09",
+                "close": "0.025",
+                "close_bid": "0.0",
+                "close_ask": "0.05",
+                "volume": 258,
+                "volume_bid": 116,
+                "volume_ask": 45,
+                "trades": 70,
+                "open_interest": 2322,
+                "open_interest_change": -28,
+                "next_day_open_interest": 0,
+                "implied_volatility": "1.08644",
+                "implied_volatility_change": "-0.132991",
+                "delta": "-0.003879"
+            }
+        },
+        {
+            "option": {
+                "id": "opt_q12olq",
+                "code": "ZM200612P00157500",
+                "ticker": "ZM",
+                "expiration": "2020-06-12",
+                "strike": "157.5",
+                "type": "put"
+            },
+            "price": {
+                "date": "2020-06-09",
+                "close": "0.05",
+                "close_bid": "0.0",
+                "close_ask": "0.1",
+                "volume": 21,
+                "volume_bid": 20,
+                "volume_ask": 0,
+                "trades": 3,
+                "open_interest": 172,
+                "open_interest_change": 3,
+                "next_day_open_interest": 0,
+                "implied_volatility": "1.21792",
+                "implied_volatility_change": "-0.055955",
+                "delta": "-0.006303"
+            }
+        },
+        {
+            "option": {
+                "id": "opt_EVZ7rE",
+                "code": "ZM200612P00155000",
+                "ticker": "ZM",
+                "expiration": "2020-06-12",
+                "strike": "155.0",
+                "type": "put"
+            },
+            "price": {
+                "date": "2020-06-09",
+                "close": "0.025",
+                "close_bid": "0.0",
+                "close_ask": "0.05",
+                "volume": 22,
+                "volume_bid": 0,
+                "volume_ask": 3,
+                "trades": 15,
+                "open_interest": 460,
+                "open_interest_change": -3,
+                "next_day_open_interest": 0,
+                "implied_volatility": "1.21332",
+                "implied_volatility_change": "-0.123987",
+                "delta": "-0.003433"
+            }
+        },
+        {
+            "option": {
+                "id": "opt_YNOKQO",
+                "code": "ZM200612P00152500",
+                "ticker": "ZM",
+                "expiration": "2020-06-12",
+                "strike": "152.5",
+                "type": "put"
+            },
+            "price": {
+                "date": "2020-06-09",
+                "close": "0.05",
+                "close_bid": "0.0",
+                "close_ask": "0.1",
+                "volume": 18,
+                "volume_bid": 16,
+                "volume_ask": 0,
+                "trades": 5,
+                "open_interest": 534,
+                "open_interest_change": 34,
+                "next_day_open_interest": 0,
+                "implied_volatility": "1.35454",
+                "implied_volatility_change": "-0.000815",
+                "delta": "-0.005819"
+            }
+        },
+        {
+            "option": {
+                "id": "opt_6PJM2P",
+                "code": "ZM200612P00150000",
+                "ticker": "ZM",
+                "expiration": "2020-06-12",
+                "strike": "150.0",
+                "type": "put"
+            },
+            "price": {
+                "date": "2020-06-09",
+                "close": "0.025",
+                "close_bid": "0.0",
+                "close_ask": "0.05",
+                "volume": 180,
+                "volume_bid": 8,
+                "volume_ask": 155,
+                "trades": 24,
+                "open_interest": 2576,
+                "open_interest_change": 354,
+                "next_day_open_interest": 0,
+                "implied_volatility": "1.33377",
+                "implied_volatility_change": "0.055562",
+                "delta": "-0.003104"
+            }
+        },
+        {
+            "option": {
+                "id": "opt_OJMbQ0",
+                "code": "ZM200612P00149000",
+                "ticker": "ZM",
+                "expiration": "2020-06-12",
+                "strike": "149.0",
+                "type": "put"
+            },
+            "price": {
+                "date": "2020-06-09",
+                "close": "0.075",
+                "close_bid": "0.0",
+                "close_ask": "0.15",
+                "volume": 0,
+                "volume_bid": 0,
+                "volume_ask": 0,
+                "trades": 0,
+                "open_interest": 107,
+                "open_interest_change": -1,
+                "next_day_open_interest": 0,
+                "implied_volatility": "1.51823",
+                "implied_volatility_change": "0.105589",
+                "delta": "-0.00742"
+            }
+        },
+        {
+            "option": {
+                "id": "opt_6PJM2w",
+                "code": "ZM200612P00148000",
+                "ticker": "ZM",
+                "expiration": "2020-06-12",
+                "strike": "148.0",
+                "type": "put"
+            },
+            "price": {
+                "date": "2020-06-09",
+                "close": "0.05",
+                "close_bid": "0.0",
+                "close_ask": "0.1",
+                "volume": 10,
+                "volume_bid": 10,
+                "volume_ask": 0,
+                "trades": 1,
+                "open_interest": 104,
+                "open_interest_change": 43,
+                "next_day_open_interest": 0,
+                "implied_volatility": "1.47448",
+                "implied_volatility_change": "0.135899",
+                "delta": "-0.005237"
+            }
+        },
+        {
+            "option": {
+                "id": "opt_YNOKQY",
+                "code": "ZM200612P00147000",
+                "ticker": "ZM",
+                "expiration": "2020-06-12",
+                "strike": "147.0",
+                "type": "put"
+            },
+            "price": {
+                "date": "2020-06-09",
+                "close": "0.05",
+                "close_bid": "0.0",
+                "close_ask": "0.1",
+                "volume": 2,
+                "volume_bid": 2,
+                "volume_ask": 0,
+                "trades": 1,
+                "open_interest": 62,
+                "open_interest_change": -4,
+                "next_day_open_interest": 0,
+                "implied_volatility": "1.50573",
+                "implied_volatility_change": "0.086809",
+                "delta": "-0.005238"
+            }
+        },
+        {
+            "option": {
+                "id": "opt_JY4Zmw",
+                "code": "ZM200612P00146000",
+                "ticker": "ZM",
+                "expiration": "2020-06-12",
+                "strike": "146.0",
+                "type": "put"
+            },
+            "price": {
+                "date": "2020-06-09",
+                "close": "0.1",
+                "close_bid": "0.0",
+                "close_ask": "0.2",
+                "volume": 0,
+                "volume_bid": 0,
+                "volume_ask": 0,
+                "trades": 0,
+                "open_interest": 47,
+                "open_interest_change": 0,
+                "next_day_open_interest": 0,
+                "implied_volatility": "1.67844",
+                "implied_volatility_change": null,
+                "delta": "-0.008917"
+            }
+        },
+        {
+            "option": {
+                "id": "opt_0VWB28",
+                "code": "ZM200612P00145000",
+                "ticker": "ZM",
+                "expiration": "2020-06-12",
+                "strike": "145.0",
+                "type": "put"
+            },
+            "price": {
+                "date": "2020-06-09",
+                "close": "0.025",
+                "close_bid": "0.0",
+                "close_ask": "0.05",
+                "volume": 20,
+                "volume_bid": 10,
+                "volume_ask": 0,
+                "trades": 6,
+                "open_interest": 137,
+                "open_interest_change": -1,
+                "next_day_open_interest": 0,
+                "implied_volatility": "1.46094",
+                "implied_volatility_change": "-0.015192",
+                "delta": "-0.002852"
+            }
+        },
+        {
+            "option": {
+                "id": "opt_v4VBK6",
+                "code": "ZM200612P00144000",
+                "ticker": "ZM",
+                "expiration": "2020-06-12",
+                "strike": "144.0",
+                "type": "put"
+            },
+            "price": {
+                "date": "2020-06-09",
+                "close": "0.1",
+                "close_bid": "0.0",
+                "close_ask": "0.2",
+                "volume": 0,
+                "volume_bid": 0,
+                "volume_ask": 0,
+                "trades": 0,
+                "open_interest": 133,
+                "open_interest_change": 98,
+                "next_day_open_interest": 0,
+                "implied_volatility": "1.73563",
+                "implied_volatility_change": "0.142337",
+                "delta": "-0.008603"
+            }
+        },
+        {
+            "option": {
+                "id": "opt_W3P5mY",
+                "code": "ZM200612P00143000",
+                "ticker": "ZM",
+                "expiration": "2020-06-12",
+                "strike": "143.0",
+                "type": "put"
+            },
+            "price": {
+                "date": "2020-06-09",
+                "close": "0.075",
+                "close_bid": "0.0",
+                "close_ask": "0.15",
+                "volume": 0,
+                "volume_bid": 0,
+                "volume_ask": 0,
+                "trades": 0,
+                "open_interest": 75,
+                "open_interest_change": 3,
+                "next_day_open_interest": 0,
+                "implied_volatility": "1.69188",
+                "implied_volatility_change": "0.244727",
+                "delta": "-0.006741"
+            }
+        },
+        {
+            "option": {
+                "id": "opt_5YoQME",
+                "code": "ZM200612P00142000",
+                "ticker": "ZM",
+                "expiration": "2020-06-12",
+                "strike": "142.0",
+                "type": "put"
+            },
+            "price": {
+                "date": "2020-06-09",
+                "close": "0.025",
+                "close_bid": "0.0",
+                "close_ask": "0.05",
+                "volume": 0,
+                "volume_bid": 0,
+                "volume_ask": 0,
+                "trades": 0,
+                "open_interest": 49,
+                "open_interest_change": 4,
+                "next_day_open_interest": 0,
+                "implied_volatility": "1.53455",
+                "implied_volatility_change": "0.036676",
+                "delta": "-0.002664"
+            }
+        },
+        {
+            "option": {
+                "id": "opt_oe4ak6",
+                "code": "ZM200612P00141000",
+                "ticker": "ZM",
+                "expiration": "2020-06-12",
+                "strike": "141.0",
+                "type": "put"
+            },
+            "price": {
+                "date": "2020-06-09",
+                "close": "0.075",
+                "close_bid": "0.0",
+                "close_ask": "0.15",
+                "volume": 1,
+                "volume_bid": 1,
+                "volume_ask": 0,
+                "trades": 1,
+                "open_interest": 80,
+                "open_interest_change": 34,
+                "next_day_open_interest": 0,
+                "implied_volatility": "1.75",
+                "implied_volatility_change": "0.23024",
+                "delta": "-0.006505"
+            }
+        },
+        {
+            "option": {
+                "id": "opt_OJMbQ7",
+                "code": "ZM200612P00140000",
+                "ticker": "ZM",
+                "expiration": "2020-06-12",
+                "strike": "140.0",
+                "type": "put"
+            },
+            "price": {
+                "date": "2020-06-09",
+                "close": "0.025",
+                "close_bid": "0.0",
+                "close_ask": "0.05",
+                "volume": 21,
+                "volume_bid": 1,
+                "volume_ask": 0,
+                "trades": 9,
+                "open_interest": 484,
+                "open_interest_change": 0,
+                "next_day_open_interest": 0,
+                "implied_volatility": "1.58768",
+                "implied_volatility_change": "0.031796",
+                "delta": "-0.00258"
+            }
+        },
+        {
+            "option": {
+                "id": "opt_LE29mN",
+                "code": "ZM200612P00139000",
+                "ticker": "ZM",
+                "expiration": "2020-06-12",
+                "strike": "139.0",
+                "type": "put"
+            },
+            "price": {
+                "date": "2020-06-09",
+                "close": "0.025",
+                "close_bid": "0.0",
+                "close_ask": "0.05",
+                "volume": 0,
+                "volume_bid": 0,
+                "volume_ask": 0,
+                "trades": 0,
+                "open_interest": 22,
+                "open_interest_change": 0,
+                "next_day_open_interest": 0,
+                "implied_volatility": "1.61451",
+                "implied_volatility_change": null,
+                "delta": "-0.00254"
+            }
+        },
+        {
+            "option": {
+                "id": "opt_q12ol5",
+                "code": "ZM200612P00138000",
+                "ticker": "ZM",
+                "expiration": "2020-06-12",
+                "strike": "138.0",
+                "type": "put"
+            },
+            "price": {
+                "date": "2020-06-09",
+                "close": "0.025",
+                "close_bid": "0.0",
+                "close_ask": "0.05",
+                "volume": 2,
+                "volume_bid": 0,
+                "volume_ask": 2,
+                "trades": 1,
+                "open_interest": 28,
+                "open_interest_change": -1,
+                "next_day_open_interest": 0,
+                "implied_volatility": "1.65201",
+                "implied_volatility_change": "0.066316",
+                "delta": "-0.002607"
+            }
+        },
+        {
+            "option": {
+                "id": "opt_v4VBKw",
+                "code": "ZM200612P00137000",
+                "ticker": "ZM",
+                "expiration": "2020-06-12",
+                "strike": "137.0",
+                "type": "put"
+            },
+            "price": {
+                "date": "2020-06-09",
+                "close": "0.025",
+                "close_bid": "0.0",
+                "close_ask": "0.05",
+                "volume": 0,
+                "volume_bid": 0,
+                "volume_ask": 0,
+                "trades": 0,
+                "open_interest": 33,
+                "open_interest_change": 2,
+                "next_day_open_interest": 0,
+                "implied_volatility": "1.67701",
+                "implied_volatility_change": "0.174246",
+                "delta": "-0.002545"
+            }
+        },
+        {
+            "option": {
+                "id": "opt_EVZ7r1",
+                "code": "ZM200612P00136000",
+                "ticker": "ZM",
+                "expiration": "2020-06-12",
+                "strike": "136.0",
+                "type": "put"
+            },
+            "price": {
+                "date": "2020-06-09",
+                "close": "0.025",
+                "close_bid": "0.0",
+                "close_ask": "0.05",
+                "volume": 0,
+                "volume_bid": 0,
+                "volume_ask": 0,
+                "trades": 0,
+                "open_interest": 65,
+                "open_interest_change": 0,
+                "next_day_open_interest": 0,
+                "implied_volatility": "1.70201",
+                "implied_volatility_change": null,
+                "delta": "-0.002482"
+            }
+        },
+        {
+            "option": {
+                "id": "opt_Gvm161",
+                "code": "ZM200612P00135000",
+                "ticker": "ZM",
+                "expiration": "2020-06-12",
+                "strike": "135.0",
+                "type": "put"
+            },
+            "price": {
+                "date": "2020-06-09",
+                "close": "0.025",
+                "close_bid": "0.0",
+                "close_ask": "0.05",
+                "volume": 10,
+                "volume_bid": 0,
+                "volume_ask": 0,
+                "trades": 1,
+                "open_interest": 152,
+                "open_interest_change": 19,
+                "next_day_open_interest": 0,
+                "implied_volatility": "1.72952",
+                "implied_volatility_change": "0.069935",
+                "delta": "-0.002443"
+            }
+        },
+        {
+            "option": {
+                "id": "opt_VlY6mJ",
+                "code": "ZM200612P00134000",
+                "ticker": "ZM",
+                "expiration": "2020-06-12",
+                "strike": "134.0",
+                "type": "put"
+            },
+            "price": {
+                "date": "2020-06-09",
+                "close": "0.025",
+                "close_bid": "0.0",
+                "close_ask": "0.05",
+                "volume": 1,
+                "volume_bid": 0,
+                "volume_ask": 1,
+                "trades": 1,
+                "open_interest": 38,
+                "open_interest_change": 0,
+                "next_day_open_interest": 0,
+                "implied_volatility": "1.75201",
+                "implied_volatility_change": null,
+                "delta": "-0.002355"
+            }
+        },
+        {
+            "option": {
+                "id": "opt_PqlbvE",
+                "code": "ZM200612P00133000",
+                "ticker": "ZM",
+                "expiration": "2020-06-12",
+                "strike": "133.0",
+                "type": "put"
+            },
+            "price": {
+                "date": "2020-06-09",
+                "close": "0.025",
+                "close_bid": "0.0",
+                "close_ask": "0.05",
+                "volume": 0,
+                "volume_bid": 0,
+                "volume_ask": 0,
+                "trades": 0,
+                "open_interest": 0,
+                "open_interest_change": 0,
+                "next_day_open_interest": 0,
+                "implied_volatility": "1.79081",
+                "implied_volatility_change": null,
+                "delta": "-0.00242"
+            }
+        },
+        {
+            "option": {
+                "id": "opt_oeP92Z",
+                "code": "ZM200612P00132000",
+                "ticker": "ZM",
+                "expiration": "2020-06-12",
+                "strike": "132.0",
+                "type": "put"
+            },
+            "price": {
+                "date": "2020-06-09",
+                "close": "0.025",
+                "close_bid": "0.0",
+                "close_ask": "0.05",
+                "volume": 0,
+                "volume_bid": 0,
+                "volume_ask": 0,
+                "trades": 0,
+                "open_interest": 0,
+                "open_interest_change": 0,
+                "next_day_open_interest": 0,
+                "implied_volatility": "1.81581",
+                "implied_volatility_change": null,
+                "delta": "-0.002355"
+            }
+        },
+        {
+            "option": {
+                "id": "opt_W386EV",
+                "code": "ZM200612P00131000",
+                "ticker": "ZM",
+                "expiration": "2020-06-12",
+                "strike": "131.0",
+                "type": "put"
+            },
+            "price": {
+                "date": "2020-06-09",
+                "close": "0.025",
+                "close_bid": "0.0",
+                "close_ask": "0.05",
+                "volume": 0,
+                "volume_bid": 0,
+                "volume_ask": 0,
+                "trades": 0,
+                "open_interest": 0,
+                "open_interest_change": 0,
+                "next_day_open_interest": 0,
+                "implied_volatility": "1.84081",
+                "implied_volatility_change": null,
+                "delta": "-0.002289"
+            }
+        },
+        {
+            "option": {
+                "id": "opt_EVZLaB",
+                "code": "ZM200612P00130000",
+                "ticker": "ZM",
+                "expiration": "2020-06-12",
+                "strike": "130.0",
+                "type": "put"
+            },
+            "price": {
+                "date": "2020-06-09",
+                "close": "0.025",
+                "close_bid": "0.0",
+                "close_ask": "0.05",
+                "volume": 1,
+                "volume_bid": 0,
+                "volume_ask": 1,
+                "trades": 1,
+                "open_interest": 250,
+                "open_interest_change": -11,
+                "next_day_open_interest": 0,
+                "implied_volatility": "1.86518",
+                "implied_volatility_change": "0.219357",
+                "delta": "-0.002217"
+            }
+        },
+        {
+            "option": {
+                "id": "opt_6PAVDj",
+                "code": "ZM200612P00129000",
+                "ticker": "ZM",
+                "expiration": "2020-06-12",
+                "strike": "129.0",
+                "type": "put"
+            },
+            "price": {
+                "date": "2020-06-09",
+                "close": "0.025",
+                "close_bid": "0.0",
+                "close_ask": "0.05",
+                "volume": 0,
+                "volume_bid": 0,
+                "volume_ask": 0,
+                "trades": 0,
+                "open_interest": 0,
+                "open_interest_change": 0,
+                "next_day_open_interest": 0,
+                "implied_volatility": "1.9053",
+                "implied_volatility_change": null,
+                "delta": "-0.002282"
+            }
+        },
+        {
+            "option": {
+                "id": "opt_v4peR8",
+                "code": "ZM200612P00128000",
+                "ticker": "ZM",
+                "expiration": "2020-06-12",
+                "strike": "128.0",
+                "type": "put"
+            },
+            "price": {
+                "date": "2020-06-09",
+                "close": "0.025",
+                "close_bid": "0.0",
+                "close_ask": "0.05",
+                "volume": 0,
+                "volume_bid": 0,
+                "volume_ask": 0,
+                "trades": 0,
+                "open_interest": 0,
+                "open_interest_change": 0,
+                "next_day_open_interest": 0,
+                "implied_volatility": "1.9303",
+                "implied_volatility_change": null,
+                "delta": "-0.002214"
+            }
+        },
+        {
+            "option": {
+                "id": "opt_JYqMlV",
+                "code": "ZM200612P00127000",
+                "ticker": "ZM",
+                "expiration": "2020-06-12",
+                "strike": "127.0",
+                "type": "put"
+            },
+            "price": {
+                "date": "2020-06-09",
+                "close": "0.025",
+                "close_bid": "0.0",
+                "close_ask": "0.05",
+                "volume": 0,
+                "volume_bid": 0,
+                "volume_ask": 0,
+                "trades": 0,
+                "open_interest": 0,
+                "open_interest_change": 0,
+                "next_day_open_interest": 0,
+                "implied_volatility": "1.9553",
+                "implied_volatility_change": null,
+                "delta": "-0.002145"
+            }
+        },
+        {
+            "option": {
+                "id": "opt_OJM67K",
+                "code": "ZM200612P00125000",
+                "ticker": "ZM",
+                "expiration": "2020-06-12",
+                "strike": "125.0",
+                "type": "put"
+            },
+            "price": {
+                "date": "2020-06-09",
+                "close": "0.025",
+                "close_bid": "0.0",
+                "close_ask": "0.05",
+                "volume": 0,
+                "volume_bid": 0,
+                "volume_ask": 0,
+                "trades": 0,
+                "open_interest": 296,
+                "open_interest_change": 0,
+                "next_day_open_interest": 0,
+                "implied_volatility": "2.00691",
+                "implied_volatility_change": "0.170637",
+                "delta": "-0.002022"
+            }
+        },
+        {
+            "option": {
+                "id": "opt_6PJDqG",
+                "code": "ZM200612P00120000",
+                "ticker": "ZM",
+                "expiration": "2020-06-12",
+                "strike": "120.0",
+                "type": "put"
+            },
+            "price": {
+                "date": "2020-06-09",
+                "close": "0.025",
+                "close_bid": "0.0",
+                "close_ask": "0.05",
+                "volume": 0,
+                "volume_bid": 0,
+                "volume_ask": 0,
+                "trades": 0,
+                "open_interest": 209,
+                "open_interest_change": -2,
+                "next_day_open_interest": 0,
+                "implied_volatility": "2.15969",
+                "implied_volatility_change": "0.359333",
+                "delta": "-0.001885"
+            }
+        },
+        {
+            "option": {
+                "id": "opt_Pq7v3Y",
+                "code": "ZM200612P00115000",
+                "ticker": "ZM",
+                "expiration": "2020-06-12",
+                "strike": "115.0",
+                "type": "put"
+            },
+            "price": {
+                "date": "2020-06-09",
+                "close": "0.025",
+                "close_bid": "0.0",
+                "close_ask": "0.05",
+                "volume": 0,
+                "volume_bid": 0,
+                "volume_ask": 0,
+                "trades": 0,
+                "open_interest": 647,
+                "open_interest_change": 0,
+                "next_day_open_interest": 0,
+                "implied_volatility": "2.32218",
+                "implied_volatility_change": null,
+                "delta": "-0.001783"
+            }
+        },
+        {
+            "option": {
+                "id": "opt_OJM6l7",
+                "code": "ZM200612P00110000",
+                "ticker": "ZM",
+                "expiration": "2020-06-12",
+                "strike": "110.0",
+                "type": "put"
+            },
+            "price": {
+                "date": "2020-06-09",
+                "close": "0.025",
+                "close_bid": "0.0",
+                "close_ask": "0.05",
+                "volume": 0,
+                "volume_bid": 0,
+                "volume_ask": 0,
+                "trades": 0,
+                "open_interest": 235,
+                "open_interest_change": 0,
+                "next_day_open_interest": 0,
+                "implied_volatility": "2.48673",
+                "implied_volatility_change": null,
+                "delta": "-0.001655"
+            }
+        },
+        {
+            "option": {
+                "id": "opt_q12eGq",
+                "code": "ZM200612P00105000",
+                "ticker": "ZM",
+                "expiration": "2020-06-12",
+                "strike": "105.0",
+                "type": "put"
+            },
+            "price": {
+                "date": "2020-06-09",
+                "close": "0.025",
+                "close_bid": "0.0",
+                "close_ask": "0.05",
+                "volume": 0,
+                "volume_bid": 0,
+                "volume_ask": 0,
+                "trades": 0,
+                "open_interest": 110,
+                "open_interest_change": -4,
+                "next_day_open_interest": 0,
+                "implied_volatility": "2.6678",
+                "implied_volatility_change": "0.53889",
+                "delta": "-0.001589"
+            }
+        },
+        {
+            "option": {
+                "id": "opt_YNO85G",
+                "code": "ZM200612P00100000",
+                "ticker": "ZM",
+                "expiration": "2020-06-12",
+                "strike": "100.0",
+                "type": "put"
+            },
+            "price": {
+                "date": "2020-06-09",
+                "close": "0.025",
+                "close_bid": "0.0",
+                "close_ask": "0.05",
+                "volume": 9,
+                "volume_bid": 0,
+                "volume_ask": 0,
+                "trades": 5,
+                "open_interest": 270,
+                "open_interest_change": -8,
+                "next_day_open_interest": 0,
+                "implied_volatility": "2.84551",
+                "implied_volatility_change": "0.196771",
+                "delta": "-0.001461"
+            }
+        },
+        {
+            "option": {
+                "id": "opt_oe42JN",
+                "code": "ZM200612P00095000",
+                "ticker": "ZM",
+                "expiration": "2020-06-12",
+                "strike": "95.0",
+                "type": "put"
+            },
+            "price": {
+                "date": "2020-06-09",
+                "close": "0.025",
+                "close_bid": "0.0",
+                "close_ask": "0.05",
+                "volume": 0,
+                "volume_bid": 0,
+                "volume_ask": 0,
+                "trades": 0,
+                "open_interest": 146,
+                "open_interest_change": 0,
+                "next_day_open_interest": 0,
+                "implied_volatility": "3.0385",
+                "implied_volatility_change": null,
+                "delta": "-0.001373"
+            }
+        },
+        {
+            "option": {
+                "id": "opt_YNO8mO",
+                "code": "ZM200612P00090000",
+                "ticker": "ZM",
+                "expiration": "2020-06-12",
+                "strike": "90.0",
+                "type": "put"
+            },
+            "price": {
+                "date": "2020-06-09",
+                "close": "0.025",
+                "close_bid": "0.0",
+                "close_ask": "0.05",
+                "volume": 0,
+                "volume_bid": 0,
+                "volume_ask": 0,
+                "trades": 0,
+                "open_interest": 41,
+                "open_interest_change": -10,
+                "next_day_open_interest": 0,
+                "implied_volatility": "3.25105",
+                "implied_volatility_change": "0.240413",
+                "delta": "-0.001329"
+            }
+        },
+        {
+            "option": {
+                "id": "opt_W3PEZj",
+                "code": "ZM200612P00085000",
+                "ticker": "ZM",
+                "expiration": "2020-06-12",
+                "strike": "85.0",
+                "type": "put"
+            },
+            "price": {
+                "date": "2020-06-09",
+                "close": "0.025",
+                "close_bid": "0.0",
+                "close_ask": "0.05",
+                "volume": 0,
+                "volume_bid": 0,
+                "volume_ask": 0,
+                "trades": 0,
+                "open_interest": 238,
+                "open_interest_change": 0,
+                "next_day_open_interest": 0,
+                "implied_volatility": "3.46094",
+                "implied_volatility_change": null,
+                "delta": "-0.001226"
+            }
+        },
+        {
+            "option": {
+                "id": "opt_LE24xN",
+                "code": "ZM200612P00080000",
+                "ticker": "ZM",
+                "expiration": "2020-06-12",
+                "strike": "80.0",
+                "type": "put"
+            },
+            "price": {
+                "date": "2020-06-09",
+                "close": "0.025",
+                "close_bid": "0.0",
+                "close_ask": "0.05",
+                "volume": 0,
+                "volume_bid": 0,
+                "volume_ask": 0,
+                "trades": 0,
+                "open_interest": 9,
+                "open_interest_change": 0,
+                "next_day_open_interest": 0,
+                "implied_volatility": "3.69609",
+                "implied_volatility_change": null,
+                "delta": "-0.001175"
+            }
+        },
+        {
+            "option": {
+                "id": "opt_oe42Bn",
+                "code": "ZM200612P00075000",
+                "ticker": "ZM",
+                "expiration": "2020-06-12",
+                "strike": "75.0",
+                "type": "put"
+            },
+            "price": {
+                "date": "2020-06-09",
+                "close": "0.025",
+                "close_bid": "0.0",
+                "close_ask": "0.05",
+                "volume": 0,
+                "volume_bid": 0,
+                "volume_ask": 0,
+                "trades": 0,
+                "open_interest": 31,
+                "open_interest_change": 0,
+                "next_day_open_interest": 0,
+                "implied_volatility": "3.92013",
+                "implied_volatility_change": null,
+                "delta": "-0.001039"
+            }
+        },
+        {
+            "option": {
+                "id": "opt_v4VRlw",
+                "code": "ZM200612P00070000",
+                "ticker": "ZM",
+                "expiration": "2020-06-12",
+                "strike": "70.0",
+                "type": "put"
+            },
+            "price": {
+                "date": "2020-06-09",
+                "close": "0.025",
+                "close_bid": "0.0",
+                "close_ask": "0.05",
+                "volume": 0,
+                "volume_bid": 0,
+                "volume_ask": 0,
+                "trades": 0,
+                "open_interest": 124,
+                "open_interest_change": 0,
+                "next_day_open_interest": 0,
+                "implied_volatility": "4.2",
+                "implied_volatility_change": "0.44299",
+                "delta": "-0.001031"
+            }
+        }
+    ]
+}
