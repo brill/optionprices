@@ -16,6 +16,7 @@ public class Driver {
         File f = new File(filePath);
         List<String> stockFilePaths = new ArrayList<String>();
         List<String> expirationDates = new ArrayList<>();
+
         String[] listOfFiles = f.list();
         for (String fileName : listOfFiles) {
             stockFilePaths.add(filePath + "/" + fileName);
